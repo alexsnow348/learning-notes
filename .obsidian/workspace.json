@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "78fe27af5dcdfc13",
+    "type": "split",
+    "children": [
+      {
+        "id": "904c42adfb087ba2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6e1e9af72c22984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-notes/blockchain-and-web3-notes/basic/Bitcoin White Paper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d66031c330110909",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfbd87ed0f0bda5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30a48bf1d3e4c10b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "9cc1ecf7f93eb87d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9de6b2be69b898bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32692530b530e29f",
+    "type": "split",
+    "children": [
+      {
+        "id": "854cfaa244575af2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e608860c8e528138",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "learning-notes/blockchain-and-web3-notes/basic/Bitcoin White Paper.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51bd9715d90af75f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "learning-notes/blockchain-and-web3-notes/basic/Bitcoin White Paper.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d4a2ff689a7e393",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d810f3ee7a2ac7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "learning-notes/blockchain-and-web3-notes/basic/Bitcoin White Paper.md"
+              }
+            }
+          },
+          {
+            "id": "e7e2b612ef3e6081",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "30a48bf1d3e4c10b",
+  "lastOpenFiles": [
+    "learning-notes/machine-learning-and-ai-notes/math/Probability & Statistics.md",
+    "learning-notes/deutsch-lernen/grammar-notes/Grammar rules.md",
+    "learning-notes/machine-learning-and-ai-notes/README.md",
+    "learning-notes/README.md",
+    "README.md",
+    "machine-learning-and-ai-notes/README.md",
+    "learning-notes/deutsch-lernen/pronunciation-notes/pronunciation related notes.md",
+    "learning-notes/deutsch-lernen/pronunciation-notes",
+    "learning-notes/deutsch-lernen/README.md",
+    "learning-notes/deutsch-lernen/grammar-notes",
+    "learning-notes/deutsch-lernen",
+    "learning-notes/burmese-books-notes/book-list/ရဲရဲတောက်မြန်မာလုပ်ငန်းရှင်များ အကြောင်း.md",
+    "learning-notes/burmese-books-notes/canvas.canvas",
+    "learning-notes/burmese-books-notes/book-list",
+    "learning-notes/burmese-books-notes/README.md",
+    "learning-notes/burmese-books-notes",
+    "learning-notes/machine-learning-and-ai-notes/text-book",
+    "learning-notes/machine-learning-and-ai-notes/math",
+    "learning-notes/machine-learning-and-ai-notes",
+    "learning-notes/blockchain-and-web3-notes/basic/Bitcoin White Paper.md",
+    "learning-notes/blockchain-and-web3-notes/basic",
+    "learning-notes/blockchain-and-web3-notes/README.md",
+    "learning-notes/blockchain-and-web3-notes",
+    "deutsch-lernen/README.md",
+    "blockchain-and-web3-notes/README.md",
+    "burmese-books-notes/README.md",
+    "burmese-books-notes/book-list/ရဲရဲတောက်မြန်မာလုပ်ငန်းရှင်များ အကြောင်း.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "2023-07-31.md",
+    "burmese-books-notes/canvas.canvas",
+    "deutsch-lernen/pronunciation-notes/pronunciation related notes.md",
+    "deutsch-lernen/grammar-notes/Grammar rules.md",
+    "Blockchain/Bitcoin White Paper.md",
+    "blockchain-and-web3-notes/basic/Bitcoin White Paper.md",
+    "machine-learning-and-ai-notes/math/Mathematics for Machine Learning.md",
+    "ML - AI/Mathematics for Machine Learning.md",
+    "2023-07-22.md",
+    "ရဲရဲတောက်မြန်မာလုပ်ငန်းရှင်များ အကြောင်း.md"
+  ]
+}

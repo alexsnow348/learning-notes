@@ -1,3 +1,7 @@
+# learning-notes
+
+All the learning notes related to my interests such as ml, ai, blockchain, deutsch and burmese language 
+
 မင်္ဂလာပါ။
 
 ဒီ repo မှာ လေ့လာ ခဲ့သမျှ

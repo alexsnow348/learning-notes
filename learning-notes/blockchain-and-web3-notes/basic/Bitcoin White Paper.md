@@ -1,2 +1,3 @@
 Bitcoin white paper ကို နာလည် သလို ပြန်ပြီး ရေးထားပါတယ်။
-
+![[bitcoin-whitepaper.pdf]]
+![[Document.pdf]]

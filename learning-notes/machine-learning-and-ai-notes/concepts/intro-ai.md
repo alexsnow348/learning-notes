@@ -35,10 +35,22 @@
 - IBM Deep Blue (1987, 1997)
 	- 1997 မှာ win two games and draw three games - AI အတွက် မှတ်တိုင်း တစ်ခု ဖြစ်လာ။
 - 2005 - Moore's Law ( machines with human-level intelligence will appear by 2029)
-- 2006 - Geoffrey Hinton coins "deep learning" - to explain new algorithms that empower computers to distinguish objects and images and video. 
-- 2008 - iPhone Siri introduced voice recognition စလုပ်
+- 2006 - Geoffrey Hinton coins "deep learning" - to explain new algorithms that empower computers to distinguish objects and images and video - စတင် ခွဲခြားလာနိုင်။
+- 2008 - iPhone Siri introduced voice recognition စလုပ်။
 - 2012 October - **ImageNet** Large Scale Visual Recognition - **16% error rate** - **AlexNet** CNN - နောက်ထပ် မှတ်တိုင်း တစ်ခု ဖြစ်လာ။
 - 2014 - Generative Adversarial Networks (GANs) - Ian Goodfellow
-- 2016 - AlphaGo ကို ကွန်ပျူတာက အနိုင်ရ
-- 2017 - Tansformers and 
+- 2016 - AlphaGo ကို ကွန်ပျူတာက အနိုင်ရ။
+- 2017 - Transformers and Natural Language Processing စတင် မှုတွေဖြစ်လာ။
+- 2018 - Year of AI (Tesla မောင်းသူမဲ့ကား, Nvidia GPU cloud, stable framework. etc..)
 
+**AI က ဘာလို အခုလို မြန်မြန်စမ်စမ် တိုးတက်မှု ရှိလားတာလဲ။**
+
+- ၂၀၁၂ မှာ Prof Le Cunn and Prof Hinton က 98.6% accuracy for face recognition using Neural Networks ကို ရရှိ။
+- NVIDIA - က Neural Network အတွက် သီးသန့် GPU တွေ ထုတ်လာတယ်။
+
+ခုလောလောဆယ် ခေတ်စားနေတဲ့ AI trends 
+
+- Generative/Creative AI
+- Neural Architecture Search
+- Deep Reinforcement Learning
+- 

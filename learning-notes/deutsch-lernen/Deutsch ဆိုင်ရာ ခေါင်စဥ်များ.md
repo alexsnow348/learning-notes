@@ -5,3 +5,11 @@
 မိမိ တို့ စိတ်ဝင်စားတဲ့ အကြောင်းအရာများကို စိတ်ကြိုက် ကူယူ ဖော်ပြခွင့်ပြုထားပါတယ်နော်။
 
 ကျေးဇူးပါ။
+
+ခေါင်စဥ်များ
+
+* [[gender-rule]]
+* [[pronunciation]]
+* [[personalpronomen-nominativ]]
+* [[daily-learning-notes]]
+* 

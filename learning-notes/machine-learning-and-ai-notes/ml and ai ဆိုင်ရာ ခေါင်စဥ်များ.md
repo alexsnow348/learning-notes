@@ -8,5 +8,12 @@
 
 __ခေါင်စဥ်များ__
 
-- [[tensorflow]]
-- 
+- **Concepts ဆိုင်ရာ ခေါင်စဥ်များ** 
+	- [[intro-ai]]
+
+-  **Programming ဆိုင်ရာ ခေါင်စဥ်များ**
+	* [[tensorflow]]
+	
+- **Math ဆိုင်ရာ ခေါင်စဥ်များ**
+	- [[probability-and-statistics]]
+	- 

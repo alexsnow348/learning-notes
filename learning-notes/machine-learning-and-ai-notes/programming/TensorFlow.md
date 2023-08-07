@@ -9,14 +9,13 @@ TensorFlow cheatsheet သဘောမျိုး အနေဖြင့် ပ�
 - ဥပမာ - Matrix ​တွေဟာ 2 Dimensional Tensor ပါပဲ ။
 - Tensor ​တွေမှာ 3D, 4D, 5D... စသဖြင့် Dimension အများကြီးရှိနိုင်ပါတယ် ။
 
-![[tensor.png]]
-
-
 **Tensor ပါတဲ့  attributes  ၃ ခု** 
 
 1. number of axes (rank) : (x.ndim) =  a 3d tensor has 3 axes and a matrix has 2 axes
 2. Shape : (x.shape) = Tensor ၁ ခု ၏ axis ၁ခုချင်းစီတွင် ရှိသည့် element အ​ရေအတွက်ကို​ဖော်ပြသည်။
 3. Data type : (x.dtype) = Tensor တွင်ပါရှိသည့် element များ၏ data type ကို​ဖော်ပြသည်။ float32, unit8, float64, etc
+
+![[tensor.png]]
 
 
 **အခြေခံများ**
@@ -36,3 +35,11 @@ TensorFlow cheatsheet သဘောမျိုး အနေဖြင့် ပ�
 - x.ndim – Tensor ၁ ခုတွင်ရှိသည့် axis (သို့) dimension အ​ရေအတွက်ကို​ဖော်ပြသည်။
 - x.shape – Tensor ၁ ခု ၏ shape ကို​ဖော်ပြသည်။
 
+```python
+import tensorflow as tf
+numpy_array = [1,2,3,4]
+numpy_to_tensor = tf.convert_to_tensor(numpy_array, dtype=tf.int32)
+numpy_to_tensor.size
+numpy_to_tensor.ndim
+numpy_to_tensor.shape
+```

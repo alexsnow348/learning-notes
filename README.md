@@ -15,3 +15,10 @@
 ကျေးဇူးပါ။
 
 
+Markdown ကနေ docx  ကို ပြောင်မယ်ဆိုရင် -  in MacOS
+
+- [pandoc](https://pandoc.org/installing.html) ကို install လုပ်ထားဖို့ လိုအပ်ပါတယ်။
+
+```bash
+pandoc -o output.docx -f markdown -t docx filename.md
+```

@@ -48,9 +48,26 @@
 - ၂၀၁၂ မှာ Prof Le Cunn and Prof Hinton က 98.6% accuracy for face recognition using Neural Networks ကို ရရှိ။
 - NVIDIA - က Neural Network အတွက် သီးသန့် GPU တွေ ထုတ်လာတယ်။
 
-ခုလောလောဆယ် ခေတ်စားနေတဲ့ AI trends 
+**ခုလောလောဆယ် ခေတ်စားနေတဲ့ AI trends** 
 
 - Generative/Creative AI
 - Neural Architecture Search
 - Deep Reinforcement Learning
-- 
+
+**AI Terminology များ**
+
+- Agent - ဆုံဖြတ်ချက်တွေ ချပြီး လုပ်ဆောင်သူ။
+- AI system - AI သုံးပြီး အဖြေရှာတဲ့ system တစ်ခုဖြစ်ပါတယ်။
+- Training data - ကွန်ပြူတာကို လေ့လာခိုင်ဖို့ လိုအပ်တဲ့ ဥပမာ များ 
+- Training - ကွန်ပြူတာကို လေ့လာခိုင်နေတာမျိုး - patterns တွေဖြစ်ဖြစ်, anomalies တွေ ဖြစ်ဖြစ်
+- Supervised learning - အဖြေမှန်ကို ပြပြီး လေ့လာခိုင်ခြင်း။ (regression, classification)
+- Unsupervised learning - အဖြေမှန်ကို မပြထားပဲ လေ့လာခိုင်ခြင်း။ (clustering)
+- Reinforcement learning - rewards/ 
+- Training algorithm/ optimiser
+- Backpropagation
+- Epoch
+- Fit
+- Loss Function
+- Cognitive computing
+- Computer Vision
+- Data mining 

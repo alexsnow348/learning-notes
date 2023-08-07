@@ -62,12 +62,10 @@
 - Training - ကွန်ပြူတာကို လေ့လာခိုင်နေတာမျိုး - patterns တွေဖြစ်ဖြစ်, anomalies တွေ ဖြစ်ဖြစ်
 - Supervised learning - အဖြေမှန်ကို ပြပြီး လေ့လာခိုင်ခြင်း။ (regression, classification)
 - Unsupervised learning - အဖြေမှန်ကို မပြထားပဲ လေ့လာခိုင်ခြင်း။ (clustering)
-- Reinforcement learning - rewards/ 
-- Training algorithm/ optimiser
-- Backpropagation
-- Epoch
-- Fit
-- Loss Function
-- Cognitive computing
-- Computer Vision
-- Data mining 
+- Reinforcement learning - agent ကို လုပ်ဆောင်ချက် မှန်ရင် rewards ပေးပြီ၊ လုပ်ဆောင်ချက်မှားရင် penalty ပေးခြင် ဖြင့်လေ့လာခိုင်။
+-  Backpropagation - 
+- Training algorithm/ optimiser - အကောင်းဆုံး (error ပမာဏ အနည်းဆုံး) ကို ရှာပေးနိုင်တဲ့ optimiser
+- Epoch - data တွေ အားလုံး တစ်ခေါက် လေ့လာပြီပြီး ဆိုတဲ့ အခြေအနေကို ခေါ်။
+- Fit - training လုပ်နေတာကို ခေါ်တာဖြစ်တယ်။
+- Loss Function - အမှန်နဲ့ model က ထွက်ပေးလာတဲ့ ရလဒ်တွေကို error တွေကို အားလုံးပေါင်းပေးထားတဲ့ function များ
+- Computer Vision - image တွေ video တွေကို အဓိက ထားပြီး ကွန်ပြူတာကို vision ဆိုင်ရာ ပြဿနာတွေကို အဖြေရှာခိုင်ခြင်။

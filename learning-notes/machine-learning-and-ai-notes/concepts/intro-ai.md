@@ -27,12 +27,18 @@
 - Adaptive linear unit (adaline) - 1960
 	- Linear neuron network ကို စသုံး
 - Perceptrons - 1969
-	- limitation for XOR functions (non-linear function)
+	- limitation for XOR functions (non-linear function) - XOR ကို မဖြေးရှင်နိုင်
 - Knowledge based system (1969 -1979)
 	- ပညာရှင်များက rules တွေကို အဓိက ဖန်းတီပေးထားသည်။ ဆေးပညာနယ်ပယ်မှာ အသုံးများတယ်။ 
 - Return to Neural Networks (1986)
-	- backpropagation - learning capabilities  မှာ အများဆုံး သုံး
-- Deep Blue (1987, 1997)
+	- **backpropagation** - learning capabilities  မှာ အများဆုံး သုံး
+- IBM Deep Blue (1987, 1997)
 	- 1997 မှာ win two games and draw three games - AI အတွက် မှတ်တိုင်း တစ်ခု ဖြစ်လာ။
-	- 
+- 2005 - Moore's Law ( machines with human-level intelligence will appear by 2029)
+- 2006 - Geoffrey Hinton coins "deep learning" - to explain new algorithms that empower computers to distinguish objects and images and video. 
+- 2008 - iPhone Siri introduced voice recognition စလုပ်
+- 2012 October - **ImageNet** Large Scale Visual Recognition - **16% error rate** - **AlexNet** CNN - နောက်ထပ် မှတ်တိုင်း တစ်ခု ဖြစ်လာ။
+- 2014 - Generative Adversarial Networks (GANs) - Ian Goodfellow
+- 2016 - AlphaGo ကို ကွန်ပျူတာက အနိုင်ရ
+- 2017 - Tansformers and 
 

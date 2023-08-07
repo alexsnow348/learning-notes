@@ -8,5 +8,5 @@
 
 __ခေါင်စဥ်များ__
 
-- [[TensorFlow]]
+- [[tensorflow]]
 - 

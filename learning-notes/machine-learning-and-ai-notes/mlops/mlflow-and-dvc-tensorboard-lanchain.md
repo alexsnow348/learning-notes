@@ -10,7 +10,7 @@ MLflow က ဆိုရင် platform acoustics ဖြစ်ပါတယ်။
  - Project - docker or conda ကို ပြီး manage လုပ်နိုင်သည်။
  - Model Registry
 
-
+https://www.sicara.fr/blog-technique/dvc-pipeline-runs-mlflow
 DVC - Data Version Control
 --------
 - A way to manage data version similar to git

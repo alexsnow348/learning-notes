@@ -56,7 +56,7 @@ Type of AI algorithm - အခြေခံ အမျိုးအစားမျ�
 - Probability based
 	- Baysesian algorithms
 
-ဘယ်တုန်က ဘယ် algorithm နဲ့ Architecture တွေ ထွက်ခဲ့သလဲ။
+AI အတွက် ဘယ်တုန်က ဘာ algorithm နဲ့ Architecture တွေ ထွက်ခဲ့သလဲ?
 ----
 
 ![[when-algorithm-come-out.png]]

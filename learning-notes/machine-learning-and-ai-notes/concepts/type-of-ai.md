@@ -60,3 +60,14 @@ Type of AI algorithm - အခြေခံ အမျိုးအစားမျ�
 ----
 
 ![[when-algorithm-come-out.png]]
+
+algorithm တွေကို ပိုမို နာလည်းဖို့ဆို အကောင်းဆုံးကတော့ သင်္ချာတွေ ဖြစ်တဲ့ [[linear-algebra]], [[calculus]], [[statistics-and-probability]] ကို ပြန်လည် လေ့လာဖို့ လိုအပ်ပါတယ်။
+
+Computing/hardware အနေနဲ့ အဓိက အသုံးပြုသော devices များ
+---
+- Microcontroller
+- Microprocesser
+- FPGA
+- GPU
+- TPU
+- ASIC

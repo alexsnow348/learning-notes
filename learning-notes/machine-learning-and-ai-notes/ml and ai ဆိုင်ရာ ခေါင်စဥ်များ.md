@@ -18,6 +18,6 @@ __ခေါင်စဥ်များ__
 		* [[tensorflow-notes]]
 		* 
 - **Math ဆိုင်ရာ ခေါင်စဥ်များ**
-	- [[probability-and-statistics]]
+	- [[statistics-and-probability]]
 
 * **MLOps ဆိုင်ရာ ခေါင်စဥ်များ** 

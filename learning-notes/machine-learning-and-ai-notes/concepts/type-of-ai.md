@@ -38,3 +38,13 @@ Artificial Intelligence ကို အသုံးချနေသော နယ်
 - Big data era - data တွေ အရမ်းများပါလာမှု 
 - Development of learning algorithm - data တွေကို  ကောင်းသထက် ကောင်းတဲ့ လေ့လာမှု လုပ်လာနိုင်တဲ့ algorithm တွေ အများအပြာ ပေါ်ပေါက်လာမှု
 - Increasing the computational power  - မြန်မြန်ဆန်ဆန် တွက်ချက်မှုတွေ လုပ်လာနိုင်မှု
+
+Type of AI algorithm
+---
+
+- Instance based
+	- KNN
+	- Decision Tree
+- Parametric  based
+- Probability based
+	- Baysesian algorithms

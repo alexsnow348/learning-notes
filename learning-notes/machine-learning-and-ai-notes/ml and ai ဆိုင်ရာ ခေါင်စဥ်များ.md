@@ -7,13 +7,16 @@
 ကျေးဇူးပါ။
 
 __ခေါင်စဥ်များ__
-
+---------------------
 - **Concepts ဆိုင်ရာ ခေါင်စဥ်များ** 
 	- [[intro-ai]]
 
 -  **Programming ဆိုင်ရာ ခေါင်စဥ်များ**
-	* [[tensorflow]]
-	
+	*  **TensorFlow**
+		* [[installation]]
+		* [[notes]]
+		* 
 - **Math ဆိုင်ရာ ခေါင်စဥ်များ**
 	- [[probability-and-statistics]]
-	- 
+
+* **MLOps ဆိုင်ရာ ခေါင်စဥ်များ** 

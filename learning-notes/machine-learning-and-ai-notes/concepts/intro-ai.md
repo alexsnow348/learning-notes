@@ -1,10 +1,12 @@
 #ml-ai 
 
+[Reference](https://youtu.be/kNGHYxYszFs)
+
 **AI လို ဆိုမယ်ဆိုရင်** 
 
-* human mind - တွေ လို့ (intelligence) ရေးနိုင်၊ ပြောနိုင်၊ မြင်နိုင်၊ တွေးခေါ်နိုင်စွမ်းရှိရပါမယ်။
+* human mind လူတွေရဲ့ စိတ်မှာ  intelligence ရှိရှိလုပ်တာ တွေဖြစ်တဲ့ - ရေးနိုင်၊ ပြောနိုင်၊ မြင်နိုင်၊ တွေးခေါ်နိုင်စွမ်းရှိရပါမယ်။
 
-အခြေခံ skills လေးခုထဲကမှ အနည်းဆုံ ၂ ခု (သို့) ၂ ခုထက် ပိုပြီး ရှိရမယ်။
+AI system တစ်ခု မှာ အခြေခံ skills လေးခုထဲကမှ အနည်းဆုံ ၂ ခု (သို့) ၂ ခုထက် ပိုပြီး ရှိရမယ်။
 
 - learning - သင်ယူနိုင်စွမ်း။
 - reasoning - တွေးခေါ် ဆင်ခြင်နိုင်စွမ်း။
@@ -13,7 +15,7 @@
 
 **AI သမိုင်း**
 
-- A logical calculus of the ideas immanent in nervous activities (1943) by Warren S. McColloch  and Walter Pitts - ပထမဆုံး အခြေခံ အစကို ဖွံ့ဖြိုစပေးသူ
+- A logical calculus of the ideas immanent in nervous activities (1943) by Warren S. McColloch  and Walter Pitts - ပထမဆုံး အခြေခံ အစကို ဖွံ့ဖြိုးစပေးသူ
 	- present basic block for building large-scale single-electron neural networks
 	- the first mathematical model of a artificial neuron
 	- ပညာရပ်တစ်ခုကို အသေးစိတ် နာလည်ဖို့ သင်္ချာ ဖြင့် မဖြစ်နေ နာလည်းဖို့ လိုအပ်ပါတယ်။
@@ -52,9 +54,9 @@
 
 **ခုလောလောဆယ် ခေတ်စားနေတဲ့ AI trends** 
 
-- Generative/Creative AI
-- Neural Architecture Search
-- Deep Reinforcement Learning
+- Generative/Creative AI - ပုံတွေ ဆွဲတဲ့ နေရာမှာ သုံးတာမျိုး။ 
+- Neural Architecture Search - Architecture တွေ အများကြီးထဲကမှ အကောင်းဆုံးကို ရှာဖွေးတာမျိုး။
+- Deep Reinforcement Learning - အရမ်း နက်သထက် နက်ပြီး လေ့လာ
 
 **AI Terminology များ**
 

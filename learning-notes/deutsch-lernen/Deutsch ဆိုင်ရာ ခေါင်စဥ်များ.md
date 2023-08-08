@@ -6,10 +6,10 @@
 
 ကျေးဇူးပါ။
 
-ခေါင်စဥ်များ
+__ခေါင်စဥ်များ__
+---------------------
 
 * [[gender-rule]]
 * [[pronunciation]]
 * [[personalpronomen-nominativ]]
 * [[daily-learning-notes]]
-* 

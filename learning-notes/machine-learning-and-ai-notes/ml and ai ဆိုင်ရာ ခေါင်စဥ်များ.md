@@ -13,8 +13,8 @@ __ခေါင်စဥ်များ__
 
 -  **Programming ဆိုင်ရာ ခေါင်စဥ်များ**
 	*  **TensorFlow**
-		* [[installation]]
-		* [[notes]]
+		* [[tensorflow-installation]]
+		* [[tensorflow-notes]]
 		* 
 - **Math ဆိုင်ရာ ခေါင်စဥ်များ**
 	- [[probability-and-statistics]]

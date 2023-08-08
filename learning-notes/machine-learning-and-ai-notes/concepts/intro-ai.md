@@ -13,7 +13,7 @@ AI system တစ်ခု မှာ အခြေခံ skills လေးခုထ
 - self-correction - မှားတာ ကို ကိုယ်ဖာသာ ကိုယ်ပြန်ပြင်နိုင်စွမ်း။ (reinforcement learning)
 - creativity - အသစ်တွေကို ဉာဏ်ကွန်းမှုပြီး ဖန်တီးနိုင်စွမ်း။
 
-**AI သမိုင်း**
+**AI သမိုင်း** - (သဘောထား အမြင် ကွဲလွဲမှု ရှိနိုင်။)
 
 - A logical calculus of the ideas immanent in nervous activities (1943) by Warren S. McColloch  and Walter Pitts - ပထမဆုံး အခြေခံ အစကို ဖွံ့ဖြိုးစပေးသူ
 	- present basic block for building large-scale single-electron neural networks
@@ -56,9 +56,9 @@ AI system တစ်ခု မှာ အခြေခံ skills လေးခုထ
 
 - Generative/Creative AI - ပုံတွေ ဆွဲတဲ့ နေရာမှာ သုံးတာမျိုး။ 
 - Neural Architecture Search - Architecture တွေ အများကြီးထဲကမှ အကောင်းဆုံးကို ရှာဖွေးတာမျိုး။
-- Deep Reinforcement Learning - အရမ်း နက်သထက် နက်ပြီး လေ့လာ
+- Deep Reinforcement Learning - အရမ်း နက်သထက် နက်ပြီး  rewards/penalty ပေးပြီး လေ့လာနိုင်တာမျိုး။
 
-**AI Terminology များ**
+သိထားသင့်သော **AI Terminology များ**
 
 - Agent - ဆုံဖြတ်ချက်တွေ ချပြီး လုပ်ဆောင်သူ။
 - AI system - AI သုံးပြီး အဖြေရှာတဲ့ system တစ်ခုဖြစ်ပါတယ်။

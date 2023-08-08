@@ -39,12 +39,24 @@ Artificial Intelligence ကို အသုံးချနေသော နယ်
 - Development of learning algorithm - data တွေကို  ကောင်းသထက် ကောင်းတဲ့ လေ့လာမှု လုပ်လာနိုင်တဲ့ algorithm တွေ အများအပြာ ပေါ်ပေါက်လာမှု
 - Increasing the computational power  - မြန်မြန်ဆန်ဆန် တွက်ချက်မှုတွေ လုပ်လာနိုင်မှု
 
-Type of AI algorithm
+Type of AI algorithm - အခြေခံ အမျိုးအစားများ
 ---
 
-- Instance based
-	- KNN
-	- Decision Tree
 - Parametric  based
+	- Linear Regression
+	- Logistic Regression
+	- Linear Discriminant Analysis (LDA)
+	- Perceptron
+- Non-parametric based /Instance based
+	- K-Nearest Neighbours  - KNN
+	- Decision Trees like CART and C4.5
+	- Naive Bayes
+	- Support Vector Machines
+	- Neural Networks
 - Probability based
 	- Baysesian algorithms
+
+ဘယ်တုန်က ဘယ် algorithm နဲ့ Architecture တွေ ထွက်ခဲ့သလဲ။
+----
+
+![[when-algorithm-come-out.png]]

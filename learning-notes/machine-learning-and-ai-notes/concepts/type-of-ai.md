@@ -31,3 +31,10 @@ Artificial Intelligence ကို အသုံးချနေသော နယ်
 - Social Media AI
 	- Personalised recommendation 
 	- Hate Speech detection 
+
+ဘာလို့ AI က အခုအချိန်မှာ အရမ်း  Popular ဖြစ်လာတာလဲ?
+-----
+
+- Big data era - data တွေ အရမ်းများပါလာမှု 
+- Development of learning algorithm - data တွေကို  ကောင်းသထက် ကောင်းတဲ့ လေ့လာမှု လုပ်လာနိုင်တဲ့ algorithm တွေ အများအပြာ ပေါ်ပေါက်လာမှု
+- Increasing the computational power  - မြန်မြန်ဆန်ဆန် တွက်ချက်မှုတွေ လုပ်လာနိုင်မှု

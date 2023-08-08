@@ -11,6 +11,8 @@ MLflow က ဆိုရင် platform acoustics ဖြစ်ပါတယ်။
  - Model Registry
 
 https://www.sicara.fr/blog-technique/dvc-pipeline-runs-mlflow
+https://www.sicara.fr/blog-technique/dvc-streamlit-webui-ml
+https://www.sicara.fr/blog-technique/automate-dvc-pipelines-reproduction-with-makefile
 DVC - Data Version Control
 --------
 - A way to manage data version similar to git

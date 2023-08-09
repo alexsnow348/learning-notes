@@ -159,3 +159,8 @@ print(mean_ax_1.numpy())
 sum_array = tf.math.reduce_sum(matrix_tensor)
 print(sum_array.numpy())
 ```
+
+- **Matrix များကို မြောက်ခြင်း**
+```python
+
+```

@@ -45,6 +45,8 @@ AI system တစ်ခု မှာ အခြေခံ skills လေးခုထ
 - 2017 - Transformers and Natural Language Processing စတင် မှုတွေဖြစ်လာ။
 - 2018 - Year of AI (Tesla မောင်းသူမဲ့ကား, Nvidia GPU cloud, stable framework. etc..)
 
+![[tech-revolution.png]]
+
 **AI က ဘာလို အခုလို မြန်မြန်စမ်စမ် တိုးတက်မှု ရှိလားတာလဲ။**
 
 - ၂၀၁၂ မှာ Prof Le Cunn and Prof Hinton က 98.6% accuracy for face recognition using Neural Networks ကို ရရှိ။

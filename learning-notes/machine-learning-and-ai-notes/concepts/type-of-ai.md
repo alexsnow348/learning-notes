@@ -1,17 +1,17 @@
 Type of AI - အမျိုးအစားများ
 -------
 
-- Weak/Narrow AI - ANI - သီးသန့် task တစ်ခုကို ကောင်းမွန်းစွာ လုပ်နိုင်သော AI
-	- ခုလောလောဆယ် တော်တော်လေး ခရီးရောက်နေသော အခြေအနေမှာ ရှိနေ
+- Weak/Narrow AI - ANI - သီးသန့်တစ်ခုသည်သော task ကိုသာလျှင် ကောင်းမွန်းစွာ လုပ်နိုင်သော AI
+	- ဒီ AI ကဆိုရင် ခုလောလောဆယ် တော်တော်လေး ခရီးရောက်နေသော အခြေအနေမှာ ရှိနေပါတယ်။
 -  Strong AI/ AGI - Artificial General Intelligence  
 	- လူတွေရဲ့ brain (ဦးနှောက်) အတိုင်း ပြုလုပ်နိုင်မှု
-	- အခုအချိန်ထိ သေးသေးချာချာ နည်းလမ်းတွေ သိပ်မရှိသေး
-	- unsupervised learning based algorithms
-	- reinforcement learning - robotic တွေမှာ အသုံးများတယ်။
+	- အခုအချိန်ထိ သေးသေးချာချာ နည်းလမ်းတွေ သိပ်မရှိသေးပါဘူး။
+	- အဓိက အားဖြင့်တော့ unsupervised learning based algorithms တွေကို အခြေခံထားတာ များပါတယ်။
+	- ပြီးတော့ reinforcement learning - robotic တွေမှာ အသုံးများတဲ့ နေရာမှာလဲ ပါဝင်တယ်လို့ပြောလို့ရပါတယ်။
 - ASI - Artificial Super Intelligence 
-	- လူတွေလုပ်နိုင်တာထက် ပိုမို စွမ်းဆောင်နိုင်စွမ်း ရှိတဲ့ intelligence တွေ ရှိလာတာမျိုး။
+	- လူတွေလုပ်နိုင်တာထက် ပိုမို စွမ်းဆောင်နိုင်စွမ်း ရှိတဲ့ intelligence တွေ ရှိလာတာမျိုး အခြေအနေကို ဆိုလိုတာဖြစ်ပါတယ်။
 - Distributed AI 
-	- based on a parallel computer system
+	- based on a parallel computer system - နေရာ အနှံ့အပြာမှာ ရှိတဲ့ computer systems တွေနဲ့ လေ့လာခိုင်တာမျိုးကို လုပ်ဖို့ ရည်ရွယ်ထားတာပါ။
 	- different nodes can analyse different pieces of information 
 	-  one nodes fails ဆိုရင်တောင်, the others can still function 
 
@@ -29,14 +29,14 @@ Artificial Intelligence ကို အသုံးချနေသော နယ်
 	- Automation 
 	- Robotic in manufacturing
 - Social Media AI
-	- Personalised recommendation 
-	- Hate Speech detection 
+	- Personalised recommendation - ကိုယ်အကြိုက်ကို လိုက်ပြီး နောက်ထပ် အသစ်အသစ်တွေကို ညွှန်ပြပေးတာမျိုးပါ။
+	- Hate Speech detection - တစ်ယောက်နဲ့ တစ်ယောက် အမုန်းစကား ပြောနေလာဆိုတာ ကို ဆန်းစစ်ပေးတာဖြစ်ပါတယ်။
 
 ဘာလို့ AI က အခုအချိန်မှာ အရမ်း  Popular ဖြစ်လာတာလဲ?
 -----
 
-- Big data era - data တွေ အရမ်းများပါလာမှု 
-- Development of learning algorithm - data တွေကို  ကောင်းသထက် ကောင်းတဲ့ လေ့လာမှု လုပ်လာနိုင်တဲ့ algorithm တွေ အများအပြာ ပေါ်ပေါက်လာမှု
+- Big data era - data တွေ အရမ်း အရမ်း များပြာလာမှု 
+- Development of learning algorithm - data တွေမှာ ပါတဲ့ information တွေကို  ကောင်းသထက် ကောင်းတဲ့ လေ့လာမှု လုပ်လာနိုင်တဲ့ algorithm တွေ အများအပြာ ပေါ်ပေါက်လာမှု
 - Increasing the computational power  - မြန်မြန်ဆန်ဆန် တွက်ချက်မှုတွေ လုပ်လာနိုင်မှု
 
 Type of AI algorithm - အခြေခံ အမျိုးအစားများ

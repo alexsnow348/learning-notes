@@ -19,11 +19,11 @@
 
 ### Statistical Data Types
 ---
-- Qualitative (categorical) - အရည်အသွေး အသာပေး ဖော်ပြသော နံပါတ်များ
-	- Ordinal (ordered က အရေးကြီး - encoding လုပ်တဲ့ အချိန်မှာ order ကို သတိထားဖို့ လို့ပါတယ်။) - eg. test grade
+- **Qualitative (categorical)** - အရည်အသွေး အသာပေး ဖော်ပြသော နံပါတ်များ
+	- Ordinal (ordered က အရေးကြီး - ***encoding လုပ်တဲ့ အချိန်မှာ order ကို သတိထားဖို့ လို့ပါတယ်။***) - eg. test grade
 	- Nominal (not ordered) - eg. nationality
 	- quantitative အနေနဲ့ ပြောင်းဖို့ဆို encoding လုပ်ဖို့ လိုအပ်ပါတယ်။
-- Quantitative - အရေအတွက် ကို ဖော်ပြသော ကိန်းဂဏန်း များ
+- **Quantitative** - အရေအတွက် ကို ဖော်ပြသော ကိန်းဂဏန်း များ
 	- Continuous (can be divided) - eg. distance
 	- Discrete (cannot be divided) - eg. cats
 

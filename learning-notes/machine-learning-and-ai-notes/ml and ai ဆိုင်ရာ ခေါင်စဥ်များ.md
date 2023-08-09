@@ -11,6 +11,7 @@ __ခေါင်စဥ်များ__
 - **Concepts ဆိုင်ရာ ခေါင်စဥ်များ** 
 	- [[intro-ai]]
 	- [[type-of-ai]]
+	- [[type-of-data-used-in-ai]]
 
 -  **Programming ဆိုင်ရာ ခေါင်စဥ်များ**
 	*  [[tensorflow-topics]]

@@ -172,9 +172,22 @@ print(tf_mul_trans_a.numpy()) #[[47 52 57] [64 71 78] [81 90 99]] - (3,3)
 print(tf_mul_trans_b.numpy()) # [[ 50 68] [122 167]] - (2,2)
 ```
 
-- Tensor တွေကို ခွဲခြင်း
+- **Tensor တွေကို ခွဲခြင်း**
+
 ```python
 long_tensor = tf.constant([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], dtype=tf.int32)
-split = tf.split(long_tensor, 2)
-split
+split = tf.split(long_tensor, 2) 
+#  [<tf.Tensor: shape=(5,), dtype=int32, numpy=array([1, 2, 3, 4, 5], dtype=int32)>, <tf.Tensor: shape=(5,), dtype=int32, numpy=array([ 6, 7, 8, 9, 10], dtype=int32)>]
+```
+
+* **Tensor တွေ ကို ပေါင်းခြင်း**
+
+```python
+combined_tensor = tf.concat([matrix_tensor_a, matrix_tensor_b], axis=1)
+combined_tensor
+# <tf.Tensor: shape=(2, 6), dtype=int32, numpy= array([[ 1, 2, 3, 7, 8, 9], [ 4, 5, 6, 10, 11, 12]], dtype=int32)>
+
+stack_tensor = tf.stack([matrix_tensor_a, matrix_tensor_b], axis=1)
+stack_tensor
+# <tf.Tensor: shape=(2, 2, 3), dtype=int32, numpy= array([[[ 1, 2, 3], [ 7, 8, 9]], [[ 4, 5, 6], [10, 11, 12]]], dtype=int32)>
 ```

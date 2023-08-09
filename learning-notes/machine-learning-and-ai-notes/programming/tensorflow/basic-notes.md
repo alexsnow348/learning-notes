@@ -161,6 +161,20 @@ print(sum_array.numpy())
 ```
 
 - **Matrix များကို မြောက်ခြင်း**
-```python
 
+```python
+matrix_tensor_a = tf.Variable([[1, 2, 3], [4, 5, 6]], dtype=tf.int32)
+matrix_tensor_b = tf.Variable([[7, 8, 9], [10, 11, 12]], dtype=tf.int32)
+
+tf_mul_trans_a = tf.linalg.matmul(matrix_tensor_a, matrix_tensor_b, transpose_a= True)
+tf_mul_trans_b = tf.linalg.matmul(matrix_tensor_a, matrix_tensor_b, transpose_b= True)
+print(tf_mul_trans_a.numpy()) #[[47 52 57] [64 71 78] [81 90 99]] - (3,3)
+print(tf_mul_trans_b.numpy()) # [[ 50 68] [122 167]] - (2,2)
+```
+
+- Tensor တွေကို ခွဲခြင်း
+```python
+long_tensor = tf.constant([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], dtype=tf.int32)
+split = tf.split(long_tensor, 2)
+split
 ```

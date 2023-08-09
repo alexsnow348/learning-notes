@@ -40,3 +40,12 @@ numpy_to_tensor.size
 numpy_to_tensor.ndim
 numpy_to_tensor.shape
 ```
+
+- **အခြေခံ tensorflow variables များ တည်ဆောက်ခြင်း**
+
+```python
+ones = tf.ones((2,3)) # 1 တွေကြီး သီးသန့် (၂,၃) shape ရှိတဲ့ matrix ကို ဖန်တီးပေး။
+zeros = tf.zeros([3,4]) # 0 တွေကြီး သီးသန့် (၂,၃) shape ရှိတဲ့ matrix ကို ဖန်တီးပေး။
+constants = tf.constant([1, 2, 3, 4, 5], dtype=tf.int32) # constant တွေကို ဖန်းတီးပေး။
+
+```

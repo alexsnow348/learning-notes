@@ -152,5 +152,10 @@ print(mean.numpy()) # 3
 - S**um ကို axis ပေါ်မှုတည်းပြီး ရှာခြင်း**
 
 ```python
-
+sum_ax_0 = tf.math.reduce_sum(matrix_tensor, axis=0)
+print(mean_ax_0.numpy())
+sum_ax_1 = tf.math.reduce_sum(matrix_tensor, axis=1)
+print(mean_ax_1.numpy())
+sum_array = tf.math.reduce_sum(matrix_tensor)
+print(sum_array.numpy())
 ```

@@ -62,7 +62,14 @@ three_d = tf.constant([[[2.0,0.9],[1.0,0.1]], [[2.0,0.9],[1.0,0.1]], [[2.0,0.9],
 		- Constants တွေဟာဆိုရင် သူတို့ရဲ့ value တွေကို သတ်မှတ်ပေးပြီးဆိုရင် နောက်ထပ်ပြန်ပြောင်လို့ မရတော့ပါဘူး။
 		- Constants တွေက graph တွေ အဖြစ် သိမ်းထားတာမို့လို့ သူဟာ memory အရမ်းစားပါတယ်။ Constants တွေ အရမ်းများနေရင် graph တွေ တွက်တဲ့နေရာမှာ နှေးကွေးမှုတွေဖြစ်လာပြီး၊ computing resource တွေ အရမ်း သုံးရပါလိမ့်မယ်။
 	- Variable
-		- Variable တွေဟာဆိုရင် သူတို့ value တွေကို ပြောင်းလဲခွင့်ပြုထားပါတယ်။ အထူးသဖြင့် network parameters
-- 
-1. Constants are (guess what!), constants. As their name states, their value doesn't change. We'd usually need our network parameters to be updated and that's where the **variable** comes into play.
-2. Constants are stored in the graph definition which makes them memory-expensive. In other words, constants with millions of entries makes the graph slower and resource intensive.
+		- Variable တွေဟာဆိုရင် သူတို့ value တွေကို ပြောင်းလဲခွင့်ပြုထားပါတယ်။ အထူးသဖြင့် network parameters တွေ ဖြစ်တဲ့ weight တို့ biases တို့လို နေရာမျိုး မှာ အသုံးများကြပါတယ်။
+	
+- **အခြေခံ tensorflow variable တည်ဆောက်ခြင်း**
+```python
+s = tf.Variable(2, name="scalar") 
+m = tf.Variable([[1, 2], [3, 4]], name="matrix") 
+W = tf.Variable(tf.zeros([784,10])) # weight ကို စတင် zero တွေ ပေးထားတဲ့ နေရာမျိုးမှာသုံး
+# constant မှ variable အဖြစ်ပြောင်းခြင်
+my_tensor = tf.constant([[1.0, 2.0], [3.0, 4.0]]) 
+my_var = tf.Variable(my_tensor)
+```

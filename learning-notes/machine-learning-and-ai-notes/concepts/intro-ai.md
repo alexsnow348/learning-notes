@@ -1,7 +1,5 @@
 #ml-ai 
 
-[Reference](https://youtu.be/kNGHYxYszFs)
-
 **AI လို ဆိုမယ်ဆိုရင်** 
 
 * human mind လူတွေရဲ့ စိတ်မှာ  intelligence ရှိရှိလုပ်တာ တွေဖြစ်တဲ့ - ရေးနိုင်၊ ပြောနိုင်၊ မြင်နိုင်၊ တွေးခေါ်နိုင်စွမ်းရှိရပါမယ်။
@@ -73,3 +71,5 @@ AI system တစ်ခု မှာ အခြေခံ skills လေးခုထ
 - Fit - training လုပ်နေတာကို ခေါ်တာဖြစ်တယ်။
 - Loss Function - အမှန်နဲ့ model က ထွက်ပေးလာတဲ့ ရလဒ်တွေကို error တွေကို အားလုံးပေါင်းပေးထားတဲ့ function များ
 - Computer Vision - image တွေ video တွေကို အဓိက ထားပြီး ကွန်ပြူတာကို vision ဆိုင်ရာ ပြဿနာတွေကို အဖြေရှာခိုင်ခြင်။
+
+[Reference Video](https://youtu.be/kNGHYxYszFs)

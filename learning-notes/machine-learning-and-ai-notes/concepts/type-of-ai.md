@@ -72,3 +72,5 @@ Computing/hardware အနေနဲ့ အဓိက အသုံးပြုသ�
 - TPU
 - ASIC
 - memristor
+
+[Referece Video](https://youtu.be/Uxy6gZFggx0)

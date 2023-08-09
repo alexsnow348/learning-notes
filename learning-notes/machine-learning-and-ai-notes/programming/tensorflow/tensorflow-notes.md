@@ -76,6 +76,23 @@ my_var = tf.Variable(my_tensor)
 
 - **Data type နှင့် shape တွေကို manipulate လုပ်ခြင်း**
 
+	- **2D ကနေ 3D သို့ expand လုပ်ခြင်း**
+	
 ```python
-zeros_array = tf.zeros([3,3])
+zeros_tensor = tf.zeros([3,2])
+zeros_numpy = zeros_tensor.numpy()
+new_shape_array_0 = np.expand_dims(zeros_numpy, axis=0) # (1, 3, 2)
+new_shape_array_1 = np.expand_dims(zeros_numpy, axis=1) # (3, 1, 2)
+new_shape_array_2 = np.expand_dims(zeros_numpy, axis=2) # (3, 2, 1)
+zeros_new_front = zeros_numpy[np.newaxis, ...] # (1, 3, 2)
+zeros_new_back = zeros_numpy[..., np.newaxis] # (3, 2, 1)
 ```
+
+* **3D ကနေ 2D သို့ reduce လုပ်ခြင်း**
+
+```python
+
+```
+
+
+

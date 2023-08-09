@@ -47,12 +47,22 @@ numpy_to_tensor.shape
 ones = tf.ones((2,3)) # 1 တွေကြီး သီးသန့် (၂,၃) shape ရှိတဲ့ matrix ကို ဖန်တီးပေး။
 zeros = tf.zeros([3,4]) # 0 တွေကြီး သီးသန့် (၂,၃) shape ရှိတဲ့ matrix ကို ဖန်တီးပေး။
 constants = tf.constant([1, 2, 3, 4, 5], dtype=tf.int32) # constant တွေကို ဖန်းတီးပေး။
-# 0D tensor
+# 0D tensor - Scalar
 o_d =  tf.constant(2.0, dtype=tf.float32)
-# 1D tensor
+# 1D tensor - Vector
 one_d = tf.constant([2.0,0.9], dtype=tf.float32)
-# 2D tensor
+# 2D tensor - Matrix
 two_d = tf.constant([[2.0,0.9],[1.0,0.1]], dtype=tf.float32)
 # 3D tensor
 three_d = tf.constant([[[2.0,0.9],[1.0,0.1]], [[2.0,0.9],[1.0,0.1]], [[2.0,0.9],[1.0,0.1]]], dtype=tf.float32)
 ```
+
+- **tf မှာ constant နဲ့ variable က ဘာကွာတာလဲ။**
+	- Constants
+		- Constants တွေဟာဆိုရင် သူတို့ရဲ့ value တွေကို သတ်မှတ်ပေးပြီးဆိုရင် နောက်ထပ်ပြန်ပြောင်လို့ မရတော့ပါဘူး။
+		- Constants တွေက graph တွေ အဖြစ် သိမ်းထားတာမို့လို့ သူဟာ memory အရမ်းစားပါတယ်။ Constants တွေ အရမ်းများနေရင် graph တွေ တွက်တဲ့နေရာမှာ နှေးကွေးမှုတွေဖြစ်လာပြီး၊ computing resource တွေ အရမ်း သုံးရပါလိမ့်မယ်။
+	- Variable
+		- Variable တွေဟာဆိုရင် သူတို့ value တွေကို ပြောင်းလဲခွင့်ပြုထားပါတယ်။ အထူးသဖြင့် network parameters
+- 
+1. Constants are (guess what!), constants. As their name states, their value doesn't change. We'd usually need our network parameters to be updated and that's where the **variable** comes into play.
+2. Constants are stored in the graph definition which makes them memory-expensive. In other words, constants with millions of entries makes the graph slower and resource intensive.

@@ -74,7 +74,7 @@ my_tensor = tf.constant([[1.0, 2.0], [3.0, 4.0]])
 my_var = tf.Variable(my_tensor)
 ```
 
-- **Data type နှင့် shape တွေကို manipulate လုပ်ခြင်း**
+- **Data shape တွေကို manipulate ကစားခြင်**
 
 	- **2D ကနေ 3D သို့ expand လုပ်ခြင်း**
 	
@@ -91,8 +91,13 @@ zeros_new_back = zeros_numpy[..., np.newaxis] # (3, 2, 1)
 * **3D ကနေ 2D သို့ reduce လုပ်ခြင်း**
 
 ```python
-
+ones_tensor = tf.ones((3, 1, 2, 1, 4, 1))
+ones_reduce = tf.squeeze(ones_tensor, axis=(1,3)) # (3, 2, 4, 1) - axis မှာ ပေးထားတဲ့ position မှာရှိတဲ့ 1 တွေကိုသာ ဆွဲထုတ်ပေးနိုင်သည်။
 ```
 
+* **Data Type တွေကို manipulate လုပ်ခြင်**
 
-
+```python
+float_tensor = tf.constant([1.0,3.4,1.6], dtype=tf.float32)
+int_tensor = tf.cast(float_tensor, tf.int32)
+```

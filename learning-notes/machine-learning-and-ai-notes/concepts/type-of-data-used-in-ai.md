@@ -10,19 +10,37 @@
 	* data အများစု က ဒီ type ထဲမှာ ပါပါတယ်။
 	* လွယ်လွယ် တွက်ချက်လို့ မရတာတွေ များပါတယ်။
 
-	![[Screenshot 2023-08-09 at 3.51.19 PM.png]]
+	![[structured-vs-unstructured.png]]
 	
 * Semi-structured data
 	* unstructured နှင့် structured data တွေကို ဆက်စပ်ပေးတဲ့ annotations data လိုမျိုးကို ဆိုလိုတာ ဖြစ်ပါတယ်။
 	
-		![[Screenshot 2023-08-09 at 3.47.55 PM.png]]
+		![[semi-structured.png]]
 
 ### Statistical Data Types
 ---
-- Qualitative (categorical) - အရည်အသွေး အသာပေး နံပါတ်များ
-	- Ordinal (ordered) - eg. test grade
+- Qualitative (categorical) - အရည်အသွေး အသာပေး ဖော်ပြသော နံပါတ်များ
+	- Ordinal (ordered က အရေးကြီး - encoding လုပ်တဲ့ အချိန်မှာ order ကို သတိထားဖို့ လို့ပါတယ်။) - eg. test grade
 	- Nominal (not ordered) - eg. nationality
-	- quantitative အနေနဲ့ ပြောင်းဖို့ဆို encoding လုပ်
-- Quantitative - အရေအတွက် ကိန်းဂဏန်း များ
+	- quantitative အနေနဲ့ ပြောင်းဖို့ဆို encoding လုပ်ဖို့ လိုအပ်ပါတယ်။
+- Quantitative - အရေအတွက် ကို ဖော်ပြသော ကိန်းဂဏန်း များ
 	- Continuous (can be divided) - eg. distance
 	- Discrete (cannot be divided) - eg. cats
+
+### Encoding methods များ
+---
+* Nominal data
+	* one hot encoding 
+		- dummy encoding - dimension တွေ အနည်းငယ် လျှော့ချနိုင်။
+		* effect encoding - 1, -1, 0 တွေ နဲ့ encode လုပ်
+		
+		![[one-hot-encoding.png]]
+	
+	* multiple one hot encoding
+	* mean encoding
+	
+- Ordinal data
+	- target guided ordinal encoding
+	- label encoding 
+- Binary data
+	- binary encoding 

@@ -1,10 +1,10 @@
 မင်္ဂလာပါ။
 
 ဒီ repo မှာ လေ့လာ ခဲ့သမျှ
-*  Blockchain and Web3
-*  Machine Learning and AI
-*  Burmese Reading Notes
-*  Deutsch Lernern 
+*  Blockchain and Web3 -  [[blockchain and web3 ခေါင်စဥ်များ]]
+*  Machine Learning and AI  - [[ml and ai ဆိုင်ရာ ခေါင်စဥ်များ]]
+*  Burmese Reading Notes - [[မြန်မာ စာအုပ် များ]]
+*  Deutsch Lernern - [[]]
 
 စတာတွေနဲ့ ဆိုင်တာတွေကို စုထားတာ ဖြစ်ပါတယ်။ အထူးသဖြင့် blockchain နဲ့ web3 ဆိုင်တာတွေ ပိုများပါတယ်။
 

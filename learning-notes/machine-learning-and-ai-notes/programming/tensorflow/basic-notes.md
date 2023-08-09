@@ -110,7 +110,7 @@ ones_tensor = tf.ones((3, 1, 2, 1, 4, 1))
 ones_reduce = tf.squeeze(ones_tensor, axis=(1,3)) # (3, 2, 4, 1) - axis မှာ ပေးထားတဲ့ position မှာရှိတဲ့ 1 တွေကိုသာ ဆွဲထုတ်ပေးနိုင်သည်။
 ```
 
-* **shape တွေကို manipulate လုပ်ခြင်း**
+* **Shape တွေကို manipulate လုပ်ခြင်း**
 
 ```python
 zeros_tensor_transpose = tf.transpose(zeros_tensor) # TensorShape([2, 3])
@@ -126,11 +126,31 @@ int_tensor = tf.cast(float_tensor, tf.int32)
 
 ### သင်္ချာ တွေ တွက်ကြမယ်။
 
+* **Element wise မြှောက်ခြင်း**
+
 ```python
-# element wise မြှောက်ခြင်
 tensor_one = tf.constant([1,3,5], dtype=tf.int32)
 tensor_two = tf.constant([2,4,6], dtype=tf.int32)
 multiply_tensor = tf.multiply(tensor_one, tensor_two)
 multiply_tensor.numpy() # array([ 2, 12, 30], dtype=int32)
+
+```
+
+- **Mean ကို axis ပေါ်မှုတည်ပြီး ရှာခြင်း**
+
+```python
+# find mean along a given axis
+matrix_tensor = tf.Variable([[1, 2, 3], [4, 5, 6]], name="matrix")
+mean_ax_0 = tf.math.reduce_mean(matrix_tensor, axis=0)
+print(mean_ax_0.numpy()) # [2 3 4]
+mean_ax_1 = tf.math.reduce_mean(matrix_tensor, axis=1)
+print(mean_ax_1.numpy()) # [2 5]
+mean = tf.math.reduce_mean(matrix_tensor)
+print(mean.numpy()) # 3
+```
+
+- S**um ကို axis ပေါ်မှုတည်းပြီး ရှာခြင်း**
+
+```python
 
 ```

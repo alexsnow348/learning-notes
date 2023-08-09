@@ -43,6 +43,7 @@ numpy_to_tensor.shape
 
 ### **အခြေခံ tensorflow constants များ တည်ဆောက်ပြီး manipulate လုပ်မယ်။**
 ----
+- **Constants တည်ဆောက်ခြင်း**
 
 ```python
 ones = tf.ones((2,3)) # 1 တွေကြီး သီးသန့် (၂,၃) shape ရှိတဲ့ matrix ကို ဖန်တီးပေး။
@@ -64,8 +65,12 @@ three_d = tf.constant([[[2.0,0.9],[1.0,0.1]], [[2.0,0.9],[1.0,0.1]], [[2.0,0.9],
 		- Constants တွေက graph တွေ အဖြစ် သိမ်းထားတာမို့လို့ သူဟာ memory အရမ်းစားပါတယ်။ Constants တွေ အရမ်းများနေရင် graph တွေ တွက်တဲ့နေရာမှာ နှေးကွေးမှုတွေဖြစ်လာပြီး၊ computing resource တွေ အရမ်း သုံးရပါလိမ့်မယ်။
 	- Variable
 		- Variable တွေဟာဆိုရင် သူတို့ value တွေကို ပြောင်းလဲခွင့်ပြုထားပါတယ်။ အထူးသဖြင့် network parameters တွေ ဖြစ်တဲ့ weight တို့ biases တို့လို နေရာမျိုး မှာ အသုံးများကြပါတယ်။
+	- Placeholder 
+		- ယာယီ data type ပြောပြီး တည်ဆောက်ထားပြီး နောက်မှ values တွေ ထည့်ဖို့ လိုတဲ့ နေရာမှာ အသုံးများကြပါတယ်။
 	
-- **အခြေခံ tensorflow variable တည်ဆောက်ခြင်း**
+	
+- **Variable တည်ဆောက်ခြင်း**
+
 ```python
 s = tf.Variable(2, name="scalar") 
 m = tf.Variable([[1, 2], [3, 4]], name="matrix") 
@@ -75,7 +80,15 @@ my_tensor = tf.constant([[1.0, 2.0], [3.0, 4.0]])
 my_var = tf.Variable(my_tensor)
 ```
 
-#### **Data shape တွေကို manipulate ကစားခြင်**
+* **Placeholder တွေ တည်ဆောက်ခြင်း**
+
+```python
+a = tf.placeholder(tf.float32, shape=[5])
+b = tf.placeholder(dtype=tf.float32, shape=None, name=None)
+X = tf.placeholder(tf.float32, shape=[None, 784], name='input')
+Y = tf.placeholder(tf.float32, shape=[None, 10], name='label')
+```
+#### **Data shape တွေကို manipulate ကစားခြင်း**
 ---
 
 - **2D ကနေ 3D သို့ expand လုပ်ခြင်း**
@@ -97,14 +110,14 @@ ones_tensor = tf.ones((3, 1, 2, 1, 4, 1))
 ones_reduce = tf.squeeze(ones_tensor, axis=(1,3)) # (3, 2, 4, 1) - axis မှာ ပေးထားတဲ့ position မှာရှိတဲ့ 1 တွေကိုသာ ဆွဲထုတ်ပေးနိုင်သည်။
 ```
 
-* **shape တွေကို manipulate လုပ်ခြင်**
+* **shape တွေကို manipulate လုပ်ခြင်း**
 
 ```python
 zeros_tensor_transpose = tf.transpose(zeros_tensor) # TensorShape([2, 3])
 new_shaped_zeros = zeros_tensor.reshape(2,3) # TensorShape([2, 3])
 
 ```
-* **Data Type တွေကို manipulate လုပ်ခြင်**
+* **Data Type တွေကို manipulate လုပ်ခြင်း**
 
 ```python
 float_tensor = tf.constant([1.0,3.4,1.6], dtype=tf.float32)
@@ -114,9 +127,10 @@ int_tensor = tf.cast(float_tensor, tf.int32)
 ### သင်္ချာ တွေ တွက်ကြမယ်။
 
 ```python
-# မြှောက်ခြင်
+# element wise မြှောက်ခြင်
 tensor_one = tf.constant([1,3,5], dtype=tf.int32)
 tensor_two = tf.constant([2,4,6], dtype=tf.int32)
 multiply_tensor = tf.multiply(tensor_one, tensor_two)
 multiply_tensor.numpy() # array([ 2, 12, 30], dtype=int32)
+
 ```

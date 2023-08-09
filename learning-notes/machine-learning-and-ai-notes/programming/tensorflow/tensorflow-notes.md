@@ -41,11 +41,18 @@ numpy_to_tensor.ndim
 numpy_to_tensor.shape
 ```
 
-- **အခြေခံ tensorflow variables များ တည်ဆောက်ခြင်း**
+- **အခြေခံ tensorflow constants များ တည်ဆောက်ခြင်း**
 
 ```python
 ones = tf.ones((2,3)) # 1 တွေကြီး သီးသန့် (၂,၃) shape ရှိတဲ့ matrix ကို ဖန်တီးပေး။
 zeros = tf.zeros([3,4]) # 0 တွေကြီး သီးသန့် (၂,၃) shape ရှိတဲ့ matrix ကို ဖန်တီးပေး။
 constants = tf.constant([1, 2, 3, 4, 5], dtype=tf.int32) # constant တွေကို ဖန်းတီးပေး။
-
+# 0D tensor
+o_d =  tf.constant(2.0, dtype=tf.float32)
+# 1D tensor
+one_d = tf.constant([2.0,0.9], dtype=tf.float32)
+# 2D tensor
+two_d = tf.constant([[2.0,0.9],[1.0,0.1]], dtype=tf.float32)
+# 3D tensor
+three_d = tf.constant([[[2.0,0.9],[1.0,0.1]], [[2.0,0.9],[1.0,0.1]], [[2.0,0.9],[1.0,0.1]]], dtype=tf.float32)
 ```

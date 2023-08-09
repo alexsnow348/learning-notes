@@ -73,3 +73,9 @@ W = tf.Variable(tf.zeros([784,10])) # weight ကို စတင် zero တွ�
 my_tensor = tf.constant([[1.0, 2.0], [3.0, 4.0]]) 
 my_var = tf.Variable(my_tensor)
 ```
+
+- **Data type နှင့် shape တွေကို manipulate လုပ်ခြင်း**
+
+```python
+zeros_array = tf.zeros([3,3])
+```

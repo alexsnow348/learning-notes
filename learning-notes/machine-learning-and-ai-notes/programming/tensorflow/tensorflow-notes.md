@@ -1,6 +1,6 @@
 #tensoflow #ml-ai 
 
-**အခြေခံများ**
+### **အခြေခံများ**
 ----------------
 TensorFlow cheatsheet သဘောမျိုး အနေဖြင့် ပြန်လည် အလွယ်တကူ လေ့လာနိုင်ဖို့ ဒီ မှတ်စုကို ထုတ်ထားတာပါ။
 
@@ -41,7 +41,8 @@ numpy_to_tensor.ndim
 numpy_to_tensor.shape
 ```
 
-- **အခြေခံ tensorflow constants များ တည်ဆောက်ခြင်း**
+### **အခြေခံ tensorflow constants များ တည်ဆောက်ပြီး manipulate လုပ်မယ်။**
+----
 
 ```python
 ones = tf.ones((2,3)) # 1 တွေကြီး သီးသန့် (၂,၃) shape ရှိတဲ့ matrix ကို ဖန်တီးပေး။
@@ -74,9 +75,10 @@ my_tensor = tf.constant([[1.0, 2.0], [3.0, 4.0]])
 my_var = tf.Variable(my_tensor)
 ```
 
-- **Data shape တွေကို manipulate ကစားခြင်**
+#### **Data shape တွေကို manipulate ကစားခြင်**
+---
 
-	- **2D ကနေ 3D သို့ expand လုပ်ခြင်း**
+- **2D ကနေ 3D သို့ expand လုပ်ခြင်း**
 	
 ```python
 zeros_tensor = tf.zeros([3,2])
@@ -88,16 +90,33 @@ zeros_new_front = zeros_numpy[np.newaxis, ...] # (1, 3, 2)
 zeros_new_back = zeros_numpy[..., np.newaxis] # (3, 2, 1)
 ```
 
-* **3D ကနေ 2D သို့ reduce လုပ်ခြင်း**
+* **6D ကနေ 4D သို့ reduce လုပ်ခြင်း**
 
 ```python
 ones_tensor = tf.ones((3, 1, 2, 1, 4, 1))
 ones_reduce = tf.squeeze(ones_tensor, axis=(1,3)) # (3, 2, 4, 1) - axis မှာ ပေးထားတဲ့ position မှာရှိတဲ့ 1 တွေကိုသာ ဆွဲထုတ်ပေးနိုင်သည်။
 ```
 
+* **shape တွေကို manipulate လုပ်ခြင်**
+
+```python
+zeros_tensor_transpose = tf.transpose(zeros_tensor) # TensorShape([2, 3])
+new_shaped_zeros = zeros_tensor.reshape(2,3) # TensorShape([2, 3])
+
+```
 * **Data Type တွေကို manipulate လုပ်ခြင်**
 
 ```python
 float_tensor = tf.constant([1.0,3.4,1.6], dtype=tf.float32)
 int_tensor = tf.cast(float_tensor, tf.int32)
+```
+
+### သင်္ချာ တွေ တွက်ကြမယ်။
+
+```python
+# မြှောက်ခြင်
+tensor_one = tf.constant([1,3,5], dtype=tf.int32)
+tensor_two = tf.constant([2,4,6], dtype=tf.int32)
+multiply_tensor = tf.multiply(tensor_one, tensor_two)
+multiply_tensor.numpy() # array([ 2, 12, 30], dtype=int32)
 ```

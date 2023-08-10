@@ -15,9 +15,14 @@ DVC - Data Version Control
 - A way to manage data version similar to git
 - complements and augments an ordinary git repo
 
+Kubeflow
+---
+
+Minio 
+---
 
 references များ 
 ---
-၁။ [Track DVC Pipeline Runs with MLflow](https://www.sicara.fr/blog-technique/dvc-pipeline-runs-mlflow)
-၂။ [How to Build Customizable Web UI for ML with Streamlit and DVC](https://www.sicara.fr/blog-technique/dvc-streamlit-webui-ml)
-၃။ [Automate DVC Pipelines Reproduction with Makefile](https://www.sicara.fr/blog-technique/automate-dvc-pipelines-reproduction-with-makefile)
+1. [Track DVC Pipeline Runs with MLflow](https://www.sicara.fr/blog-technique/dvc-pipeline-runs-mlflow)
+2. [How to Build Customizable Web UI for ML with Streamlit and DVC](https://www.sicara.fr/blog-technique/dvc-streamlit-webui-ml)
+3. [Automate DVC Pipelines Reproduction with Makefile](https://www.sicara.fr/blog-technique/automate-dvc-pipelines-reproduction-with-makefile)

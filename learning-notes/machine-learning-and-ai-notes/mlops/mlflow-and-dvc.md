@@ -15,7 +15,10 @@ DVC - Data Version Control
 - A way to manage data version similar to git
 - complements and augments an ordinary git repo
 
-Kubeflow
+Kubeflow 
+----
+
+Kedro
 ----
 
 Minio 

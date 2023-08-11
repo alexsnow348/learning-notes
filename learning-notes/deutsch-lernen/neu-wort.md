@@ -5,3 +5,4 @@
 - das Ziel | die Ziele - vision
 - anderer - another
 - Benutzer - user
+- das Ereignis | die Ereignisse - event  

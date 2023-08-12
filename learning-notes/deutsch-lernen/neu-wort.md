@@ -39,6 +39,9 @@ Folgend - Adjective
 |---|---|
 |  **စကားလုံး** | **အဓိပ္ပါယ်**   | 
 | anderer | another - တစ်ခြား
+| beruflich | professional |
+| berufstätig | working |
+
 
 
 Adverb

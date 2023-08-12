@@ -30,7 +30,7 @@ Das Verb - Verb
 | **present** | **past** | **past perfect** |**အဓိပ္ပါယ်** |
 | **anstellen** | stellte an/anstellte | angestellt | to employ - အလုပ်ခန့်ခြင်း
 | stärken | stärkte | gestärkt | to strengthen - 
-| schicken | schickte | geschickt |
+| schicken | schickte | geschickt | to send - ပို့ပေးခြင်း
 
 
 

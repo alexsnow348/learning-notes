@@ -1,4 +1,4 @@
-Wort
+Wort - Noun
 ---
 
 |   |   |    |
@@ -14,25 +14,36 @@ Wort
 |  der Arzt | die Ärzte | doctor - ဆရာဝန်း 
 | der Ingenieur | die Ingenieure | အင်ဂျင်နီယာ
 | die Hausfrau | die Hausfrauen | အိမ်ရှင်မ
-| die Polizistin | die Polizistinnen |  ရဲ
+| die Polizistin | die Polizistinnen |  ရဲ(အမ)
+| der Polizist | die Polizisten | ရဲ (အထီး)
 | der Krankenpfleger | die Krankenpfleger |  သူနာပြု ဆရာ
 | die Krankenschwester | die Krankenschwestern |   သူနာပြု ဆရာမ
 
 
-Das Verb
+
+Das Verb - Verb
 ---
+
 |   |   |   |  |
 |---|---|---|---|
 | present | past | past perfect |**အဓိပ္ပါယ်** |
-| **anstellen** | stellte an/anstellte | angestellt | - to employ - အလုပ်ခန့်ခြင်း
-| stärken | stärkte | gestärkt | - to strengthen - 
+| **anstellen** | stellte an/anstellte | angestellt | to employ - အလုပ်ခန့်ခြင်း
+| stärken | stärkte | gestärkt | to strengthen - 
 
 
 
 
-
-Folgend - adj
+Folgend - Adjective
 ---
 |   |   | 
 |---|---|
+|  **စကားလုံး** | **အဓိပ္ပါယ်**   | 
 | anderer | another - တစ်ခြား
+
+
+Adverb
+---
+|   |   | 
+|---|---|
+|  **စကားလုံး** | **အဓိပ္ပါယ်**   | 
+| ziemlich | pretty  - |

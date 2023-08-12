@@ -4,10 +4,10 @@ Wort - Noun
 |   |   |    |
 |---|---|---|
 | **တစ်ယောက်/တစ်ခု** | **အများ** | **အဓိပ္ပါယ်** |
-| der Erfolg | **der Erfolge** | success - အောင်မြင်မှု |
+| der Erfolg | der Erfolge | success - အောင်မြင်မှု |
 | das Hindernis | die Hindernisse | obstacle - အခက်အခဲ |
 | das Ziel | die Ziele | vision - အမြင်
-| der Benutzer | die Benutzer | user - အသုံးပြုသူများ
+| der Benutzer | die Benutzer | user - အသုံးပြုသူ
 | das Ereignis | die Ereignisse | event  - ပွဲ
 | das Amt | die Ämter | office - ရုံးခန်း
 | die Ärztin | die Ärztinnen | doctor - ဆရာဝန်းမ
@@ -18,6 +18,7 @@ Wort - Noun
 | der Polizist | die Polizisten | ရဲ (အထီး)
 | der Krankenpfleger | die Krankenpfleger |  သူနာပြု ဆရာ
 | die Krankenschwester | die Krankenschwestern |   သူနာပြု ဆရာမ
+| das Zeugnis | die Zeugnisse| certificate - လက်မှတ်
 
 
 
@@ -26,9 +27,11 @@ Das Verb - Verb
 
 |   |   |   |  |
 |---|---|---|---|
-| present | past | past perfect |**အဓိပ္ပါယ်** |
+| **present** | **past** | **past perfect** |**အဓိပ္ပါယ်** |
 | **anstellen** | stellte an/anstellte | angestellt | to employ - အလုပ်ခန့်ခြင်း
 | stärken | stärkte | gestärkt | to strengthen - 
+| schicken | schickte | geschickt |
+
 
 
 
@@ -50,3 +53,4 @@ Adverb
 |---|---|
 |  **စကားလုံး** | **အဓိပ္ပါယ်**   | 
 | ziemlich | pretty  - |
+| circa | approximately |

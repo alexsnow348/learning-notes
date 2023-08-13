@@ -19,6 +19,8 @@ Wort - Noun
 | der Krankenpfleger | die Krankenpfleger |  သူနာပြု ဆရာ
 | die Krankenschwester | die Krankenschwestern |   သူနာပြု ဆရာမ
 | das Zeugnis | die Zeugnisse| certificate - လက်မှတ်
+| der Reiseführer | die Reiseführer | travel guide 
+
 
 
 

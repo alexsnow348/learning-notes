@@ -16,9 +16,8 @@
 	- Ich lernen jetzt Deutsch.
 	- Warum lernst du Deutsch?
 	- Ich lerne Deutsch weil ich in Deutschland arbeiten und leben möchte. 
-- Bist du verheiratet? 
-- Hast du Kinder?
+- Bist du verheiratet?  - မင် ယောင်္ကျာ ယူပြီးပြီလား။
+- Hast du Kinder? - မင်မှာ ကလေးရှိလာ။
 	- Ich habe zwei Kinder.
 	- Wie alt sind sie? 
-	- 
 - Wie alt bist du? - မင် အသက်ဘယ်လောက်ရှိပြီးလဲ။

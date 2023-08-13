@@ -1,9 +1,8 @@
 Wort - Noun
 ---
 
-|   |   |    |
-|---|---|---|
 | **တစ်ယောက်/တစ်ခု** | **အများ** | **အဓိပ္ပါယ်** |
+|---|---|---|
 | [ der Erfolg](https://www.dict.cc/?s=Erfolg) | [die Erfolge](https://www.dict.cc/?s=Erfolge) | success - အောင်မြင်မှု |
 | [das Hindernis](https://www.dict.cc/?s=Hindernis) | [die Hindernisse](https://www.dict.cc/?s=Hindernisse) | obstacle - အခက်အခဲ |
 | [das Ziel](https://www.dict.cc/?s=Ziel) | [die Ziele](https://www.dict.cc/?s=Ziele) | vision - အမြင်
@@ -27,9 +26,8 @@ Wort - Noun
 Das Verb - Verb
 ---
 
-|   |   |   |  |
-|---|---|---|---|
 | **present** | **past** | **past perfect** |**အဓိပ္ပါယ်** |
+|---|---|---|---|
 | [**anstellen**](https://www.dict.cc/?s=anstellen) | stellte an/anstellte | angestellt | to employ - အလုပ်ခန့်ခြင်း|
 | [**stärken**](https://www.dict.cc/?s=st%C3%A4rken) | stärkte | gestärkt | to strengthen - |
 | [**schicken**](https://www.dict.cc/?s=schicken) | schickte | geschickt | to send - ပို့ပေးခြင်း |
@@ -40,9 +38,9 @@ Das Verb - Verb
 
 Folgend - Adjective
 ---
-|                                                            |                   |
-| ---------------------------------------------------------- | ----------------- |
 
+| **စကားလုံး**                                               | **အဓိပ္ပါယ်**     |
+| ---------------------------------------------------------- | ----------------- |
 | [**anderer**](https://www.dict.cc/?s=anderer)              | another - တစ်ခြား |
 | [**beruflich**](https://www.dict.cc/?s=beruflich)          | professional      |
 | [**berufstätig**](https://www.dict.cc/?s=berufst%C3%A4tig) | working           |
@@ -51,6 +49,7 @@ Folgend - Adjective
 
 Adverb
 ---
+
 | **စကားလုံး**                                    | **အဓိပ္ပါယ်** |
 | ----------------------------------------------- | ------------- |
 | [**ziemlich**](https://www.dict.cc/?s=ziemlich) | pretty  -     |
@@ -70,8 +69,8 @@ Conjugation
 Preposition
 ---
 
-| **စကားလုံး** | **အဓိပ္ပါယ်** |
-| ------------ | ------------- |
+| **စကားလုံး**                          | **အဓိပ္ပါယ်**         |
+| ------------------------------------- | --------------------- |
 | [**von**](https://www.dict.cc/?s=von) | by/of/from/off/out of |
 |                                       |                       |
 

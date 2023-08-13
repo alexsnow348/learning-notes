@@ -11,10 +11,14 @@
 - Wo hast du gelebt? - မင် ဘာမှာတွေ နေခဲ့သေးတာလဲ။
 	- Ich habe in Landon vor 9 Jahre, und Später in Myanmar gelebt.
 - Wie lange lernst du schon Deutsch? - မင် ဂျာမန်စာ လေ့လာနေတာ ဘယ်လောက်ကြာကြာရှိနေပြီးလဲ။
-	- Vor seit 4 Monaten lernen ich Deutsch. 
+	- Seit 4 Monaten lernen ich Deutsch. 
 - Was machst du jetzt? - မင် အခုဘာလုပ်နေလဲ။
 	- Ich lernen jetzt Deutsch.
 	- Warum lernst du Deutsch?
 	- Ich lerne Deutsch weil ich in Deutschland arbeiten und leben möchte. 
+- Bist du verheiratet? 
 - Hast du Kinder?
-	- Ich habe zawa
+	- Ich habe zwei Kinder.
+	- Wie alt sind sie? 
+	- 
+- Wie alt bist du? - မင် အသက်ဘယ်လောက်ရှိပြီးလဲ။

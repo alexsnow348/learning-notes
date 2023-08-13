@@ -19,5 +19,5 @@
 - Bist du verheiratet?  - မင် ယောင်္ကျာ ယူပြီးပြီလား။
 - Hast du Kinder? - မင်မှာ ကလေးရှိလာ။
 	- Ich habe zwei Kinder.
-	- Wie alt sind sie? 
+	- Wie alt sind sie? - သူတို့ အသက်ဘယ်လောက်တွေ ရှိနေကြပြီးလဲ။
 - Wie alt bist du? - မင် အသက်ဘယ်လောက်ရှိပြီးလဲ။

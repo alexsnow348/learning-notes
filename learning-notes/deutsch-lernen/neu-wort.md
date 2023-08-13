@@ -20,6 +20,10 @@ Wort - Noun
 | die Krankenschwester | die Krankenschwestern |   သူနာပြု ဆရာမ
 | das Zeugnis | die Zeugnisse| certificate - လက်မှတ်
 | der Reiseführer | die Reiseführer | travel guide 
+| die Ausbildung | die Ausbildungen| education/apprenticeship
+| der Verkäufer | die Verkäufer| salesman - စျေးရောင်း/စျေးဝယ်
+
+
 
 
 
@@ -57,3 +61,17 @@ Adverb
 |  **စကားလုံး** | **အဓိပ္ပါယ်**   | 
 | ziemlich | pretty  - |
 | circa | approximately |
+
+
+Conjugation
+---
+
+|   |   | 
+|---|---|
+|  **စကားလုံး** | **အဓိပ္ပါယ်**   | 
+| weil | because|
+| als | as
+
+
+Preposition
+---

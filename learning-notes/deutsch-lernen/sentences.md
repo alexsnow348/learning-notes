@@ -3,4 +3,5 @@
 
 - Was bist du von Beruf? - မင်ဘာအလုပ်လုပ်လဲ။
 - Ich bin Ingenieur. - ငါ အင်ဂျင်နီယာ တစ်ယောက်ပါ။
+- Wo bist du geboren? - မင် ဘယ်အချိန်က မွေးခဲတာလဲ။
 - 

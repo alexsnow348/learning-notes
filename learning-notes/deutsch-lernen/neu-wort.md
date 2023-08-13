@@ -31,6 +31,7 @@ Das Verb - Verb
 | **anstellen** | stellte an/anstellte | angestellt | to employ - အလုပ်ခန့်ခြင်း
 | stärken | stärkte | gestärkt | to strengthen - 
 | schicken | schickte | geschickt | to send - ပို့ပေးခြင်း
+| heiraten | heiratete | geheiratet| to marry - လက်ထပ်ခြင်း
 
 
 

@@ -18,13 +18,10 @@ Math in AI
 		- probability
 		- function
 	- data representation
-	- 
-- Geometry
-	- Shapes
-		- Plane - 2D
-			- triangle, rectangle, square, circle, polygons
-		- Solid - 3D
-			- properties: volume, surface area
+	- memory representation
+	- data transformation
+	- conditional computation
+	
 - [[calculus]]
 	- Integral
 		- Integration, integration rules, parts
@@ -35,3 +32,10 @@ Math in AI
 		- Product rule
 		- Second Derivative
 		- Finding Maxima and Minima
+		
+ - Geometry
+	- Shapes
+		- Plane - 2D
+			- triangle, rectangle, square, circle, polygons
+		- Solid - 3D
+			- properties: volume, surface area

@@ -32,7 +32,10 @@ Math in AI
 		- Product rule
 		- Second Derivative
 		- Finding Maxima and Minima
-		
+
+- [[statistics-and-probability]]
+	- naive bases (classification models)
+	- 
  - Geometry
 	- Shapes
 		- Plane - 2D

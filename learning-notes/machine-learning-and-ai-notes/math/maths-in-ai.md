@@ -1,7 +1,7 @@
 Math in AI
 ----
 သင်္ချာ သည် AI တွင် အရမ်း အရေးပါးပါသည်။
-### Numbers
+### Numbers နှင့် Notation များ
 
 - Real Numbers - R 
 	- Rational - Q
@@ -9,16 +9,29 @@ Math in AI
 	- Irrational - I
 - Imaginary Numbers - C 
 
+### ပြန်လေ့လာသင့်သော maths များ
 
 - [[linear-algebra]]
-	- branch of mathematics that deals with variables, constants and arithmetics opertions
+	- branch of mathematics that deals with variables, constants and arithmetics operations
+		- vectors
 		- matrics
 		- probability
 		- function
+	- data representation
+	- 
 - Geometry
 	- Shapes
 		- Plane - 2D
 			- triangle, rectangle, square, circle, polygons
 		- Solid - 3D
 			- properties: volume, surface area
-- 
+- [[calculus]]
+	- Integral
+		- Integration, integration rules, parts
+	- **Differential**
+		- Slope
+		- **Derivative** - Optimisation 
+		- Power rule
+		- Product rule
+		- Second Derivative
+		- Finding Maxima and Minima

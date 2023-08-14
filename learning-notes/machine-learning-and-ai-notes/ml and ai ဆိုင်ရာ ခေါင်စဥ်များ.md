@@ -18,6 +18,7 @@ __ခေါင်စဥ်များ__
 	*  [[tensorflow-topics]]
 	* 
 - **Math ဆိုင်ရာ ခေါင်စဥ်များ**
-	- [[statistics-and-probability]]
+	-  [[maths-in-ai]]
+	-  [[statistics-and-probability]]
 
 * **MLOps ဆိုင်ရာ ခေါင်စဥ်များ** 

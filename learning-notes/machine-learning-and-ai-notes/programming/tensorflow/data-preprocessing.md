@@ -23,8 +23,8 @@ tf.random.set_seed(1)
 t_x = tf.random.uniform([4,1], dtype=tf.float32)
 t_y = tf.range(4)
 print(t_x)
-print(t_y)
 # tf.Tensor( [[0.16513085] [0.9014813 ] [0.6309742 ] [0.4345461 ]], shape=(4, 1), dtype=float32)
+print(t_y)
 # tf.Tensor([0 1 2 3], shape=(4,), dtype=int32)
 
 # တည်ဆောက်ထားတဲ့ tensor ၂ ခုကို ပေါင်းမယ်။
@@ -61,6 +61,24 @@ for data in ds_shuffle:
 print(x.numpy(), y.numpy())
 # [0.9014813] 1 
 # [0.4345461] 3 
-[0.16513085] 0 
-[0.6309742] 2
+# [0.16513085] 0 
+# [0.6309742] 2
+```
+
+-  data တွေကို Batch (နည်းနည်းစီ တစ်စု) ခွဲတာတွေ လုပ်မယ်။
+```python
+ds_batch = ds_joint.batch(batch_size=3, drop_remainder=False)
+batch_x, batch_y = next(iter(ds_batch))
+print(batch_x.numpy())
+# [[0.16513085] [0.9014813 ] [0.6309742 ]]
+print(batch_x.numpy())
+# [0 1 2]
+```
+
+- data တွေကို ထပ်ခါထပ်ခါ   Repeat တိုးမယ်။ 
+```python
+ds_repeat = ds_joint.batch(batch_size=3, drop_remainder=False).repeat(count=2)
+for i, (batch_x,batch_y) in enumerate(ds_repeat):
+
+print(i, batch_x.shape, batch_y.shape)
 ```

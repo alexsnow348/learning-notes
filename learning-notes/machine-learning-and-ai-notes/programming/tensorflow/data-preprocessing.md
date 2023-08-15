@@ -97,3 +97,12 @@ for i, (batch_x,batch_y) in enumerate(ds_repeat):
 
 ###  Creating a dataset from files on your local storage disk -  local storage က data တွေကို ဖတ်ပြီး tensor အဖြင့်ပြောင်းမယ်။
 
+- file list ကို folder တွေက ထုတ်ယူမယ်။
+
+```python
+import pathlib
+img_dir_path = pathlib.Path('cat_dog_images')
+file_list = sorted([str(file) for file in img_dir_path.glob('**/*.jpg')])
+print(file_list)
+# ['cat_dog_images/Cat1.jpg', 'cat_dog_images/Cat2.jpg', 'cat_dog_images/Cat3.jpg', 'cat_dog_images/Dog1.jpg', 'cat_dog_images/Dog2.jpg', 'cat_dog_images/Dog3.jpg']
+```

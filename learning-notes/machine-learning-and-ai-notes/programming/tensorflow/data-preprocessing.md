@@ -149,6 +149,16 @@ for item in ds_files_labels:
 # b'cat_dog_images/Dog1.jpg' 1 
 # b'cat_dog_images/Dog2.jpg' 1 
 # b'cat_dog_images/Dog3.jpg' 1
-	
+
+def load_image_data_and_label(path, label):
+	img_width, img_height = 120, 80
+	image = tf.io.read_file(path)
+	image = tf.image.decode_jpeg(image, channels=3)
+	image = tf.image.resize(image, [img_height, img_width])
+	image /= 255.0
+	return image, label
+# data တွေကို tensor data အနေနဲ့ ဖတ်ပြီး label နဲ့တွဲမယ်။
+ds_images_labels = ds_files_labels.map(load_image_data_and_label)
+
 ```
 

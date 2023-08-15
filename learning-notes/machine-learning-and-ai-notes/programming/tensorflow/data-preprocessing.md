@@ -77,8 +77,23 @@ print(batch_x.numpy())
 
 - data တွေကို ထပ်ခါထပ်ခါ   Repeat တိုးမယ်။ 
 ```python
-ds_repeat = ds_joint.batch(batch_size=3, drop_remainder=False).repeat(count=2)
+# batch -> repeat
+ds_repeat = ds_joint.batch(batch_size=3,drop_remainder=False).repeat(count=2)
 for i, (batch_x,batch_y) in enumerate(ds_repeat):
+	print(i, batch_x.shape, batch_y.shape)
+# 0 (3, 1) (3,)
+# 1 (1, 1) (1,) 
+# 2 (3, 1) (3,) 
+# 3 (1, 1) (1,)
 
-print(i, batch_x.shape, batch_y.shape)
+# repeat -> batch
+ds_repeat = ds_joint.repeat(count=2).batch(batch_size=3, drop_remainder=False)
+for i, (batch_x,batch_y) in enumerate(ds_repeat):
+	print(i, batch_x.shape, batch_y.shape)
+# 0 (3, 1) (3,)
+# 1 (3, 1) (3,) 
+# 2 (2, 1) (2,)
 ```
+
+###  Creating a dataset from files on your local storage disk -  local storage က data တွေကို ဖတ်ပြီး tensor အဖြင့်ပြောင်းမယ်။
+

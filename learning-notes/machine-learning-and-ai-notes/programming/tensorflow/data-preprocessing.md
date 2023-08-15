@@ -43,5 +43,24 @@ print(x.numpy(), y.numpy())
 
 - Feature scaling
 ```python
+ds_feature_scaling = ds_joint.map(lambda x,y: (x*2-1.0,y))
+for data in ds_feature_scaling:
+	x, y = data
+print(x.numpy(), y.numpy())
+# [-0.6697383] 0
+# [0.80296254] 1 
+# [0.26194835] 2 
+# [-0.13090777] 3
+```
 
+- Shuffle - data တွေကို random ရွှေ့မယ်။
+```python
+ds_shuffle = ds_joint.shuffle(buffer_size=len(t_x))
+for data in ds_shuffle:
+	x, y = data
+print(x.numpy(), y.numpy())
+# [0.9014813] 1 
+# [0.4345461] 3 
+[0.16513085] 0 
+[0.6309742] 2
 ```

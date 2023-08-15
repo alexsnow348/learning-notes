@@ -13,3 +13,7 @@ __ခေါင်စဥ်များ__
 * [[pronunciation]]
 * [[personalpronomen-nominativ]]
 * [[daily-learning-notes]]
+* [[type-of-noun]]
+* [[sentences]]
+* [[neu-wort]]
+* 

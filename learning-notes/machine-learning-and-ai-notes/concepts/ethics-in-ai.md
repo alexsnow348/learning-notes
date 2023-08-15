@@ -23,3 +23,7 @@ Association for the Advancement of AI - AAAI - နှစ်စဥ် ကျင�
 	- Transparency
 	- Data Privacy 
 
+Reference list
+---
+- [Video Lecture]()
+- [Slide](https://docs.google.com/presentation/d/1gQIh_qqn68cr99lcpsitmZfrr5BEPRp8/edit?usp=sharing&ouid=106386867865239891160&rtpof=true&sd=true)

@@ -162,3 +162,29 @@ def load_image_data_and_label(path, label):
 ds_images_labels = ds_files_labels.map(load_image_data_and_label)
 ```
 
+* Load images with batch size - နည်းနည်းစီ memory ထဲကို image တွေ ထည့်မယ်။
+
+```python
+batch_size = 32
+img_height = 180
+img_width = 180
+
+data_dir = pathlib.Path(img_dir_path).with_suffix('')
+
+train_ds = tf.keras.utils.image_dataset_from_directory(
+	data_dir,
+	validation_split=0.2,
+	subset="training",
+	seed=123,
+	image_size=(img_height, img_width),
+	batch_size=batch_size)
+
+
+val_ds = tf.keras.utils.image_dataset_from_directory(
+	data_dir,
+	validation_split=0.2,
+	subset="validation",
+	seed=123,
+	image_size=(img_height, img_width),
+	batch_size=batch_size)
+```

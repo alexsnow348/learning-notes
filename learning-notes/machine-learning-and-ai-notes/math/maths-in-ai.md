@@ -1,6 +1,7 @@
 Math in AI
 ----
-သင်္ချာ သည် AI တွင် အရမ်း အရေးပါးပါသည်။
+သင်္ချာ ဟာဆိုရင် AI မှာ အရမ်း အရမ်းကို  အရေးပါးပါတယ်။ ဒါကြောင့်မို့လို အထူးပြန်လည် လေ့လာသင့်တာတွေကို စုပေးထားလိုက်ပါတယ်။
+
 ### Numbers နှင့် သူ၏ Notation များ
 
 - Real Numbers - **R** 
@@ -17,15 +18,16 @@ Math in AI
 		- **matrics**
 		- probability
 		- function
-	- data representation
-	- memory representation
-	- data transformation
-	- conditional computation
+	- အသုံးပြုသော နေရာများ
+		- data representation
+		- memory representation
+		- data transformation
+		- conditional computation
 	
 - [[calculus]]
 	- Integral
 		- Integration, integration rules, parts
-	- **Differential** ကqd
+	- **Differential** ကဆိုရင် ML မှာ အသုံးများပါတယ်။
 		- Slope
 		- **Derivative** - Optimisation 
 		- Power rule

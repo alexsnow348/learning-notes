@@ -157,8 +157,8 @@ def load_image_data_and_label(path, label):
 	image = tf.image.resize(image, [img_height, img_width])
 	image /= 255.0
 	return image, label
+	
 # data တွေကို tensor data အနေနဲ့ ဖတ်ပြီး label နဲ့တွဲမယ်။
 ds_images_labels = ds_files_labels.map(load_image_data_and_label)
-
 ```
 

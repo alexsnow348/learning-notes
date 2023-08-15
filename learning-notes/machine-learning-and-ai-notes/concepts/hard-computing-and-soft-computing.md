@@ -3,7 +3,18 @@ Hard computing vs Soft computing
 
 - Hard Computing
 	- traditional mathematical methods
-- Soft Computing
-	- fuzzy logic
-	- neural networks
-	- genetic algorithms
+	 - solve based on guaranteed, deterministic and  accurate result
+	 - not capable to solve real world problems
+- Soft Computing - Optimisation ပုဒ်စာတွေတွေအတွက် အဓိက သုံးတာများတယ်။  
+	- fuzzy logic 
+		- fuzzy set 
+		- crisp set - 0 မဟုတ်ရင် 1   ပြတ်ပြတ်သာသာ ခွဲနိုင်တယ်။
+	
+		![[Screenshot 2023-08-15 at 3.54.14 PM.png]]
+		- Membership function အရမ်းအရေးပါတယ်။
+			- a curve that defines how each point in the input space is mapped to a membership (degree of membership) between 0 or 1.
+			
+			![[Screenshot 2023-08-15 at 3.56.26 PM.png]]
+	
+	 - neural networks
+	- genetic algorithms 

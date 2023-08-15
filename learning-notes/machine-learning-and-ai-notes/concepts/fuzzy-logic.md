@@ -20,6 +20,6 @@ Hard computing vs Soft computing
 			- antecedent - ပင်မအရင်ခံ ဖြစ်ချက်
 			- consequent  - အရင်ခံ ဖြစ်ချက်မှုကြောင့် ဖြစ်လာတဲ့ အခြေအနေ
 
-	- genetic algorithms 
+	- [[genetic-algorithms]]
 	-  [[neural-network]]
 	

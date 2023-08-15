@@ -13,6 +13,10 @@ __ခေါင်စဥ်များ__
 	- [[type-of-ai]]
 	- [[type-of-data-used-in-ai]]
 	- [[ethics-in-ai]]
+	- soft-computing
+		- [[fuzzy-logic]]
+		- [[genetic-algorithms]]
+		- [[neural-network]]
 
 -  **Programming ဆိုင်ရာ ခေါင်စဥ်များ**
 	*  [[tensorflow-topics]]

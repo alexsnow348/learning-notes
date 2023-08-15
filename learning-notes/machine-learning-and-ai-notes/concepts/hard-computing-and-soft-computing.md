@@ -6,7 +6,7 @@ Hard computing vs Soft computing
 	 - solve based on guaranteed, deterministic and  accurate result
 	 - not capable to solve real world problems
 - Soft Computing - Optimisation ပုဒ်စာတွေတွေအတွက် အဓိက သုံးတာများတယ်။  
-	- fuzzy logic 
+	- fuzzy logic  
 		- fuzzy set 
 		- crisp set - 0 မဟုတ်ရင် 1   ပြတ်ပြတ်သာသာ ခွဲနိုင်တယ်။
 	
@@ -19,5 +19,7 @@ Hard computing vs Soft computing
 		- if-then rules
 			- antecedent - ပင်မအရင်ခံ ဖြစ်ချက်
 			- consequent  - အရင်ခံ ဖြစ်ချက်မှုကြောင့် ဖြစ်လာတဲ့ အခြေအနေ
-	 - **neural networks**
+
 	- genetic algorithms 
+	-  [[neural-network]]
+	

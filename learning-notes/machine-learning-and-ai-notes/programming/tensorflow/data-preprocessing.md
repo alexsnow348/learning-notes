@@ -126,3 +126,29 @@ for i, file in enumerate(file_list):
 plt.tight_layout()
 plt.show()
 ```
+
+- file name ကနေ label ကို ဆွဲထုတ်မယ်။
+```python
+labels = [1 if "Dog" in os.path.basename(file) else 0 for file in file_list]
+print(labels)
+# [0, 0, 0, 1, 1, 1]
+```
+
+- data နဲ့ label ကို တွဲမယ်။
+
+```python
+ds_files_labels = tf.data.Dataset.from_tensor_slices((file_list, labels))
+
+for item in ds_files_labels:
+	data, label = item
+	print(data.numpy(), label.numpy())
+	
+# b'cat_dog_images/Cat1.jpg' 0 
+# b'cat_dog_images/Cat2.jpg' 0 
+# b'cat_dog_images/Cat3.jpg' 0 
+# b'cat_dog_images/Dog1.jpg' 1 
+# b'cat_dog_images/Dog2.jpg' 1 
+# b'cat_dog_images/Dog3.jpg' 1
+	
+```
+

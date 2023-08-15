@@ -183,6 +183,9 @@ split = tf.split(long_tensor, 2)
 * **Tensor တွေ ကို ပေါင်းခြင်း**
 
 ```python
+matrix_tensor_a = tf.Variable([[1, 2, 3], [4, 5, 6]], dtype=tf.int32)
+matrix_tensor_b = tf.Variable([[7, 8, 9], [10, 11, 12]], dtype=tf.int32)
+
 combined_tensor = tf.concat([matrix_tensor_a, matrix_tensor_b], axis=1)
 combined_tensor
 # <tf.Tensor: shape=(2, 6), dtype=int32, numpy= array([[ 1, 2, 3, 7, 8, 9], [ 4, 5, 6, 10, 11, 12]], dtype=int32)>

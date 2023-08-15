@@ -46,3 +46,5 @@
 	- label encoding 
 - **Binary data**
 	- binary encoding 
+
+[Reference Video](https://youtu.be/dUQ4xSmybi0)

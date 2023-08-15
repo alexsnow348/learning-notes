@@ -26,14 +26,15 @@ Wort - Noun
 Das Verb - Verb
 ---
 
-| **present**                                        | **past**                                                                                              | **past perfect**                                    | **အဓိပ္ပါယ်**                                            |
+| **present**                                        | **past**                                                                                              | **past perfect**                                    | **အဓိပ္ပါယ်**          |
 | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------ |
-| [**anstellen**](https://www.dict.cc/?s=anstellen)  | stellte an/anstellte                                                                                  | angestellt                                          | to employ - အလုပ်ခန့်ခြင်း                               |
-| [**stärken**](https://www.dict.cc/?s=st%C3%A4rken) | stärkte                                                                                               | gestärkt                                            | to strengthen -                                          |
-| [**schicken**](https://www.dict.cc/?s=schicken)    | schickte                                                                                              | geschickt                                           | to send - ပို့ပေးခြင်း                                   |
-| [**heiraten**](https://www.dict.cc/?s=heiraten)    | heiratete                                                                                             | geheiratet                                          | to marry - လက်ထပ်ခြင်း                                   |
-| [auswandern](https://www.dict.cc/?s=auswandern)    | [wanderte aus](https://www.dict.cc/?s=wanderte+aus)/[auswanderte](https://www.dict.cc/?s=auswanderte) | [ausgewandert](https://www.dict.cc/?s=ausgewandert) | to emigrate - ရွေ့ပြောင်နေထိုင်ခြင်း                     |
+| [**anstellen**](https://www.dict.cc/?s=anstellen)  | stellte an/anstellte                                                                                  | angestellt                                          | to employ - အလုပ်ခန့်ခြင်း |
+| [**stärken**](https://www.dict.cc/?s=st%C3%A4rken) | stärkte                                                                                               | gestärkt                                            | to strengthen -    |
+| [**schicken**](https://www.dict.cc/?s=schicken)    | schickte                                                                                              | geschickt                                           | to send - ပို့ပေးခြင်း   |
+| [**heiraten**](https://www.dict.cc/?s=heiraten)    | heiratete                                                                                             | geheiratet                                          | to marry - လက်ထပ်ခြင်း        |
+| [auswandern](https://www.dict.cc/?s=auswandern)    | [wanderte aus](https://www.dict.cc/?s=wanderte+aus)/[auswanderte](https://www.dict.cc/?s=auswanderte) | [ausgewandert](https://www.dict.cc/?s=ausgewandert) | to emigrate - ရွေ့ပြောင်နေထိုင်ခြင်း     |
 | [mitteilen](https://www.dict.cc/?s=mitteilen)      | [teilte mit](https://www.dict.cc/?s=teilte+mit)/[mitteilte](https://www.dict.cc/?s=mitteilte)         | [mitgeteilt](https://www.dict.cc/?s=mitgeteilt)     | to inform/communicate/disclose  - အသိပေးအကြောင်းကြာခြင်း 
+|[einstellen](https://www.dict.cc/?s=einstellen) | [stellte ein](https://www.dict.cc/?s=stellte)/[einstellte](https://www.dict.cc/?s=einstellte) | [eingestellt](https://www.dict.cc/?s=eingestellt)| to hire/recruit - ဝန်ထမ်းခေါ်ခြင်း|
 
 
 Folgend - Adjective

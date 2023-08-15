@@ -105,4 +105,24 @@ img_dir_path = pathlib.Path('cat_dog_images')
 file_list = sorted([str(file) for file in img_dir_path.glob('**/*.jpg')])
 print(file_list)
 # ['cat_dog_images/Cat1.jpg', 'cat_dog_images/Cat2.jpg', 'cat_dog_images/Cat3.jpg', 'cat_dog_images/Dog1.jpg', 'cat_dog_images/Dog2.jpg', 'cat_dog_images/Dog3.jpg']
+
+# matplotlib သုံးပြီး ပုံဆွဲမယ်။
+
+import matplotlib.pyplot as plt
+import os
+
+fig = plt.figure(figsize=(10, 5))
+for i, file in enumerate(file_list):
+
+	img_raw = tf.io.read_file(file)
+	img = tf.image.decode_image(img_raw)
+	print('Image shape: ', img.shape)
+
+	ax = fig.add_subplot(2, 3, i+1)
+	ax.set_xticks([]); ax.set_yticks([]) # နံပါတ်တွေ ပတ်လည်မှာပါချင်ရင် comment လုပ်ထားနိုင်ပါတယ်။
+	ax.imshow(img)
+	ax.set_title(os.path.basename(file), size=15)
+
+plt.tight_layout()
+plt.show()
 ```

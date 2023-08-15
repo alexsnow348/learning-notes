@@ -1,13 +1,13 @@
 Math in AI
 ----
 သင်္ချာ သည် AI တွင် အရမ်း အရေးပါးပါသည်။
-### Numbers နှင့် Notation များ
+### Numbers နှင့် သူ၏ Notation များ
 
-- Real Numbers - R 
-	- Rational - Q
-		- Integers - Z
-	- Irrational - I
-- Imaginary Numbers - C 
+- Real Numbers - **R** 
+	- Rational - **Q**
+		- Integers - **Z**
+	- Irrational - **I**
+- Imaginary Numbers - **C** 
 
 ### ပြန်လေ့လာသင့်သော maths များ
 
@@ -25,7 +25,7 @@ Math in AI
 - [[calculus]]
 	- Integral
 		- Integration, integration rules, parts
-	- **Differential**
+	- **Differential** ကqd
 		- Slope
 		- **Derivative** - Optimisation 
 		- Power rule
@@ -45,3 +45,5 @@ Math in AI
 			- triangle, rectangle, square, circle, polygons
 		- Solid - 3D
 			- properties: volume, surface area
+
+[Reference Video](https://youtu.be/1_whbsgZrPU)

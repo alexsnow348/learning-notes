@@ -5,8 +5,7 @@ Genetic algorithms - optimisation algorithm
 	- both constrained and unconstrained optimisation problems based on natural selection, the process that drives biological evolution
 	- fitness - ပတ်ဝန်ကျင် နဲ့ အထိုက်အလိုက်  လိုက်လျော်ညီစာ နေထိုင်တတ်နိုင်မှု
 	- to solve a variety of optimisation problems which are not suitable for standard optimisation algorithms.
-
-		
+	
 How GA work
 ---
 
@@ -23,11 +22,21 @@ How GA work
 	- Steady State Selection
 - Crossover operators
 	- single point 
-	- multi point 
+	- two points 
 	- uniform
 	 ![[Screenshot 2023-08-16 at 4.02.46 PM.png]]
+- Mutation Operator
+	- flip 
+	- swap
+	- random 
+	 ![[Screenshot 2023-08-16 at 4.04.59 PM.png]]
 
 
+When GA stop?
+---
+- A predefined number of iterations are completed.
+- A predefined fitness value is obtained.
+- There is no improvement in results for a fixed number of iterations.
 
 
 

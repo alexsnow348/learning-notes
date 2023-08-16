@@ -74,4 +74,8 @@ AI system တစ်ခု မှာ အခြေခံ skills လေးခုထ
 - Loss Function - အမှန်နဲ့ model က ထွက်ပေးလာတဲ့ ရလဒ်တွေကို error တွေကို အားလုံးပေါင်းပေးထားတဲ့ function များ
 - Computer Vision - image တွေ video တွေကို အဓိက ထားပြီး ကွန်ပြူတာကို vision ဆိုင်ရာ ပြဿနာတွေကို အဖြေရှာခိုင်ခြင်။
 
-[Reference Video](https://youtu.be/kNGHYxYszFs)
+
+Reference list
+---
+- [Video Lecture](https://youtu.be/kNGHYxYszFs)
+- [Slide](https://docs.google.com/presentation/d/1gPJyL5zxea0nOKdkyMgGyDAil9f_7Wez/edit?usp=sharing&ouid=106386867865239891160&rtpof=true&sd=true)

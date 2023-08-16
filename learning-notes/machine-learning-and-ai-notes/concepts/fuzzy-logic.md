@@ -22,4 +22,8 @@ Hard computing vs Soft computing
 
 	- [[genetic-algorithms]]
 	-  [[neural-network]]
-	
+
+Reference list
+---
+- [Video Lecture](https://youtu.be/s0P9pVony1c)
+- [Slide](https://docs.google.com/presentation/d/1gU5BBcXRxvZZVVOD9mepAIrgWBX-4UlV/edit?usp=sharing&ouid=106386867865239891160&rtpof=true&sd=true)

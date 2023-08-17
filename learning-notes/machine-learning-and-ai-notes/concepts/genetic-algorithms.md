@@ -7,7 +7,7 @@ Genetic algorithms - optimisation algorithm
 	- to solve a variety of optimisation problems which are not suitable for standard optimisation algorithms.
 	
 How GA work
----
+---- 
 
 ![[how-ga-work.png]]
 

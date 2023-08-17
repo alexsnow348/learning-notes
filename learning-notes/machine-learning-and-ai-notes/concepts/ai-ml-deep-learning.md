@@ -53,7 +53,7 @@ Deep Learning
 ![[feature-engineering.png]]
 ![[Pasted image 20230817162822.png]]
 ![[shallow-deep-neural-network.png]]
-Types of Deep Neural Nework modes
+Types of Deep ANN modes
 ---
 - CNN - Convolutional neural network
 	![[Pasted image 20230817162904.png]]

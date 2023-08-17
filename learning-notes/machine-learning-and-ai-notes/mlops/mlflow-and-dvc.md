@@ -15,8 +15,6 @@ DVC - Data Version Control
 - A way to manage data version similar to git
 - complements and augments an ordinary git repo
 
-Kubeflow 
-----
 
 Kedro, Kedro-Viz
 ----
@@ -27,6 +25,14 @@ Minio
 Streamlit
 -----
 
+
+![[dvc-minio-mlflow.png]]
+
+
+![[mlflow-with-minio-postgresql.png]]
+
+Kubeflow 
+----
 
 references များ 
 -----

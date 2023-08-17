@@ -17,7 +17,7 @@ __ခေါင်စဥ်များ__
 		- [[fuzzy-logic]]
 		- [[genetic-algorithms]]
 		- [[neural-network]]
-	  - [[]]
+	  - [[ai-ml-deep-learning]]
 
 -  **Programming ဆိုင်ရာ ခေါင်စဥ်များ**
 	*  [[tensorflow-topics]]

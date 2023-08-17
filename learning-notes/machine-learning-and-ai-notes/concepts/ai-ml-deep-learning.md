@@ -66,3 +66,5 @@ reference list
 ---
 1. [The Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 2.  [Summary: My Paper Reading Lists, Tutorials & Sharings](https://sh-tsang.medium.com/overview-my-reviewed-paper-lists-tutorials-946ce59fbf9e)
+3. [Slide](https://docs.google.com/presentation/d/1hNSRdc9Z3vKy7TjmtgErgv0Y6Bhm0Yij/edit?usp=sharing&ouid=106386867865239891160&rtpof=true&sd=true)
+4. 

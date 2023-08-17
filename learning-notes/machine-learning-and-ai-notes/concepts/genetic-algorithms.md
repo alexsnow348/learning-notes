@@ -9,7 +9,7 @@ Genetic algorithms - optimisation algorithm
 How GA work
 ---
 
-![[Screenshot 2023-08-16 at 3.48.53 PM.png]]
+![[how-ga-work.png]]
 
 
 - Population initialisation : a set of solution for optimisation process
@@ -24,12 +24,12 @@ How GA work
 	- single point 
 	- two points 
 	- uniform
-	 ![[Screenshot 2023-08-16 at 4.02.46 PM.png]]
+	 ![[one-point-multi-points-unifiorm-crossover.png]]
 - Mutation Operator
 	- flip 
 	- swap
 	- random 
-	 ![[Screenshot 2023-08-16 at 4.04.59 PM.png]]
+	 ![[mutation-operator.png]]
 
 
 When GA stop?

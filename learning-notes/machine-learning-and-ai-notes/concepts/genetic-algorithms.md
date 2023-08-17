@@ -39,5 +39,9 @@ When GA stop?
 - There is no improvement in results for a fixed number of iterations.
 
 
-
 - Swarm intelligence 
+
+Reference list 
+---
+1. [Video Lecture](https://youtu.be/iDiTTR4HlDw)
+2. [Slide](https://docs.google.com/presentation/d/1gU6X0iKXsT9rxIBrh_M5-uIkOy2eByeJ/edit?usp=sharing&ouid=106386867865239891160&rtpof=true&sd=true)

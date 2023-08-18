@@ -14,7 +14,12 @@ pip install kedro kedro-viz
 kedro new # to create new kedro project
 kedro pipeline create <pipeline_name> # to create new pipeline 
 kedro run # run all the nodes from pipeline
-kedro run --pipeline=<pipeline_name>
+kedro run --pipeline=<pipeline_name> # run speficfic pipeline only
+kedro run --runner=SequentialRunner # runs nodes sequentially
+kedro run --runner=ParallelRunner # runs independent nodes in parallel via multiprocessing
+kedro run --runner=ThreadRunner # similar to parallel runner but used multithreading instead of multiprocessing especailly for Spark and Dask
+kedro run --runner=module.path.to.my.runner 
+
 ```
 
 Streamlit

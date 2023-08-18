@@ -20,10 +20,12 @@ DVC - Data Version Control
 
 MinIO - High Performance Object Storage for AI
 -----
-- S3 Object Storage ပုံစံ blo
-- 
+- S3 Object Storage ပုံစံ တစ်ခုဖြစ်ပါတယ်။
+- data lake တွေ တည်ဆောက်တဲ့ နေရာမှာ အသုံးပြုနိုင်တယ်။
+- unstructured data တွေ ဖြစ်တဲ့ photos, videos, logs files, backups and container images တွေကိုသိမ်းထားနိုင်ပါတယ်။
 
-
+Sample MLOps pipeline with dvc, minio, mlflow and postgresql
+----
 
 
 ![[dvc-minio-mlflow.png]]
@@ -41,4 +43,4 @@ references များ
 4. [kedro-mlflow-example](https://github.com/tgoldenberg/kedro-mlflow-example)
 5. [Setting up MinIO and MLflow](https://blog.min.io/setting-up-a-development-machine-with-mlflow-and-minio/)
 6. [GitHub Settup repo](https://github.com/alexsnow348/mlflow-dvc-postgres-minio)
-7. 
+

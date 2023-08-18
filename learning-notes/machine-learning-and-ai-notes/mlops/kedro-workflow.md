@@ -5,7 +5,7 @@ Kedro, Kedro-Viz
 ### Installation
 
 ```bash
-pip install kedro
+pip install kedro kedro-viz
 ```
 
 ### Useful command
@@ -16,3 +16,8 @@ kedro new # to create new kedro project
 
 Streamlit
 -----
+
+
+reference list
+---
+1. [](https://towardsdatascience.com/the-importance-of-layered-thinking-in-data-engineering-a09f685edc71)

@@ -20,7 +20,7 @@ DVC - Data Version Control
 
 MinIO - High Performance Object Storage for AI
 -----
-- S3 Object Storage or blob storage ပုံစံ တစ်ခုဖြစ်ပါတယ်။
+- S3 Object Storage or blob  storage ပုံစံ တစ်ခုဖြစ်ပါတယ်။
 - data lake တွေ တည်ဆောက်တဲ့ နေရာမှာ အသုံးပြုနိုင်တယ်။
 - unstructured data တွေ ဖြစ်တဲ့ photos, videos, logs files, backups and container images တွေကိုသိမ်းထားနိုင်ပါတယ်။
 

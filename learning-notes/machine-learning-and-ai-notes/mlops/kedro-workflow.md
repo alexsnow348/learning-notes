@@ -12,6 +12,8 @@ pip install kedro kedro-viz
 
 ```bash
 kedro new # to create new kedro project
+kedro pipeline create <pipeline_name> # to create new pipeline 
+kedro run 
 ```
 
 Streamlit

@@ -20,4 +20,5 @@ Streamlit
 
 reference list
 ---
-1. [](https://towardsdatascience.com/the-importance-of-layered-thinking-in-data-engineering-a09f685edc71)
+1. [The importance of layered thinking in data engineering](https://towardsdatascience.com/the-importance-of-layered-thinking-in-data-engineering-a09f685edc71)
+2. 

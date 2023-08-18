@@ -1,11 +1,11 @@
-Kedro, Kedro-Viz
+Kedro, Kedro-Viz, Kedro-mlflow
 ----
 - ML/Data Science project တွေအတွက် သေသေချာချာစနစ်တကြ organised ဖြစ်အောင်နဲ့ reproduce လုပ်တာ လွယ်အောင်လို့ လုပ်ပေးတဲ့ python framework တစ်ခုဖြစ်ပါတယ်။
 
 ### Installation
 
 ```bash
-pip install kedro kedro-viz
+pip install kedro kedro-viz kedro-mlflow
 ```
 
 ### Useful command
@@ -19,7 +19,7 @@ kedro run --runner=SequentialRunner # runs nodes sequentially
 kedro run --runner=ParallelRunner # runs independent nodes in parallel via multiprocessing
 kedro run --runner=ThreadRunner # similar to parallel runner but used multithreading instead of multiprocessing especailly for Spark and Dask
 kedro run --runner=module.path.to.my.runner 
-
+kedro mlflow init # to update for mlflow tracking
 ```
 
 Streamlit

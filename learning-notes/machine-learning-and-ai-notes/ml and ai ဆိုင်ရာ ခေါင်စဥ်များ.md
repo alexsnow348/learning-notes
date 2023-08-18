@@ -27,7 +27,7 @@ __ခေါင်စဥ်များ__
 	-  [[statistics-and-probability]]
 
 * **MLOps ဆိုင်ရာ ခေါင်စဥ်များ** 
-	* [[mlflow-and-dvc]]
+	* [[mlflow-dvc-minio]]
 
 
 - [[references-list]]

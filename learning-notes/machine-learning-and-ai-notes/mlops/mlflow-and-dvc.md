@@ -16,14 +16,14 @@ DVC - Data Version Control
 - complements and augments an ordinary git repo
 
 ![[dvc-with-minio.png]]
-Kedro, Kedro-Viz
-----
 
-MinIO 
------
 
-Streamlit
+MinIO - High Performance Object Storage for AI
 -----
+- S3 Object Storage ပုံစံ blo
+- 
+
+
 
 
 ![[dvc-minio-mlflow.png]]

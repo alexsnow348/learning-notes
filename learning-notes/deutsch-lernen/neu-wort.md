@@ -26,7 +26,10 @@ Wort - Noun
 |[  die Jobbörse](https://www.dict.cc/?s=Jobb%C3%B6rse) | [die Jobbörsen](https://www.dict.cc/?s=Jobb%C3%B6rsen)| job market - job fair 
 |[der Arbeitnehmer](https://www.dict.cc/?s=Arbeitnehmer) | [die Arbeitnehmer](https://www.dict.cc/?s=Arbeitnehmer)| employee - အလုပ်သမား|
 |[die Bewerbungsunterlage](https://www.dict.cc/?s=Bewerbungsunterlage) | [die Bewerbungsunterlagen](https://www.dict.cc/?s=Bewerbungsunterlagen)| application  - resume and reference |
-|[die Fähigkeit](https://www.dict.cc/?s=F%C3%A4higkeit) | [die Fähigkeiten](https://www.dict.cc/?s=F%C3%A4higkeiten) | ability- skills
+|[die Fähigkeit](https://www.dict.cc/?s=F%C3%A4higkeit) | [die Fähigkeiten](https://www.dict.cc/?s=F%C3%A4higkeiten) | ability- skills - အရည်အချင်|
+| [der Mindestlohn](https://www.dict.cc/?s=Mindestlohn) | [die Mindestlöhne](https://www.dict.cc/?s=Mindestl%C3%B6hne)| minimum wage - အခြေခံ လခ (တစ်နာရီ) |
+|[der Azubi](https://www.dict.cc/?s=Azubi) | [die Azubis](https://www.dict.cc/?s=Azubis)| trainee - apprentice - အလုပ်သင်|
+
 
 
 
@@ -44,7 +47,7 @@ Das Verb - Verb
 | [mitteilen](https://www.dict.cc/?s=mitteilen)      | [teilte mit](https://www.dict.cc/?s=teilte+mit)/[mitteilte](https://www.dict.cc/?s=mitteilte)         | [mitgeteilt](https://www.dict.cc/?s=mitgeteilt)     | to inform/communicate/disclose  - အသိပေးအကြောင်းကြာခြင်း 
 |[einstellen](https://www.dict.cc/?s=einstellen) | [stellte ein](https://www.dict.cc/?s=stellte)/[einstellte](https://www.dict.cc/?s=einstellte) | [eingestellt](https://www.dict.cc/?s=eingestellt)| to hire/recruit - ဝန်ထမ်းခေါ်ခြင်း|
 |[anfangen](https://www.dict.cc/?s=anfangen) | [fing an](https://www.dict.cc/?s=fing+an)/[anfing](https://www.dict.cc/?s=anfing) | [angefangen](https://www.dict.cc/?s=angefangen)| to start - ပြန်စတင်ခြင်း|
-|[**bieten**](https://www.dict.cc/?s=bieten)| [bot](https://www.dict.cc/?s=bot) | [geboten](https://www.dict.cc/?s=geboten)| to offer - အလုပ်ပေးခြင်း|
+|[anbieten](https://www.dict.cc/?s=anbieten) | [bot an](https://www.dict.cc/?s=bot+an)  - [anbot](https://www.dict.cc/?s=anbot) | [angeboten](https://www.dict.cc/?s=angeboten) |to offer - အလုပ်ပေးခြင်း|
 
 
 Folgend - Adjective

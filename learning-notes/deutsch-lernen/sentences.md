@@ -21,3 +21,11 @@
 	- Ich habe zwei Kinder.
 	- Wie alt sind sie? - သူတို့ အသက်ဘယ်လောက်တွေ ရှိနေကြပြီးလဲ။
 - Wie alt bist du? - မင် အသက်ဘယ်လောက်ရှိပြီးလဲ။
+
+- Ich habe Ihre Anzeige gelesen. 
+- Ja, Sie können sich gerne noch bewerben.
+- Weißt die Arbeitszeit? 
+- Praktikanten arbeiten in der Regel von 8 bis 16 Uhr
+- Arbeite ich auch am Wochenende? 
+- Bekomme ich auch für das Praktikum eigentlich das Geld? 
+- Bekomme ich für das Praktikum auch Geld?

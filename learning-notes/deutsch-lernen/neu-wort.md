@@ -29,6 +29,8 @@ Wort - Noun
 |[die Fähigkeit](https://www.dict.cc/?s=F%C3%A4higkeit) | [die Fähigkeiten](https://www.dict.cc/?s=F%C3%A4higkeiten) | ability- skills - အရည်အချင်|
 | [der Mindestlohn](https://www.dict.cc/?s=Mindestlohn) | [die Mindestlöhne](https://www.dict.cc/?s=Mindestl%C3%B6hne)| minimum wage - အခြေခံ လခ (တစ်နာရီ) |
 |[der Azubi](https://www.dict.cc/?s=Azubi) | [die Azubis](https://www.dict.cc/?s=Azubis)| trainee - apprentice - အလုပ်သင်|
+|[die Probezeit](https://www.dict.cc/?s=Probezeit) | [die Probezeiten](https://www.dict.cc/?s=Probezeiten)| probation - အစမ်ခန့် |
+
 
 
 

@@ -46,12 +46,13 @@ Das Verb - Verb
 Folgend - Adjective
 ---
 
-| **စကားလုံး**                                               | **အဓိပ္ပါယ်**     |
-| ---------------------------------------------------------- | ----------------- |
+| **စကားလုံး**              | **အဓိပ္ပါယ်**     |
+| -------------------- | ----------------- |
 | [**anderer**](https://www.dict.cc/?s=anderer)              | another - တစ်ခြား |
 | [**beruflich**](https://www.dict.cc/?s=beruflich)          | professional      |
 | [**berufstätig**](https://www.dict.cc/?s=berufst%C3%A4tig) | working           |
-|                                                            |                   |
+|[befristet](https://www.dict.cc/?s=befristet)| temporary - contract term|
+|[unbefristet](https://www.dict.cc/?s=unbefristet)| unlimited - contract term|
 
 
 Adverb

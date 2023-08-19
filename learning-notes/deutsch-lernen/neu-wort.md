@@ -25,6 +25,8 @@ Wort - Noun
 | [der Arbeitgeber](https://www.dict.cc/?s=Arbeitgeber)           | [die Arbeitgeber](https://www.dict.cc/?s=Arbeitgeber)       |    employer - အလုပ်ရှင်   |
 |[  die Jobbörse](https://www.dict.cc/?s=Jobb%C3%B6rse) | [die Jobbörsen](https://www.dict.cc/?s=Jobb%C3%B6rsen)| job market - job fair 
 |[der Arbeitnehmer](https://www.dict.cc/?s=Arbeitnehmer) | [die Arbeitnehmer](https://www.dict.cc/?s=Arbeitnehmer)| employee - အလုပ်သမား|
+|[die Bewerbungsunterlage](https://www.dict.cc/?s=Bewerbungsunterlage) | [die Bewerbungsunterlagen](https://www.dict.cc/?s=Bewerbungsunterlagen)| application  - resume and reference |
+|[die Fähigkeit](https://www.dict.cc/?s=F%C3%A4higkeit) | [die Fähigkeiten](https://www.dict.cc/?s=F%C3%A4higkeiten) | ability- skills
 
 
 
@@ -42,7 +44,8 @@ Das Verb - Verb
 | [mitteilen](https://www.dict.cc/?s=mitteilen)      | [teilte mit](https://www.dict.cc/?s=teilte+mit)/[mitteilte](https://www.dict.cc/?s=mitteilte)         | [mitgeteilt](https://www.dict.cc/?s=mitgeteilt)     | to inform/communicate/disclose  - အသိပေးအကြောင်းကြာခြင်း 
 |[einstellen](https://www.dict.cc/?s=einstellen) | [stellte ein](https://www.dict.cc/?s=stellte)/[einstellte](https://www.dict.cc/?s=einstellte) | [eingestellt](https://www.dict.cc/?s=eingestellt)| to hire/recruit - ဝန်ထမ်းခေါ်ခြင်း|
 |[anfangen](https://www.dict.cc/?s=anfangen) | [fing an](https://www.dict.cc/?s=fing+an)/[anfing](https://www.dict.cc/?s=anfing) | [angefangen](https://www.dict.cc/?s=angefangen)| to start - ပြန်စတင်ခြင်း|
-|[**bieten**](https://www.dict.cc/?s=bieten)|[bieten](https://www.dict.cc/?s=bieten) | [bot](https://www.dict.cc/?s=bot) | [geboten](https://www.dict.cc/?s=geboten)
+|[**bieten**](https://www.dict.cc/?s=bieten)| [bot](https://www.dict.cc/?s=bot) | [geboten](https://www.dict.cc/?s=geboten)| to offer - အလုပ်ပေးခြင်း|
+
 
 Folgend - Adjective
 ---
@@ -54,6 +57,11 @@ Folgend - Adjective
 | [**berufstätig**](https://www.dict.cc/?s=berufst%C3%A4tig) | working           |
 |[befristet](https://www.dict.cc/?s=befristet)| temporary - contract term|
 |[unbefristet](https://www.dict.cc/?s=unbefristet)| unlimited - contract term|
+|[**lernbereit**](https://www.dict.cc/?s=lernbereit)| willing to learn - သင်ယူလိုစိတ်ရှိ |
+|[**lernfähig**](https://www.dict.cc/?s=lernf%C3%A4hig)| able to learn|
+|[**teamfähig**](https://www.dict.cc/?s=teamf%C3%A4hig)| team-minded|
+
+
 
 
 Adverb
@@ -63,6 +71,8 @@ Adverb
 | ----------------------------------------------- | ------------- |
 | [**ziemlich**](https://www.dict.cc/?s=ziemlich) | pretty  -     |
 | [**circa**](https://www.dict.cc/?s=circa)       | approximately |
+|[**mindestens**](https://www.dict.cc/?s=mindestens)|  at a minimum |
+
 
 
 Conjugation

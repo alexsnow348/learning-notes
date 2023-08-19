@@ -11,18 +11,22 @@ Wort - Noun
 | [das Amt](https://www.dict.cc/?s=Amt)                           | [die Ämter](https://www.dict.cc/?s=%C3%84mter)              | office - ရုံးခန်း         |
 | [die Ärztin](https://www.dict.cc/?s=%C3%84rztin)                | [die Ärztinnen](https://www.dict.cc/?s=%C3%84rztinnen)      | doctor - ဆရာဝန်းမ                    |
 | [der Arzt](https://www.dict.cc/?s=Arzt)                         | [die Ärzte](https://www.dict.cc/?s=%C3%84rzte)              | doctor - ဆရာဝန်း             |
-| [der Ingenieur](https://www.dict.cc/?s=Ingenieur)               | [die Ingenieure](https://www.dict.cc/?s=Ingenieure)         | အင်ဂျင်နီယာ|                                      |
-| [die Hausfrau](https://www.dict.cc/?s=Hausfrau)                 | [die Hausfrauen](https://www.dict.cc/?s=Hausfrauen)         | အိမ်ရှင်မ                                                                              |
-| [die Polizistin](https://www.dict.cc/?s=Polizistin)             | [die Polizistinnen](https://www.dict.cc/?s=Polizistinnen)   | ရဲ(အမ)                                                                                  |
-| [der Polizist](https://www.dict.cc/?s=Polizist)                 | [die Polizisten](https://www.dict.cc/?s=Polizisten)         | ရဲ (အထီး)                                    |
+| [der Ingenieur](https://www.dict.cc/?s=Ingenieur)               | [die Ingenieure](https://www.dict.cc/?s=Ingenieure)         | အင်ဂျင်နီယာ|    |
+| [die Hausfrau](https://www.dict.cc/?s=Hausfrau)                 | [die Hausfrauen](https://www.dict.cc/?s=Hausfrauen)         | အိမ်ရှင်မ             |
+| [die Polizistin](https://www.dict.cc/?s=Polizistin)             | [die Polizistinnen](https://www.dict.cc/?s=Polizistinnen)   | ရဲ(အမ)                 |
+| [der Polizist](https://www.dict.cc/?s=Polizist)                 | [die Polizisten](https://www.dict.cc/?s=Polizisten)         | ရဲ (အထီး)        |
 | [der Krankenpfleger](https://www.dict.cc/?s=Krankenpfleger)     | [die Krankenpfleger](https://www.dict.cc/?s=Krankenpfleger) | သူနာပြု ဆရာ              |
-| [die Krankenschwester](https://www.dict.cc/?s=Krankenschwester) | die Krankenschwestern                                       | သူနာပြု ဆရာမ                  |
+| [die Krankenschwester](https://www.dict.cc/?s=Krankenschwester) | die Krankenschwestern                                       | သူနာပြု ဆရာမ       |
 | [das Zeugnis](https://www.dict.cc/?s=Zeugnis)                   | die Zeugnisse                                               | certificate - လက်မှတ်                     |
-| [der Reiseführer](https://www.dict.cc/?s=Reisef%C3%BChrer)      | die Reiseführer                                             | travel guide                  |     |     |     |     |     |     |     |                  |
-| [die Ausbildung](https://www.dict.cc/?s=Ausbildung)             | die Ausbildungen                                            | education/apprenticeship      |     |     |     |     |     |     |     |            |                                                           |
-| [der Verkäufer](https://www.dict.cc/?s=Verk%C3%A4ufer)          | die Verkäufer                                               | salesman - စျေးရောင်း/စျေးဝယ်                                                        |      |
-| [die Aufgabe](https://www.dict.cc/?s=Aufgabe)                   | [die Aufgaben](https://www.dict.cc/?s=Aufgaben)             | tasks/duties - တာဝန်း         |     |     |     |        |
-| [der Arbeitgeber](https://www.dict.cc/?s=Arbeitgeber)           | [die Arbeitgeber](https://www.dict.cc/?s=Arbeitgeber)       |                                                                                                   |
+| [der Reiseführer](https://www.dict.cc/?s=Reisef%C3%BChrer)      | die Reiseführer                                             | travel guide                               |
+| [die Ausbildung](https://www.dict.cc/?s=Ausbildung)             | die Ausbildungen                                            | education - apprenticeship                 |
+| [der Verkäufer](https://www.dict.cc/?s=Verk%C3%A4ufer)          | die Verkäufer                                               | salesman - စျေးရောင်း/စျေးဝယ်       |
+| [die Aufgabe](https://www.dict.cc/?s=Aufgabe)                   | [die Aufgaben](https://www.dict.cc/?s=Aufgaben)             | tasks/duties - တာဝန်း              |
+| [der Arbeitgeber](https://www.dict.cc/?s=Arbeitgeber)           | [die Arbeitgeber](https://www.dict.cc/?s=Arbeitgeber)       |    employer - အလုပ်ရှင်   |
+|[  die Jobbörse](https://www.dict.cc/?s=Jobb%C3%B6rse) | [die Jobbörsen](https://www.dict.cc/?s=Jobb%C3%B6rsen)| job market - job fair 
+|[der Arbeitnehmer](https://www.dict.cc/?s=Arbeitnehmer) | [die Arbeitnehmer](https://www.dict.cc/?s=Arbeitnehmer)| employee - အလုပ်သမား|
+
+
 
 
 Das Verb - Verb

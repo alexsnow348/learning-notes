@@ -41,7 +41,8 @@ Das Verb - Verb
 | [auswandern](https://www.dict.cc/?s=auswandern)    | [wanderte aus](https://www.dict.cc/?s=wanderte+aus)/[auswanderte](https://www.dict.cc/?s=auswanderte) | [ausgewandert](https://www.dict.cc/?s=ausgewandert) | to emigrate - ရွေ့ပြောင်နေထိုင်ခြင်း     |
 | [mitteilen](https://www.dict.cc/?s=mitteilen)      | [teilte mit](https://www.dict.cc/?s=teilte+mit)/[mitteilte](https://www.dict.cc/?s=mitteilte)         | [mitgeteilt](https://www.dict.cc/?s=mitgeteilt)     | to inform/communicate/disclose  - အသိပေးအကြောင်းကြာခြင်း 
 |[einstellen](https://www.dict.cc/?s=einstellen) | [stellte ein](https://www.dict.cc/?s=stellte)/[einstellte](https://www.dict.cc/?s=einstellte) | [eingestellt](https://www.dict.cc/?s=eingestellt)| to hire/recruit - ဝန်ထမ်းခေါ်ခြင်း|
-
+|[anfangen](https://www.dict.cc/?s=anfangen) | [fing an](https://www.dict.cc/?s=fing+an)/[anfing](https://www.dict.cc/?s=anfing) | [angefangen](https://www.dict.cc/?s=angefangen)| to start - ပြန်စတင်ခြင်း|
+|[**bieten**](https://www.dict.cc/?s=bieten)|[bieten](https://www.dict.cc/?s=bieten) | [bot](https://www.dict.cc/?s=bot) | [geboten](https://www.dict.cc/?s=geboten)
 
 Folgend - Adjective
 ---

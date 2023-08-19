@@ -51,12 +51,12 @@ Deep Learning
 - type of machine learning based on artificial neural networks in which multiple layers of processing are used to extract progressively **higher level features** from data.
 
 ![[feature-engineering.png]]
-![[Pasted image 20230817162822.png]]
+![[machine-learing-deep-learning.png]]
 ![[shallow-deep-neural-network.png]]
 Types of Deep ANN modes
 ---
 - CNN - Convolutional neural network
-	![[Pasted image 20230817162904.png]]
+	![[cnn.png]]
 - RNN - Recurrent Neural Network
 - Auto-encoder
 - deep belieft networks (DBNs)

@@ -7,4 +7,7 @@ Courses
 Books
 ---
 1. [[hands-on-machine-learning-scikit-learn-keras-tensorflow.pdf]]
-2. 
+
+Study Plan
+---
+1. [[studyplan_data_Scientist.pdf]]

@@ -27,10 +27,10 @@
 ### Job Anzeige
 
 - Ich habe Ihre Anzeige gelesen.  - ငါ မင်တို့ရဲ့ ကြေညာကို ဖတ်မိတယ်။
-- Ja, Sie können sich gerne noch bewerben.
-- Weißt die Arbeitszeit? 
-- Praktikanten arbeiten in der Regel von 8 bis 16 Uhr
-- Arbeite ich auch am Wochenende? 
-- Bekomme ich auch für das Praktikum eigentlich das Geld? 
-- Bekomme ich für das Praktikum auch Geld?
-- Ist die Stelle noch frei?
+- Ist die Stelle noch frei? - အလုပ်ခေါ်စာက ခေါ်နေတုန်လား?
+- Ja, Sie können sich gerne noch bewerben. - အလုပ်လျှောက်ဖို့ ခေါ်နေတုန်ပါပဲ။
+- Weißt die Arbeitszeit?  - အလုပ်ချိန်ကို သိပါသလား?
+	- Praktikanten arbeiten in der Regel von 8 bis 16 Uhr - စည််းမျဥ်း စည်းကမ်း အရတော့ အလုပ်သင် အလုပ်ချိန်က မနက် ၈ နာရီကနေ ညနေ ၄ နာရီအထိပါ။
+- Arbeite ich auch am Wochenende? - ရုံးပိတ်ချိန်တွေရော အလုပ်လုပ်ရသေးလား?
+- Bekomme ich auch für das Praktikum eigentlich das Geld? - အလုပ်သင်အတွက်ရော ပိုက်ဆံပေးသေးလား?
+

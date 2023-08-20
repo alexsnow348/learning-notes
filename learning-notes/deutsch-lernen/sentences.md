@@ -34,4 +34,6 @@
 - Arbeite ich auch am Wochenende? - ရုံးပိတ်ချိန်တွေရော အလုပ်လုပ်ရသေးလား?
 - Bekomme ich auch für das Praktikum eigentlich das Geld? - အလုပ်သင်အတွက်ရော ပိုက်ဆံပေးသေးလား?
 - Ich bin zurzeit arbeitslos. - ငါအခုလောလော အလုပ်မရှိဘူ။
-- Ich bin nicht berufstätig. - ငါ အလုပ်မရှိသေးဘး။
+- Ich bin nicht berufstätig. - ငါ အလုပ်မရှိသေးဘူး။
+- Ist die Wohnung noch zu haben? 
+- Ich möchte/ muss jetzt in die Kirche gehen 

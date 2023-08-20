@@ -29,3 +29,4 @@
 - Arbeite ich auch am Wochenende? 
 - Bekomme ich auch für das Praktikum eigentlich das Geld? 
 - Bekomme ich für das Praktikum auch Geld?
+- Ist die Stelle noch frei?

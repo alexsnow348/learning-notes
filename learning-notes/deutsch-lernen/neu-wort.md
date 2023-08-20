@@ -30,7 +30,8 @@ Wort - Noun
 | [der Mindestlohn](https://www.dict.cc/?s=Mindestlohn) | [die Mindestlöhne](https://www.dict.cc/?s=Mindestl%C3%B6hne)| minimum wage - အခြေခံ လခ (တစ်နာရီ) |
 |[der Azubi](https://www.dict.cc/?s=Azubi) | [die Azubis](https://www.dict.cc/?s=Azubis)| trainee - apprentice - အလုပ်သင်|
 |[die Probezeit](https://www.dict.cc/?s=Probezeit) | [die Probezeiten](https://www.dict.cc/?s=Probezeiten)| probation - အစမ်ခန့် |
-|[die Vergütung](https://www.dict.cc/?s=Verg%C3%BCtung) | [die Vergütungen](https://www.dict.cc/?s=Verg%C3%BCtungen)| 
+|[die Vergütung](https://www.dict.cc/?s=Verg%C3%BCtung) | [die Vergütungen](https://www.dict.cc/?s=Verg%C3%BCtungen)| allowance - salary 
+
 
 
 
@@ -79,6 +80,7 @@ Adverb
 | [**circa**](https://www.dict.cc/?s=circa)       | approximately |
 |[**mindestens**](https://www.dict.cc/?s=mindestens)|  at a minimum |
 |[schlecht](https://www.dict.cc/?s=schlecht) -[schlechter](https://www.dict.cc/?s=schlechter) | poor - bad |
+|[**normalerweise**](https://www.dict.cc/?s=normalerweise)| 
 
 
 

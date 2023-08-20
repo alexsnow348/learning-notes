@@ -1,7 +1,7 @@
 Data Preprocessing
 ---
 
-### Creating Tensor Dataset form Existing Tensors - အရင် ရှိပြီးသာ tensor မှ dataset တည်ဆောက်မယ်။
+## Creating Tensor Dataset form Existing Tensors - အရင် ရှိပြီးသာ tensor မှ dataset တည်ဆောက်မယ်။
 
 - list ကနေ dataset ဆောက်မယ်။
 ```python
@@ -97,7 +97,23 @@ for i, (batch_x,batch_y) in enumerate(ds_repeat):
 
 ### Creating a dataset from files on your local storage disk -  local storage က data တွေကို ဖတ်ပြီး tensor အဖြင့်ပြောင်းမယ်။
 
-##
+### CSV data ကို load လုပ်မယ်။
+
+```python
+import pandas as pd # Load the CSV-like data into a pandas DataFrame
+import tensorflow as tf
+csv_file = "data/california_housing.csv" # Replace with the path to your CSV file 
+dataframe = pd.read_csv(csv_file)
+dataframe = dataframe[dataframe.columns[1:]] # Remove the first column (which is the ID column)
+
+# Assuming the target column is named "target" 
+labels = dataframe.pop("MedHouseVal") # Convert the DataFrame to a TensorFlow Dataset 
+# data နဲ့ label ကို တွဲမယ်။
+dataset = tf.data.Dataset.from_tensor_slices((dict(dataframe), labels))
+```
+
+## Image data ကို load လုပ်မယ်။
+
 - file list ကို folder တွေက ထုတ်ယူမယ်။
 
 ```python

@@ -109,4 +109,33 @@ def create_data(batch_size=64):
 x, y = create_data()
 plt.plot(x,y, ".") # dot graph ကို ဆွဲပေးတယ်။
 
+# Linear Regression Step by Step
+iterations = 100 # gradient step
+learning_rate = 0.03
+w = tf.Variable(10.0)
+b = tf.Variable(1.0)
+
+w_history = []
+b_history = []
+
+for iter in range(iterations):
+    x_batch, y_batch = create_data()
+    x_batch = tf.convert_to_tensor(x_batch, dtype=tf.float32)
+    y_batch = tf.convert_to_tensor(y_batch, dtype=tf.float32)
+    
+    with tf.GradientTape(persistent=True) as tape:
+        y = w * x_batch + b
+        loss = tf.reduce_mean(tf.square(y-y_batch))
+        
+    dw = tape.gradient(loss, w)
+    db = tape.gradient(loss, b)
+    del tape
+    
+    w.assign_sub(learning_rate*dw) # (w:= w - db * lr)
+    b.assign_sub(learning_rate*db) # (b:= b - db * lr)
+    
+    w_history.append(w.numpy())
+    b_history.append(b.numpy()) 
+    if iter % 10 == 0:
+        print('Iter {}, W={}, b={}'.format(iter, w.numpy(), b.numpy()))
 ```

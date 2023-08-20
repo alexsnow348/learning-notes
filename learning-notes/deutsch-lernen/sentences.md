@@ -1,6 +1,8 @@
 စကားလုံးများဖြင့် ဖွဲ့စည်ထားသော စာကြောင်းများ
 ---
 
+### Small talk
+
 - Was bist du von Beruf? - မင်ဘာအလုပ်လုပ်လဲ။
 	- Ich bin Ingenieur. - ငါ အင်ဂျင်နီယာ တစ်ယောက်ပါ။
 - Wo bist du geboren? - မင် ဘယ်အချိန်က မွေးခဲတာလဲ။
@@ -22,7 +24,9 @@
 	- Wie alt sind sie? - သူတို့ အသက်ဘယ်လောက်တွေ ရှိနေကြပြီးလဲ။
 - Wie alt bist du? - မင် အသက်ဘယ်လောက်ရှိပြီးလဲ။
 
-- Ich habe Ihre Anzeige gelesen. 
+### Job Anzeige
+
+- Ich habe Ihre Anzeige gelesen.  - ငါ မင်တို့ရဲ့ ကြေညာကို ဖတ်မိတယ်။
 - Ja, Sie können sich gerne noch bewerben.
 - Weißt die Arbeitszeit? 
 - Praktikanten arbeiten in der Regel von 8 bis 16 Uhr

@@ -25,12 +25,19 @@ Wort - Noun
 | [der Arbeitgeber](https://www.dict.cc/?s=Arbeitgeber)           | [die Arbeitgeber](https://www.dict.cc/?s=Arbeitgeber)       |    employer - အလုပ်ရှင်   |
 |[  die Jobbörse](https://www.dict.cc/?s=Jobb%C3%B6rse) | [die Jobbörsen](https://www.dict.cc/?s=Jobb%C3%B6rsen)| job market - job fair 
 |[der Arbeitnehmer](https://www.dict.cc/?s=Arbeitnehmer) | [die Arbeitnehmer](https://www.dict.cc/?s=Arbeitnehmer)| employee - အလုပ်သမား|
-|[die Bewerbungsunterlage](https://www.dict.cc/?s=Bewerbungsunterlage) | [die Bewerbungsunterlagen](https://www.dict.cc/?s=Bewerbungsunterlagen)| application  - resume and reference |
+|[die Bewerbungsunterlage](https://www.dict.cc/?s=Bewerbungsunterlage) | [die Bewerbungsunterlagen](https://www.dict.cc/?s=Bewerbungsunterlagen)| application documents - resume and reference |
 |[die Fähigkeit](https://www.dict.cc/?s=F%C3%A4higkeit) | [die Fähigkeiten](https://www.dict.cc/?s=F%C3%A4higkeiten) | ability- skills - အရည်အချင်|
 | [der Mindestlohn](https://www.dict.cc/?s=Mindestlohn) | [die Mindestlöhne](https://www.dict.cc/?s=Mindestl%C3%B6hne)| minimum wage - အခြေခံ လခ (တစ်နာရီ) |
 |[der Azubi](https://www.dict.cc/?s=Azubi) | [die Azubis](https://www.dict.cc/?s=Azubis)| trainee - apprentice - အလုပ်သင်|
 |[die Probezeit](https://www.dict.cc/?s=Probezeit) | [die Probezeiten](https://www.dict.cc/?s=Probezeiten)| probation - အစမ်ခန့် |
-|[die Vergütung](https://www.dict.cc/?s=Verg%C3%BCtung) | [die Vergütungen](https://www.dict.cc/?s=Verg%C3%BCtungen)| allowance - salary 
+|[die Vergütung](https://www.dict.cc/?s=Verg%C3%BCtung) | [die Vergütungen](https://www.dict.cc/?s=Verg%C3%BCtungen)| allowance - ကျောင်သား လစာ - salary
+|[das Bewerbungsgespräch](https://www.dict.cc/?s=Bewerbungsgespr%C3%A4ch) | [die Bewerbungsgespräche](https://www.dict.cc/?s=Bewerbungsgespr%C3%A4che)| job interview - အလုပ် အင်တာဗျူ
+|[der Gehalt](https://www.dict.cc/?s=Gehalt) | [die Gehalte](https://www.dict.cc/?s=Gehalte)| salary - လစာ |
+|[der Lohn [Bezahlung, Gehalt]](https://www.dict.cc/?s=Lohn) | [die Löhne](https://www.dict.cc/?s=L%C3%B6hne)| wage - လစာ |
+|[das Einkommen](https://www.dict.cc/?s=Einkommen) | [die Einkommen](https://www.dict.cc/?s=Einkommen)| income - ဝင်ငွေ
+
+
+
 
 
 
@@ -52,7 +59,9 @@ Das Verb - Verb
 |[einstellen](https://www.dict.cc/?s=einstellen) | [stellte ein](https://www.dict.cc/?s=stellte)/[einstellte](https://www.dict.cc/?s=einstellte) | [eingestellt](https://www.dict.cc/?s=eingestellt)| to hire/recruit - ဝန်ထမ်းခေါ်ခြင်း|
 |[anfangen](https://www.dict.cc/?s=anfangen) | [fing an](https://www.dict.cc/?s=fing+an)/[anfing](https://www.dict.cc/?s=anfing) | [angefangen](https://www.dict.cc/?s=angefangen)| to start - ပြန်စတင်ခြင်း|
 |[anbieten](https://www.dict.cc/?s=anbieten) | [bot an](https://www.dict.cc/?s=bot+an)  - [anbot](https://www.dict.cc/?s=anbot) | [angeboten](https://www.dict.cc/?s=angeboten) |to offer - အလုပ်ပေးခြင်း|
-|[schicken](https://www.dict.cc/?s=schicken) | [schickte](https://www.dict.cc/?s=schickte) | [geschickt](https://www.dict.cc/?s=geschickt)| to send - ပို့ပေးခြင်း
+|[schicken](https://www.dict.cc/?s=schicken) | [schickte](https://www.dict.cc/?s=schickte) | [geschickt](https://www.dict.cc/?s=geschickt)| to send - ပို့ပေးခြင် |
+|[bewerben](https://www.dict.cc/?s=bewerben) | [bewarb](https://www.dict.cc/?s=bewarb) | [beworben](https://www.dict.cc/?s=beworben)| to apply - အလုပ် လျှောက်ခြင်း |
+
 
 
 Folgend - Adjective

@@ -1,7 +1,7 @@
 စကားလုံးများဖြင့် ဖွဲ့စည်ထားသော စာကြောင်းများ
 ---
 
-### Small talk
+### Small talk ( privates sprechen )
 
 - Was bist du von Beruf? - မင်ဘာအလုပ်လုပ်လဲ။
 	- Ich bin Ingenieur. - ငါ အင်ဂျင်နီယာ တစ်ယောက်ပါ။
@@ -24,7 +24,7 @@
 	- Wie alt sind sie? - သူတို့ အသက်ဘယ်လောက်တွေ ရှိနေကြပြီးလဲ။
 - Wie alt bist du? - မင် အသက်ဘယ်လောက်ရှိပြီးလဲ။
 
-### Job Anzeige
+### Job Anzeige ( den beruf sprechen )
 
 - Ich habe Ihre Anzeige gelesen.  - ငါ မင်တို့ရဲ့ ကြေညာကို ဖတ်မိတယ်။
 - Ist die Stelle noch frei? - အလုပ်ခေါ်စာက ခေါ်နေတုန်လား?
@@ -33,4 +33,5 @@
 	- Praktikanten arbeiten in der Regel von 8 bis 16 Uhr - စည််းမျဥ်း စည်းကမ်း အရတော့ အလုပ်သင် အလုပ်ချိန်က မနက် ၈ နာရီကနေ ညနေ ၄ နာရီအထိပါ။
 - Arbeite ich auch am Wochenende? - ရုံးပိတ်ချိန်တွေရော အလုပ်လုပ်ရသေးလား?
 - Bekomme ich auch für das Praktikum eigentlich das Geld? - အလုပ်သင်အတွက်ရော ပိုက်ဆံပေးသေးလား?
-
+- Ich bin zurzeit arbeitslos. - ငါအခုလောလော အလုပ်မရှိဘူ။
+- Ich bin nicht berufstätig. - ငါ အလုပ်မရှိသေးဘး။

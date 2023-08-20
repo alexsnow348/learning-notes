@@ -85,7 +85,7 @@ print(f"dz_dx: {dz_dx.numpy()}") # dz_dx: 54.0
 print(f"dz_dy: {dz_dy.numpy()}") # dz_dy: 2.0
 ```
 
-- linear regression 
+- linear regression တွက်မယ်။
 $$
 \begin{equation}
 
@@ -93,3 +93,20 @@ y = wx + b
 
 \end{equation}
 $$
+```python
+# data generatiimport matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
+np.random.seed(42)
+true_w, true_b = 7.0, 4.0
+
+  
+
+def create_data(batch_size=64):
+	x = np.random.randn(batch_size, 1)
+	y = np.random.randn(batch_size, 1) + true_w * x + true_b # added noise for challenging, random noise
+	return x, y
+
+x, y = create_data()
+plt.plot(x,y, ".") # dot graph ကို ဆွဲပေးတယ်။
+
+```

@@ -3,5 +3,5 @@
 - [[installation]]
 - [[basic-notes]]
 - [[data-preprocessing]]
-- [[ml-with-tensorflow]]
+- [[manual-gradient-and-linear-regression]]
 - 

@@ -1,4 +1,4 @@
-Machine Learning with TensorFlow
+Linear Regression with TensorFlow
 ---
 
 ###  gradient descent တွက်နည်း

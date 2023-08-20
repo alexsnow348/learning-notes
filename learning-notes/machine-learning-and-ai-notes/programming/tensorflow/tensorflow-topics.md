@@ -3,3 +3,5 @@
 - [[installation]]
 - [[basic-notes]]
 - [[data-preprocessing]]
+- [[ml-with-tensorflow]]
+- 

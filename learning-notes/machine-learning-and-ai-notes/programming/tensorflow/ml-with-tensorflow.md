@@ -59,11 +59,37 @@ dy_dx = tape.gradient(y, x)
 print(dy_dx)  # This will print 4.0, which is the derivative of y = x^2 with respect to x.
 ```
 
-- persistent tape 
+- persistent tape - chain rule တွက်တဲ့နေရာမှာ သုံးလို့ပါတယ်။
 $$
 \begin{equation}
 
 y = x^3 ; z = 2y ; \frac{dz}{dx} = \frac{dz}{dy} . \frac{dy}{dx}
+
+\end{equation}
+$$
+```python
+x = tf.Variable(3.0)
+
+with tf.GradientTape(persistent=True) as tape:
+	y = x ** 3
+	z = 2 * y
+
+dy_dx = tape.gradient(y, x)
+dz_dx = tape.gradient(z, x)
+dz_dy = tape.gradient(z, y)
+
+del tape # delete အရမ်းအရေးကြီးပါတယ်။
+
+print(f"dy_dx: {dy_dx.numpy()}") # dy_dx: 27.0
+print(f"dz_dx: {dz_dx.numpy()}") # dz_dx: 54.0
+print(f"dz_dy: {dz_dy.numpy()}") # dz_dy: 2.0
+```
+
+- linear regression 
+$$
+\begin{equation}
+
+y = wx + b
 
 \end{equation}
 $$

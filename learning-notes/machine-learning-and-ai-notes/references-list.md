@@ -19,4 +19,4 @@ Study Plan
 7. [[python-ultimate-guide.pdf]]
 8. [[oop-python-guide.pdf]]
 9. [[design-patterns-guide.pdf]]
-10. 
+10. [[git-ultimate-guide.pdf]]

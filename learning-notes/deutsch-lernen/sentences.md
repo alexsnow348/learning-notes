@@ -24,7 +24,7 @@
 	- Wie alt sind sie? - သူတို့ အသက်ဘယ်လောက်တွေ ရှိနေကြပြီးလဲ။
 - Wie alt bist du? - မင် အသက်ဘယ်လောက်ရှိပြီးလဲ။
 
-### Job Anzeige ( den beruf sprechen )
+### Job Anzeige ( am Telefon nach einer Stelle fragen  )
 
 - Ich habe Ihre Anzeige gelesen.  - ငါ မင်တို့ရဲ့ ကြေညာကို ဖတ်မိတယ်။
 - Ist die Stelle noch frei? - အလုပ်ခေါ်စာက ခေါ်နေတုန်လား?

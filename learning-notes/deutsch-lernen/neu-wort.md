@@ -35,12 +35,7 @@ Wort - Noun
 |[der Gehalt](https://www.dict.cc/?s=Gehalt) | [die Gehalte](https://www.dict.cc/?s=Gehalte)| salary - လစာ |
 |[der Lohn [Bezahlung, Gehalt]](https://www.dict.cc/?s=Lohn) | [die Löhne](https://www.dict.cc/?s=L%C3%B6hne)| wage - လစာ |
 |[das Einkommen](https://www.dict.cc/?s=Einkommen) | [die Einkommen](https://www.dict.cc/?s=Einkommen)| income - ဝင်ငွေ
-[die Erfahrung](https://www.dict.cc/?s=Erfahrung) | [- [das Erfahren (z. B. »in Erfahrung bringen«; Gesamtheit der Erlebnisse]](https://www.dict.cc/?s=-)[die Erfahrungen [einzelne Erlebnisse]](https://www.dict.cc/?s=Erfahrungen)
-
-
-
-
-
+|[die Erfahrung](https://www.dict.cc/?s=Erfahrung) |[die Erfahrungen](https://www.dict.cc/?s=Erfahrungen) | experiences - အတွေအကြုံ
 
 
 
@@ -64,7 +59,7 @@ Das Verb - Verb
 
 
 
-Folgend - Adjective
+Adjective
 ---
 
 | **စကားလုံး**              | **အဓိပ္ပါယ်**     |
@@ -77,6 +72,7 @@ Folgend - Adjective
 |[**lernbereit**](https://www.dict.cc/?s=lernbereit)| willing to learn - သင်ယူလိုစိတ်ရှိ |
 |[**lernfähig**](https://www.dict.cc/?s=lernf%C3%A4hig)| able to learn|
 |[**teamfähig**](https://www.dict.cc/?s=teamf%C3%A4hig)| team-minded|
+|[**einfach**](https://www.dict.cc/?s=einfach)| easy - လွယ်လွယ်လေး|
 
 
 

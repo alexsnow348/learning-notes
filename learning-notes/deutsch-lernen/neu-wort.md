@@ -52,6 +52,7 @@ Das Verb - Verb
 |[einstellen](https://www.dict.cc/?s=einstellen) | [stellte ein](https://www.dict.cc/?s=stellte)/[einstellte](https://www.dict.cc/?s=einstellte) | [eingestellt](https://www.dict.cc/?s=eingestellt)| to hire/recruit - ဝန်ထမ်းခေါ်ခြင်း|
 |[anfangen](https://www.dict.cc/?s=anfangen) | [fing an](https://www.dict.cc/?s=fing+an)/[anfing](https://www.dict.cc/?s=anfing) | [angefangen](https://www.dict.cc/?s=angefangen)| to start - ပြန်စတင်ခြင်း|
 |[anbieten](https://www.dict.cc/?s=anbieten) | [bot an](https://www.dict.cc/?s=bot+an)  - [anbot](https://www.dict.cc/?s=anbot) | [angeboten](https://www.dict.cc/?s=angeboten) |to offer - အလုပ်ပေးခြင်း|
+|[schicken](https://www.dict.cc/?s=schicken) | [schickte](https://www.dict.cc/?s=schickte) | [geschickt](https://www.dict.cc/?s=geschickt)| to send - ပို့ပေးခြင်း
 
 
 Folgend - Adjective
@@ -80,7 +81,8 @@ Adverb
 | [**circa**](https://www.dict.cc/?s=circa)       | approximately |
 |[**mindestens**](https://www.dict.cc/?s=mindestens)|  at a minimum |
 |[schlecht](https://www.dict.cc/?s=schlecht) -[schlechter](https://www.dict.cc/?s=schlechter) | poor - bad |
-|[**normalerweise**](https://www.dict.cc/?s=normalerweise)| 
+|[**normalerweise**](https://www.dict.cc/?s=normalerweise)|  normally - ပုံမှန် 
+
 
 
 

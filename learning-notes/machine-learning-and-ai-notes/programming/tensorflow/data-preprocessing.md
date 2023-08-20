@@ -95,8 +95,9 @@ for i, (batch_x,batch_y) in enumerate(ds_repeat):
 # 2 (2, 1) (2,)
 ```
 
-###  Creating a dataset from files on your local storage disk -  local storage က data တွေကို ဖတ်ပြီး tensor အဖြင့်ပြောင်းမယ်။
+### Creating a dataset from files on your local storage disk -  local storage က data တွေကို ဖတ်ပြီး tensor အဖြင့်ပြောင်းမယ်။
 
+##
 - file list ကို folder တွေက ထုတ်ယူမယ်။
 
 ```python

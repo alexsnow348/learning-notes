@@ -62,5 +62,8 @@ Fit the model
 model.fit(x, y, epochs=1000)
 ```
 
-- Durning the one epoch
+- iteration - batch size မှာ ပါတဲ့  data ကိုပဲ ကြည့်ပြီးမှ loss ကို တွက်တယ်။
+- epoch - data အားလုံးကို တစ်ပတ်ကြည့်ပြီးမှ loss ကို တွက်တယ်။
+  တကယ်လို့ စုစုပေါင်း data ရဲ့ size က ၁၀၀၀ ဆိုပါစို့။ batch size ကို ၁၀၀ ထားမယ်ဆိုရင် ၁၀၀၀/၁၀၀ ဆိုရင် စုစုပေါင်း   iteration ၁၀ ခါပြီးမှသာလျှင်  epoch တစ်ခါ ပြီးမှာဖြစ်ပါတယ်။ 
+
  ![[during-one-epoch.png]]

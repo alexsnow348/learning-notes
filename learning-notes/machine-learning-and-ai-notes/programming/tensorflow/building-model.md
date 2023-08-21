@@ -1,5 +1,3 @@
-
-
 Create the Model
 ---
 - Keras Sequential Model API အားအသုံးပြု၍ Model တည်​ဆောက်မည်။
@@ -9,10 +7,13 @@ Create the Model
 - input shape တွင် number of samples (batch size) ထည့်သွင်း​ပေးစရာမလို။
 - E.g. Dataset ၏ shape သည် (60000, 28, 28) ဖြစ်လျှင် input_shape = (28, 28) သာထည့်​ပေးရမည်။
 - **Dense layer** ဆိုတာ fully connected layer ကိုဆိုလိုတာဖြစ်ပါတယ်။ သူကိုသုံးပြီးတော့ အရင် layer က ပါတဲ့ neurons တွေနဲ့ ဆက်စပ်ပြီး connect လုပ်ထားတဲ့ a set of neurons or units of neurons တွေကို တည်ဆောက်ထားနိုင်ပါတယ်။
+
+		![[dense-layer.png]]
+
 - သူမှာ အဓိက ပါတာတွေကတော့
 	- **Neurons**
 	- **Activation Function**
-	- **Weight Initialization**
+	- **Weight Initialisation**
 	- **Bias** 
 	    
 ```python
@@ -51,7 +52,7 @@ model.compile(
 )
 ```
 
-Fit the model
+Fit/Train the model
 ---
 
 - Model ကို Train လုပ်​စေခြင်း ဖြစ်သည်။
@@ -66,4 +67,17 @@ model.fit(x, y, epochs=1000)
 - epoch - data အားလုံးကို တစ်ပတ်ကြည့်ပြီးမှ loss ကို တွက်တယ်။
   တကယ်လို့ စုစုပေါင်း data ရဲ့ size က ၁၀၀၀ ဆိုပါစို့။ batch size ကို ၁၀၀ ထားမယ်ဆိုရင် ၁၀၀၀/၁၀၀ ဆိုရင် စုစုပေါင်း   iteration ၁၀ ခါပြီးမှသာလျှင်  epoch တစ်ခါ ပြီးမှာဖြစ်ပါတယ်။ 
 
- ![[during-one-epoch.png]]
+- During one epoch မှာ forward pass လုပ်ပြီး error တွက်တယ်။ ပြီးတော့မှာ backward pass လုပ်ပြီးမှ weight နဲ့ bias ကို ပြန် update ပြင်ပါတယ်။
+
+	 ![[during-one-epoch.png]]
+
+Test the model
+---
+
+```python
+test_data = np.array([15, 23, 50], dtype = np.float32)
+predictions = model.predict(test_data)
+print(predictions)
+# [[16.043098] [24.07337 ] [51.175537]]
+```
+

@@ -136,7 +136,6 @@ int_tensor = tf.cast(float_tensor, tf.int32)
 tensor_one = tf.constant([1,3,5], dtype=tf.int32)
 tensor_two = tf.constant([2,4,6], dtype=tf.int32)
 multiply_tensor = tf.multiply(tensor_one, tensor_two) # element-wise မြှောက်တာဖြစ်လို့ shape က တူနေရပါမယ်။
-multiply_tensor_2 = tf.matmul(tensor_one,tensor_two) # matrix multiplication ဖြစ်ပါတယ်။
 multiply_tensor.numpy() # array([ 2, 12, 30], dtype=int32)
 
 ```

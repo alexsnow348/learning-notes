@@ -21,3 +21,7 @@ Study Plan - ML/AI
 9. [[design-patterns-guide.pdf]]
 10. [[git-ultimate-guide.pdf]]
 11. [[gitaction-guide.pdf]]
+
+Machine Learning Network Architecture
+---
+1. https://nn.labml.ai/

@@ -15,8 +15,6 @@ Create the Model
 	- **Weight Initialization**
 	- **Bias** 
 	    
-
-
 ```python
 from tensorflow.keras import Sequential
 from tensorflow.keras.layers import Dense
@@ -39,5 +37,30 @@ model_2.summary()
 
 Compile the model
 ---
-- 
+Model Compile လုပ်ရာတွင် ထည့်သွင်း​ပေးရမည့် အချက်များ
 
+- Model Training ပြုလုပ်ရာတွင် အသုံးပြုမည့် Optimisation Algorithm
+- Model output ၏ error ကိုတွက်ချက်ရာတွင်အသုံးပြုမည့် Loss Function
+- (Optional) - Model ၏ Performance ကိုတိုင်းတာမည့် metrics
+
+```python
+model.compile(
+    optimizer='sgd',# stochastic gradient descent
+    loss= 'mean_squared_error',
+    metrics=['mae']
+)
+```
+
+Fit the model
+---
+
+- Model ကို Train လုပ်​စေခြင်း ဖြစ်သည်။
+- History Object အားထုတ်​ပေးသည်။
+- History Object ထဲတွင် Training ပြုလုပ်စဥ်အတွင်း ​ပြောင်းလဲခဲ့​သော Loss နှင့် Metrics တန်ဖိုးများပါဝင်သည်။
+
+```python
+model.fit(x, y, epochs=1000)
+```
+
+- Durning the one epoch
+ ![[during-one-epoch.png]]

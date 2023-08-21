@@ -85,9 +85,7 @@ print(f"dz_dx: {dz_dx.numpy()}") # dz_dx: 54.0
 print(f"dz_dy: {dz_dy.numpy()}") # dz_dy: 2.0
 ```
 
-Linear Regression with TensorFlow
-
-- linear regression တွက်မယ်။
+### Linear Regression with TensorFlow
 $$
 \begin{equation}
 

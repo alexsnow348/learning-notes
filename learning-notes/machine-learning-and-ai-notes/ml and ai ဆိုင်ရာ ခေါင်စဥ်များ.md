@@ -8,27 +8,9 @@
 
 __ခေါင်စဥ်များ__
 ---------------------
-- **Concepts ဆိုင်ရာ ခေါင်စဥ်များ** 
-	- [[intro-ai]]
-	- [[type-of-ai]]
-	- [[type-of-data-used-in-ai]]
-	- [[ethics-in-ai]]
-	- soft-computing
-		- [[fuzzy-logic]]
-		- [[genetic-algorithms]]
-		- [[neural-network]]
-	  - [[ai-ml-deep-learning]]
-
--  **Programming ဆိုင်ရာ ခေါင်စဥ်များ**
-	*  [[tensorflow-topics]]
-	
-- **Math ဆိုင်ရာ ခေါင်စဥ်များ**
-	-  [[maths-in-ai]]
-	-  [[statistics-and-probability]]
-
-* **MLOps ဆိုင်ရာ ခေါင်စဥ်များ** 
-	* [[mlflow-dvc-minio]]
-	* [[kedro-workflow]]
-
-
+- [[concepts]]
+- [[programming]]
+- [[math]]
+- [[mlops]]
+- [[data-engineering]]
 - [[references-list]]

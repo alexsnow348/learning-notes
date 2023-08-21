@@ -4,4 +4,6 @@
 - [[basic-notes]]
 - [[data-preprocessing]]
 - [[manual-gradient-and-linear-regression]]
+- [[building-model]]
+- [[type-of-loss-functions]]
 - 

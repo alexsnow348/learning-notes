@@ -81,3 +81,20 @@ print(predictions)
 # [[16.043098] [24.07337 ] [51.175537]]
 ```
 
+
+Callbacks
+---
+- သူကို model တွေရဲ့ training ကို ကိုယ်လိုချင်တဲ့ ရလဒ် ရတာနဲ့ ရပ်ခိုင်တာမျိုး လုပ်ခိုင်တဲ့နေရာမှာ သုံးပါတယ်။
+
+```python
+class mycallback(tf.keras.callbacks.Callback):
+  def on_epoch_end(self, epoch, logs = {}):
+    if(logs['loss'] < 0.3):
+      print('\nLoss below 0.3, will stop training')
+      self.model.stop_training = True
+
+cb = mycallback()
+
+model = get_model()
+model.fit(x, y, epochs = 100, verbose = 1, callbacks = [cb])
+```

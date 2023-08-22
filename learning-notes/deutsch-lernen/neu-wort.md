@@ -36,6 +36,7 @@ Wort - Noun
 |[der Lohn [Bezahlung, Gehalt]](https://www.dict.cc/?s=Lohn) | [die Löhne](https://www.dict.cc/?s=L%C3%B6hne)| wage - လစာ |
 |[das Einkommen](https://www.dict.cc/?s=Einkommen) | [die Einkommen](https://www.dict.cc/?s=Einkommen)| income - ဝင်ငွေ
 |[die Erfahrung](https://www.dict.cc/?s=Erfahrung) |[die Erfahrungen](https://www.dict.cc/?s=Erfahrungen) | experiences - အတွေအကြုံ
+|[der Mittelstand](https://www.dict.cc/?s=Mittelstand) | [die Mittelstände](https://www.dict.cc/?s=Mittelst%C3%A4nde)| small medium enterprise - အသေးစားအလတ်စား လုပ်ငန်းများ
 
 
 

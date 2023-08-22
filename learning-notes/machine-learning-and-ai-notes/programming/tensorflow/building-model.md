@@ -52,6 +52,20 @@ model.compile(
 )
 ```
 
+Customize learning rate
+----
+```python
+from keras.optimizers import SGD
+
+# Define an optimizer with a specific learning rate
+custom_optimizer = SGD(learning_rate=0.01)
+
+# Compile your model and specify the optimizer
+model.compile(optimizer=custom_optimizer,
+			  loss='mean_squared_error',
+			   metrics=['accuracy'])
+
+```
 Fit/Train the model
 ---
 

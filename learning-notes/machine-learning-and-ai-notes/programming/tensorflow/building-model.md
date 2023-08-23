@@ -112,3 +112,70 @@ cb = mycallback()
 model = get_model()
 model.fit(x, y, epochs = 100, verbose = 1, callbacks = [cb])
 ```
+
+Type of loss functions
+---
+ loss/cost function အမျိုးမျိုးကို `model.compile()` stage မှာ အောက်က အတိုင်း အသုံးပြုနိုင်ပါတယ်။
+
+```python
+import tensorflow as tf
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
+
+# Create a simple neural network model
+model = Sequential()
+model.add(Dense(64, activation='relu', input_shape=(input_dim,)))
+model.add(Dense(32, activation='relu'))
+model.add(Dense(output_dim, activation='softmax'))  # output_dim is the number of classes for classification
+
+# Compile the model with a specific loss function and optimizer
+model.compile(loss='mean_squared_error', optimizer='adam')
+```
+
+###  Regression problems  တွင် အသုံးများသော functions များ
+
+1. **Mean Squared Error (MSE)**:
+
+```python
+model.compile(loss='mean_squared_error', optimizer='adam')
+```
+
+2. **Mean Absolute Error (MAE)**:
+
+```python
+model.compile(loss='mean_absolute_error', optimizer='adam')
+```
+
+### Classification problems တွင် အသုံးများသော functions များ
+
+3. **Binary Cross-Entropy Loss (Log Loss)**:
+	- binary classification problems မှာ သုံးပါတယ်။
+
+```python
+model.compile(loss='binary_crossentropy', optimizer='adam')
+```
+
+4. **Categorical Cross-Entropy Loss**:
+	-  multi-class classification problems တွေမှာ အသုံးများတယ်။
+
+```python
+model.compile(loss='categorical_crossentropy', optimizer='adam')
+```
+
+5. **Sparse Categorical Cross-Entropy Loss**
+	- categorical cross-entropy လိုမျိုးပဲ ဒါပေမဲ့  the actual labels တွေကို one-hot encoded vectors နဲ့ပေးထားတာမျိုးမဟုတ်ပဲ **integers** အနေနဲ့ ပေးထားတဲ့ နေရာမျိုးမှာ  သုံးပါတယ်။  
+
+```python
+import tensorflow as tf
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
+
+# Create a simple neural network model
+model = Sequential()
+model.add(Dense(64, activation='relu', input_shape=(input_dim,)))
+model.add(Dense(32, activation='relu'))
+model.add(Dense(output_dim, activation='softmax'))  # output_dim is the number of classes for classification
+
+# Compile the model with Sparse Categorical Cross-Entropy Loss and an optimizer
+model.compile(loss='sparse_categorical_crossentropy', optimizer='adam')
+```

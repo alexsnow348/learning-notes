@@ -4,7 +4,7 @@
 *  FinTech, Blockchain and Web3 -  [[fintech blockchain and web3 ခေါင်စဥ်များ]]
 *  Machine Learning and AI  - [[ml and ai ဆိုင်ရာ ခေါင်စဥ်များ]]
 *  Burmese Reading Notes - [[မြန်မာစာအုပ်များ]]
-*  Deutsch Lernern - [[deutsch ဆိုင်ရာ ခေါင်စဥ်များ]]
+*  Deutsch Lernern - [[deutsch-topics]]
 
 စတာတွေနဲ့ ဆိုင်တာတွေကို စုထားတာ ဖြစ်ပါတယ်။ 
 

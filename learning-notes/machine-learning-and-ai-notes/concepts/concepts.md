@@ -9,3 +9,7 @@
 - [[genetic-algorithms]]
 - [[neural-network]]
 -  [[ai-ml-deep-learning]]
+-  [[type-of-loss-functions]]
+-  [[loss-functions-activation-functions]]
+- [[ optimizers]]
+- 

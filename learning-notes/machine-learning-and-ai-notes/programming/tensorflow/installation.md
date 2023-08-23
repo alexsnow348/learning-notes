@@ -12,6 +12,7 @@ brew install miniforge
 conda create -n tf
 conda activate tf
 conda install -c apple tensorflow-deps # Apple's TensorFlow dependencies အတွက်
+pip install tensorflow-macos
 pip install tensorflow-metal  # Apple's Metal GPU APIs for TensorFlow အတွက်
 ```
 

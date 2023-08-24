@@ -1,8 +1,8 @@
 မင်္ဂလာပါ။
 
 ဒီ repo မှာ လေ့လာ ခဲ့သမျှ
-*  FinTech, Blockchain and Web3 -  [[fintech blockchain and web3 ခေါင်စဥ်များ]]
-*  Machine Learning and AI  - [[ml and ai ဆိုင်ရာ ခေါင်စဥ်များ]]
+*  FinTech, Blockchain and Web3 -  [[fintech-blockchain-and-web3-topics]]
+*  Machine Learning and AI  - [[ml-and-ai-topics]]
 *  Burmese Reading Notes - [[မြန်မာစာအုပ်များ]]
 *  Deutsch Lernern - [[deutsch-topics]]
 

@@ -99,7 +99,6 @@ import matplotlib.pyplot as plt
 np.random.seed(42)
 true_w, true_b = 7.0, 4.0
 
-  
 
 def create_data(batch_size=64):
 	x = np.random.randn(batch_size, 1)

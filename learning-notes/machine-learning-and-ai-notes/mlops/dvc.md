@@ -37,14 +37,18 @@ Machine Learning Development Workflow
 ### Collaboration for data and model 
 
 ![[data-sharing.png]]
-### Installing
+### Installing DVC
 
 ```bash
 pip install dvc
 pip install "dvc[s3]" # for s3 relate remote artifacts storage
 ```
 
+### Initialise  DVC 
 
+```bash
+dvc init
+```
 
 Reference 
 ---

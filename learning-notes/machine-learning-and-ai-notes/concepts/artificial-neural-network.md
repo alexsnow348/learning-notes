@@ -15,4 +15,13 @@ Artificial Neural Networks (ANN) ဆိုတာ ဘာလဲ?
 	- 
 ###  Perception 
 
+- OR တို့ AND တို့ စတဲ့ logic function တွေ ကို တွက်နိုင်ခဲ့သော ပထမဆုံး network တစ်ခုဖြစ်ပါတယ်။
+- linear activation function တွေပဲ သုံးထားပါတယ်။
+- XOR ကိုတော့ မတွက်နိုင်ခဲ့ပါဘူး။
 ![[perception.png]]
+- Perception learning rule - လေ့လာတဲ့ rule ဖြစ်ပါတယ်။
+
+![[Screenshot 2023-08-25 at 4.16.41 PM.png]]
+
+### Reference
+1. [](https://blog.cubieserver.de/2019/approximate-function-with-neural-network/)

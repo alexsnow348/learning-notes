@@ -9,6 +9,7 @@ Machine Learning Development Workflow
 - DVC က အထူးသဖြင့် data management and analysis လုပ်ဖို့ရယ်၊ Experiment တွေကို tracking လုပ်တဲ့ နေရာ မှာ  အသုံးများတယ်။
 - အထူသဖြင့် data quality issues, not reproducible, sharing and collaboration စတဲ့ ပြဿနာတွေကို ဦးစားပေး ဖြေရှင်ပေးဖို့ လုပ်ထားတာ ဖြစ်တယ်။ 
 
+![[ml-experiments.png]]
 ### Experiment = code + dataset + outputs
 
 - artifacts
@@ -40,4 +41,5 @@ Reference
 5. [[dvc-slide-5.pdf]]
 6. [[dvc-slide-6.pdf]]
 7. [[dvc-slide-7.pdf]]
-8. 
+8. [data-science-blueprint](https://data-science-blueprint.readthedocs.io/)
+9. 

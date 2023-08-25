@@ -19,9 +19,10 @@ Artificial Neural Networks (ANN) ဆိုတာ ဘာလဲ?
 - linear activation function တွေပဲ သုံးထားပါတယ်။
 - XOR ကိုတော့ မတွက်နိုင်ခဲ့ပါဘူး။
 ![[perception.png]]
-- Perception learning rule - လေ့လာတဲ့ rule ဖြစ်ပါတယ်။
+- Perception learning rule - လေ့လာတဲ့ rule ဖြစ်ပါတယ်။ အောက်မှာ OR logic operation ကို perception ဖြင့် တွက်နည်းကို ကြည့်နိုင်ပါတယ်။
 
-![[Screenshot 2023-08-25 at 4.16.41 PM.png]]
+![[or-operation.png]]
 
 ### Reference
-1. [](https://blog.cubieserver.de/2019/approximate-function-with-neural-network/)
+1. [Approximate Function With Neural Network](https://blog.cubieserver.de/2019/approximate-function-with-neural-network/)
+2. 

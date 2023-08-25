@@ -10,13 +10,6 @@ MLflow က ဆိုရင် platform acoustics ဖြစ်ပါတယ်။ 
  - Model Registry - training လုပ်ပြီး အကောင်းဆုံး performance ရတဲ့ model တွေကို သူများတွေ ယူသုံးနိုင်ဖို့ registry မှာ တစ်နေရာထဲမှာ သိမ်းထားပေးနိုင်ပါတယ်။
 
 ![[mlflow.png]]
-DVC - Data Version Control
---------
-- A way to manage data version similar to git - metadata တွေကို git လိုမျိုး command တွေနဲ့ သိမ်းထားနိုင်သည်။
-- complements and augments an ordinary git repo
-
-![[dvc-with-minio.png]]
-
 
 MinIO - High Performance Object Storage for AI
 -----

@@ -4,10 +4,13 @@ DVC - Data Version Control
 - complements and augments an ordinary git repo
 
 ![[dvc-with-minio.png]]
+![[ml-work-flow-and-tools.png]]
+
 Machine Learning Development Workflow
 ----
 - DVC က အထူးသဖြင့် data management and analysis လုပ်ဖို့ရယ်၊ Experiment တွေကို tracking လုပ်တဲ့ နေရာ မှာ  အသုံးများတယ်။
 - အထူသဖြင့် data quality issues, not reproducible, sharing and collaboration စတဲ့ ပြဿနာတွေကို ဦးစားပေး ဖြေရှင်ပေးဖို့ လုပ်ထားတာ ဖြစ်တယ်။ 
+
 
 ![[ml-experiments.png]]
 ### Experiment = code + dataset + outputs
@@ -17,7 +20,6 @@ Machine Learning Development Workflow
 - code
 - configs
 
-![[ml-work-flow-and-tools.png]]
 ### Reproducibility 
 
 - အရေးကြီးကတော့ reproducibility ဖြစ်ဖို့ လုပ်ပေးတဲ့ အရာတစ်ခုပဲ ဖြစ်ပါတယ်။
@@ -32,6 +34,9 @@ Machine Learning Development Workflow
 
 ![[reproductibility.png]]
 
+### Collaboration for data and model 
+
+![[data-sharing.png]]
 Reference 
 ---
 1. [[dvc-slide-1-intro.pdf]]

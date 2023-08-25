@@ -25,4 +25,7 @@ Artificial Neural Networks (ANN) ဆိုတာ ဘာလဲ?
 
 ### Reference
 1. [Approximate Function With Neural Network](https://blog.cubieserver.de/2019/approximate-function-with-neural-network/)
-2. 
+2. [Radial Basis Function Network (RBFN) Tutorial](https://mccormickml.com/2013/08/15/radial-basis-function-network-rbfn-tutorial/)
+3. [ANN playground](https://playground.tensorflow.org/)
+4. [Interactive ML algorithm](https://mladdict.com/)
+5. 

@@ -21,7 +21,7 @@ Hard computing vs Soft computing
 			- consequent  - အရင်ခံ ဖြစ်ချက်မှုကြောင့် ဖြစ်လာတဲ့ အခြေအနေ
 
 	- [[genetic-algorithms]]
-	-  [[neural-network]]
+	-  [[artificial-neural-network]]
 
 Reference list
 ---

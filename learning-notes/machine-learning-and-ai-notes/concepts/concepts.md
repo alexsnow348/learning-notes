@@ -7,7 +7,7 @@
 - [[ethics-in-ai]]
 -  [[fuzzy-logic]]
 -  [[genetic-algorithms]]
--  [[neural-network]]
+-  [[artificial-neural-network]]
 -  [[ai-ml-deep-learning]]
 -  [[type-of-loss-cost-functions]]
 -  [[type-of-activation-functions]]

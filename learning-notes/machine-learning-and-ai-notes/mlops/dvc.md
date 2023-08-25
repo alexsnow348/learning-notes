@@ -30,3 +30,14 @@ Machine Learning Development Workflow
 	7. automated ci/cd and MLOps
 
 ![[reproductibility.png]]
+
+Reference 
+---
+1. [[dvc-slide-1-intro.pdf]]
+2. [[dvc-slide-2-practices-and-tools-for-efficient-collaboration-in-ML-projects.pdf]]
+3. [[dvc-slide-3-pipelines-automation-and-configuration-management.pdf]]
+4. [[dvc-slide-4.pdf]]
+5. [[dvc-slide-5.pdf]]
+6. [[dvc-slide-6.pdf]]
+7. [[dvc-slide-7.pdf]]
+8. 

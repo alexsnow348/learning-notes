@@ -50,7 +50,7 @@ pip install "dvc[s3]" # for s3 relate remote artifacts storage
 dvc init
 ```
 
-### Data Versioning with DVC
+### Data Versioning with DVC (with remote storage like S3)
 
 1. Set up remote storage bucket - S3 လိုမျိုး services 
 
@@ -71,12 +71,24 @@ dvc remote modify --local s3-data-storage access_key_id <id>
 dvc remote modify --local s3-data-storage secret_access_key <key>
 ```
 
-4. add data and code
+4. Add data
 
 ```shell
 dvc add data 
 ```
 
+5. Push the data 
+
+```shell
+dvc push -v # v for verbose for showing more detail info
+```
+
+
+### Working with difference branch with DVC
+
+```shell
+dvc checkout # branch တွေပြောင်တဲ့အခါကြရင် dvc ကို လည်း checkout လုပ်ဖို့လိုပါတယ်။
+```
 
 
 Reference 

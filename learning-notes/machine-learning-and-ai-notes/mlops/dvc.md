@@ -64,11 +64,19 @@ dvc remote add -d s3-data-storage s3://<bucket-path>/
 dvc remote modify s3-data-storage endpointurl <url-with-port>
 ```
 
-3. Configure the remote storage access creddentials
+3. Configure the remote storage access credentials
+
 ```shell
 dvc remote modify --local s3-data-storage access_key_id <id>
 dvc remote modify --local s3-data-storage secret_access_key <key>
 ```
+
+4. add data and code
+
+```shell
+dvc add data 
+```
+
 
 
 Reference 

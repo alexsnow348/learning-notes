@@ -3,8 +3,10 @@
 ဒီ repo မှာ လေ့လာ ခဲ့သမျှ
 *  FinTech, Blockchain and Web3 -  [[fintech-blockchain-and-web3-topics]]
 *  Machine Learning and AI  - [[ml-and-ai-topics]]
+*  [[literature-review]] လုပ်ထားသော စာတမ်းနှင့် စာအုပ်များ
 *  Burmese Reading Notes - [[မြန်မာစာအုပ်များ]]
 *  Deutsch Lernern - [[deutsch-topics]]
+
 
 စတာတွေနဲ့ ဆိုင်တာတွေကို စုထားတာ ဖြစ်ပါတယ်။ 
 

@@ -83,7 +83,11 @@ dvc add data
 dvc push -v # v for verbose for showing more detail info
 ```
 
+6. Pull the data from remote
 
+```bash
+dvc pull -v
+```
 ### Working with difference branch with DVC
 
 ```shell

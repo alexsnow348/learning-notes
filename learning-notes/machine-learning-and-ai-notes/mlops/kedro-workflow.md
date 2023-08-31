@@ -22,9 +22,6 @@ kedro run --runner=module.path.to.my.runner
 kedro mlflow init # to update for mlflow tracking
 ```
 
-Streamlit
------
-
 
 reference list
 ---

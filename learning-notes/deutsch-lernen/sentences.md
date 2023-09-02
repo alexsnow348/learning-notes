@@ -38,3 +38,9 @@
 - Ist die Wohnung noch zu haben? 
 - Ich möchte/ muss jetzt in die Kirche gehen 
 - Ich bereite für die Arbeit vor.  ငါအလုပ်အတွက် ပြင်ဆင်နေတယ်။
+
+
+### Mein Frei Tag
+
+- Ich habe mit meinen Freunden/ Mitschüler/ Mitschülerinnen getroffen. - ငါ သူငယ်ချင်/အတန်းဖော်တွေနဲ့ တွေ့ခဲ့တယ်။
+- 

@@ -39,6 +39,7 @@
 - Ich möchte/ muss jetzt in die Kirche gehen 
 - Ich bereite für die Arbeit vor.  ငါအလုပ်အတွက် ပြင်ဆင်နေတယ်။
 - Ich habe mich von dieser Firma/Arbeit gekündigt sich kündigen. - ငါ အလုပ်က အလုပ်ထွက်လိုက်ပြီး။
+- Ich habe viel zu tun gehabt. / Ich hatte viel zu tun - ငါ အလုပ်တွေ အများကြီး ရှိတယ်။
 
 
 ### Mein Frei Tag

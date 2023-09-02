@@ -1,4 +1,4 @@
-Wort - Noun
+# Wort - Noun
 ---
 
 | **တစ်ယောက်/တစ်ခု**                                              | **အများ**                          | **အဓိပ္ပါယ်**                    | 
@@ -41,7 +41,7 @@ Wort - Noun
 
 
 
-Das Verb - Verb
+# Das Verb - Verb
 ---
 
 | **present**                                        | **past**                                                                                              | **past perfect**                                    | **အဓိပ္ပါယ်**          |
@@ -60,7 +60,7 @@ Das Verb - Verb
 
 
 
-Adjective
+# Adjective
 ---
 
 | **စကားလုံး**              | **အဓိပ္ပါယ်**     |
@@ -78,7 +78,7 @@ Adjective
 
 
 
-Adverb
+# Adverb
 ---
 
 | **စကားလုံး**                                    | **အဓိပ္ပါယ်** |
@@ -92,7 +92,7 @@ Adverb
 
 
 
-Conjugation
+# Conjugation
 ---
 
 | **စကားလုံး**                            | **အဓိပ္ပါယ်** |
@@ -102,7 +102,7 @@ Conjugation
 
 
 
-Preposition
+# Preposition
 ---
 
 | **စကားလုံး**                          | **အဓိပ္ပါယ်**         |

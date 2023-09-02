@@ -1,4 +1,4 @@
-စကားလုံးများဖြင့် ဖွဲ့စည်ထားသော စာကြောင်းများ
+# စကားလုံးများဖြင့် ဖွဲ့စည်ထားသော စာကြောင်းများ
 ---
 
 ### Small talk ( privates sprechen )
@@ -37,3 +37,4 @@
 - Ich bin nicht berufstätig. - ငါ အလုပ်မရှိသေးဘူး။
 - Ist die Wohnung noch zu haben? 
 - Ich möchte/ muss jetzt in die Kirche gehen 
+- Ich bereite für die Arbeit vor.  ငါအလုပ်အတွက် ပြင်ဆင်နေတယ်။

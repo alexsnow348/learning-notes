@@ -38,6 +38,7 @@
 - Ist die Wohnung noch zu haben? 
 - Ich möchte/ muss jetzt in die Kirche gehen 
 - Ich bereite für die Arbeit vor.  ငါအလုပ်အတွက် ပြင်ဆင်နေတယ်။
+- Ich habe mich von dieser Firma/Arbeit gekündigt sich kündigen. - ငါ အလုပ်က အလုပ်ထွက်လိုက်ပြီး။
 
 
 ### Mein Frei Tag

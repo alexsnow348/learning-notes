@@ -4,10 +4,12 @@
 
 kedro, dvc, mlflow တို့ဖြင့် တည်ဆောက်ထားသော General MLOps work-flow  တစ်ခုကို တည်ဆောက်မယ်။
 
-၁။ ပထမဆုံး `kedro new`  ဖြင့် ml project structure တစ်ခုကို တည်ဆောက်ပါမယ်။
+၁။ ပထမဆုံး `kedro new`  ဖြင့် ml project structure တစ်ခုကို တည်ဆောက်ပါမယ်။ `kedro mlflow init` ဖြင့် tracking အတွက် စပြင်ဖို့ လိုပါတယ်။
+
 	[[kedro-workflow#Useful command]]
 	
 ၂။ source code တွေကို သိမ်းဖို့အတွက် git ကို `git init` စတင်ပေးဖို့ လိုအပ်ပါမယ်။ တကယ်လို့ data folder ကို git track ခဲ့မိရင် git ကနေ remove လုပ်ဖို့ လိုပါတယ်။ 
+
 ```bash
 git rm -r --cached 'data'
 ```

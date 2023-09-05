@@ -19,12 +19,26 @@
 
 ##  Computer Vision က​ ဘယ်လို အလုပ်သလဲ။
 
-###  အခြေခံ မဖြစ်မနေ လိုအပ်သော လုပ်ဆောင်ချက်များ
+### **အခြေခံ လုပ်ဆောင်ချက်များ - Steps**
 
-- **Steps**
-	1. Image Acquisition - data တွေ အရင် စုဆောင်ခြင်း။
-	2. Image Preprocessing - usecase/project အလိုက် လိုရင် လိုသလို ပြင်လည်ပြင်ဆင်ခြင်း။
-	3. Feature Extraction - usecase/project ပေါမူတည်ပြီး လိုအပ်ပြီး အသုံးဝင်နိုင်တဲ့ feature များကို ဆွဲထုတ်ခြင်း။
-	4. Pattern Recognition - machine learning methods တွေကို သုံးပြီး ဆွဲထုတ်တာတဲ့ feature တွေကို recognition လုပ်ခြင်း။
-	5. Decision Making Rules - usecase/project ပေါ်
+1. Image Acquisition - data တွေ အရင် စုဆောင်ခြင်း။
+2. Image Preprocessing - usecase/project အလိုက် လိုရင် လိုသလို ပြင်လည်ပြင်ဆင်ခြင်း။
+3. Feature Extraction - usecase/project ပေါမူတည်ပြီး လိုအပ်ပြီး အသုံးဝင်နိုင်တဲ့ feature များကို ဆွဲထုတ်ခြင်း။
+4. Pattern Recognition - machine learning methods တွေကို သုံးပြီး ဆွဲထုတ်တာတဲ့ feature တွေကို recognition လုပ်ခြင်း။
+5. Decision Making Rules - usecase/project ပေါမူတည်ပြီး decision boundary တွေ ချက်မှတ်ခြင်း။
+
+### အဓိကလုပ်ဆောင်သော task အမျိုးအစားများ
+
+1. Image Classification 
+	- Object identification
+	- Face recognition 
+2.  Object Detection
+	- Single object
+	- Multiple objects 
+3. Segmentation
+	- Instance - တူညီတဲ့ object တွေ တစ်ခါတည် ယူခြင်း။
+	- Semantic 
+	
+![[computer-vision-tasks.png]]
+
 

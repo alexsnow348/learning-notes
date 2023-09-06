@@ -6,7 +6,7 @@ tags:
   - ethics
 ---
 
-# The taming of chance
+# The taming of chanceØ
 ##### Ian Hacking (1990)
 [PDF](hackingTamingChance1990.pdf)
 

@@ -8,3 +8,8 @@
 - Singular
 	- Redundant - (တူညီသော info များ ပေးထားခြင်း)
 	- Contradictory - (တစ်ခုတည်ကို ဆန့်ကျင်ဘက် info ၂ မျိုးပေးထားခြင်း)
+
+
+ ### Linear equation = sentences + number
+ 
+![[Screenshot 2023-09-06 at 1.49.33 PM.png]]

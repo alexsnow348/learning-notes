@@ -2,6 +2,8 @@
 title: The taming of chance
 authors: Ian Hacking
 year: 1990
+tags:
+  - ethics
 ---
 
 # The taming of chance

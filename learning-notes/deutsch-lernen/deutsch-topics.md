@@ -16,4 +16,4 @@ __ခေါင်စဥ်များ__
 * [[type-of-noun]]
 * [[sentences]]
 * [[neu-wort]]
-* 
+* [[other-rule]]

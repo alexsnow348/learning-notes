@@ -6,6 +6,7 @@
 *  [[literature-review]] လုပ်ထားသော စာတမ်းနှင့် စာအုပ်များ
 *  Burmese Reading Notes - [[မြန်မာစာအုပ်များ]]
 *  Deutsch Lernern - [[deutsch-topics]]
+* [[reading-clippings]] - ဖတ်မိသမျှ internet ဆောင်းပါးများမှ ကောက်နုတ်ချက်များ
 
 
 စတာတွေနဲ့ ဆိုင်တာတွေကို စုထားတာ ဖြစ်ပါတယ်။ 

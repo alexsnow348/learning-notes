@@ -62,3 +62,15 @@ so the more authentic you are to who you are, and what you love to do, the less 
 
 
 ## Play Long-Term Games With Long-Term People
+
+essentially if you want to be successful, you have to work with other people. And you have to figure out who can you trust, and who can you trust over a long, long period of time, that you can just keep playing the game with them, so that compound interest, and high trust will make it easier to play the game, and will let you collect the major rewards, which are usually at the end of the cycle.
+
+**Returns come from compound interest in iterated games**
+
+For example, the simplest one is getting married to someone, and having kids, and raising children. That’s compound interest, right? Investing in those relationships. Those relationships end up being invaluable compared to more casual relationships.
+
+It’s true in health and fitness. You know, the fitter you are, the easier it is to stay fit. Whereas the more you deteriorate your body, the harder it is to come back, and claw your way back to a baseline. It requires heroic acts.
+
+
+## Pick Partners With Intelligence, Energy and Integrity
+

@@ -10,6 +10,8 @@ tags:
   - clippings
   - wealth-creation
 ---
+# How to Get Rich
+---
 
 It is merely a question of education and desire. You have to want it. If you don’t want it, that’s fine.
 
@@ -43,3 +45,20 @@ The way you want to get wealthy is you want to be poor, and working, and working
 **Figure out what product you can provide and then figure out how to scale it**
 
 First it starts as an act of creativity. First you create it just because you want it. You want it, and you know how to build it, and you need it. And so you build it for yourself. Then you figure out how to get it to other people. And then for a little while rich people have it. It’s about distributing what rich people used to have to everybody.
+
+Entrepreneurship is essentially an act of creating something new from scratch. Predicting that society will want it, and then figuring out how to scale it, and get it to everybody in a profitable way, in a self-sustaining way.
+
+## The Internet Has Massively Broadened Career Possibilities
+
+**The Internet allows you to scale any niche obsession**
+
+You can go out on the internet, and you can find your audience. And you can build a business, and create a product, and build wealth, and make people happy just uniquely expressing yourself through the internet.
+
+**Escape competition through authenticity**
+
+Don’t imitate. Don’t copy. Just do your own thing. No one can compete with you on being you. It’s that simple.
+
+so the more authentic you are to who you are, and what you love to do, the less competition you’re gonna have. So, you can escape competition through authenticity when you realize that no one can compete with you on being you.
+
+
+## Play Long-Term Games With Long-Term People

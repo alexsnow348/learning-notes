@@ -19,8 +19,8 @@
 ## Singular vs Non-singular system
 
 - Singular System
-	- determinant က အမြဲတမ်း zero ပဲဖြစ်နေ
-	- multiple solution အဖြေးတွေကို ထုတ်ပေးနိုင်
+	- determinant က အမြဲတမ်း zero ပဲဖြစ်နေပါမယ်။
+	- multiple solution အဖြေးတွေကို ထုတ်ပေးနိုင် သလို့၊ အဖြေး လုံးဝ မရှိတာလဲ ဖြစ်နိုင်တယ်။
 - Non-singular system
-	- determinant က အမြဲတမ် non-zero ပဲဖြစ်နေ
-	- unique solution အဖြေကို ရှာလိုရနိုင်
+	- determinant က အမြဲတမ် non-zero ပဲဖြစ်နေပါမယ်။
+	- unique solution အဖြေကို တစ်ခုခု ရှိကို နေနေတယ်။

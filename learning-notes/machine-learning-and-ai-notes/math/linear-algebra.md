@@ -15,3 +15,12 @@
 - add constant
 - subtract constant 
 ![[linear-equation.png]]
+
+## Singular vs Non-singular system
+
+- Singular System
+	- determent က အမြဲတမ်း zero ပဲဖြစ်နေ
+	- multiple solution အဖြေးတွေကို ထုတ်ပေးနိုင်
+- Non-singular system
+	- determent က အမြဲတမ် non-zero ပဲဖြစ်နေ
+	- unique solution အဖြေကို ရှာလိုရနိုင်

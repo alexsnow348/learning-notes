@@ -105,4 +105,4 @@ Reference
 6. [[dvc-slide-6.pdf]]
 7. [[dvc-slide-7.pdf]]
 8. [data-science-blueprint](https://data-science-blueprint.readthedocs.io/)
-9. 
+9. https://realpython.com/python-data-version-control/ 

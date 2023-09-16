@@ -57,7 +57,10 @@
 |[anbieten](https://www.dict.cc/?s=anbieten) | [bot an](https://www.dict.cc/?s=bot+an)  - [anbot](https://www.dict.cc/?s=anbot) | [angeboten](https://www.dict.cc/?s=angeboten) |to offer - အလုပ်ပေးခြင်း|
 |[schicken](https://www.dict.cc/?s=schicken) | [schickte](https://www.dict.cc/?s=schickte) | [geschickt](https://www.dict.cc/?s=geschickt)| to send - ပို့ပေးခြင် |
 |[bewerben](https://www.dict.cc/?s=bewerben) | [bewarb](https://www.dict.cc/?s=bewarb) | [beworben](https://www.dict.cc/?s=beworben)| to apply - အလုပ် လျှောက်ခြင်း |
-|**erinnert**| **erinnerte**| **hat** **erinnert**| to remember - သတိရလာခြင်း|
+|[bleiben](https://www.dict.cc/?s=bleiben) | [blieb](https://www.dict.cc/?s=blieb) | [geblieben](https://www.dict.cc/?s=geblieben)| to stay/remain - ဒီအတိုင်းပဲ ရှိနေခြင်း၊|
+|[erinnern](https://www.dict.cc/?s=erinnern) | [erinnerte](https://www.dict.cc/?s=erinnerte) | [erinnert](https://www.dict.cc/?s=erinnert)| to remember - သတိရခြင်း|
+
+
 
 
 

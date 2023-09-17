@@ -6,18 +6,24 @@
 
 ဥပမာများ -
 
-- Was machst du? - မင် ဘာလုပ်နေလဲ။
-- Wo wohnst du? - မင် ဘယ်မှာ နေတာလဲ။
-- Woher kommst du? - မင် ဘယ်ကနေ လာတာလဲ။
-- Wohin gehst du? - မင် ဘယ်ကို သွားနေတာလဲ။
-- Wer bist du? - မင် ဘယ်သူလဲ။
-- Wann treffen wir?  - ဘယ်အချိန်မှာ တွေ့မှာလဲ။
+- Was machst du? - မင်း ဘာလုပ်နေလဲ။
+- Wo wohnst du? - မင်း ဘယ်မှာ နေတာလဲ။
+- Woher kommst du? - မင်း ဘယ်ကနေ လာတာလဲ။
+- Wohin gehst du? - မင်း ဘယ်ကို သွားနေတာလဲ။
+- Wer bist du? - မင်း ဘယ်သူလဲ။
+- Wann treffen wir?  - ဘယ်အချိန်မှာ ငါတို့တွေ တွေ့မှာလဲ။
 - Warum? - ဘာလိုလဲ။
-- Welche 
+- Welche gefällt für dich? - မင်း ဘာတစ်ခုကို ကြိုက်တာလဲ။
+- Wie bist du? - မင်း ဘာလိုလဲ?
 
 
 ## နှစ်လုံးသုံးပြီး မေးနိုင်သော မေးခွန်း စကားလုံးများ
 
 ![[double-question-words.png]]
 
-- Gibt es eine Termin?
+- Seit wann  weißt du das? - ဒါကို ဘယ်တုန်ကစပြီး သိတာလဲ။
+- Mit wem gehst du?  - မင်း ဘယ်သူနဲ့ အတူတူ သွားမှာလဲ။
+- Wie lange hast du gestern geschlafen? - မင်း မနေ့က ဘယ်လောက်ကြာကြာ အိပ်ခဲ့တာလဲ။
+- Wie viel kosten die? - ဒါ ဘယ်လောက် ကျလဲ။
+- Wie viele 
+- Gibt es eine Termin?  - 

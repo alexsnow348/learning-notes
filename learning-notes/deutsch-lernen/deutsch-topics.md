@@ -17,3 +17,5 @@ __ခေါင်စဥ်များ__
 * [[sentences]]
 * [[neu-wort]]
 * [[other-rule]]
+* [[question-words]]
+* [[useful-short-sentence]]

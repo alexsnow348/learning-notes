@@ -25,5 +25,6 @@
 - Mit wem gehst du?  - မင်း ဘယ်သူနဲ့ အတူတူ သွားမှာလဲ။
 - Wie lange hast du gestern geschlafen? - မင်း မနေ့က ဘယ်လောက်ကြာကြာ အိပ်ခဲ့တာလဲ။
 - Wie viel kosten die? - ဒါ ဘယ်လောက် ကျလဲ။
-- Wie viele 
-- Gibt es eine Termin?  - 
+- Wie viele möchtest du? - မင်း ဘယ်လောက်များများ လိုချင်တာလဲ။ 
+- Gibt es eine Termin?  -  ရက်ချိန်း ရှိလား။
+- Wessen Bücher sind das? - ဒါ ဘယ်သူ စာအုပ်တွေလဲ။ 

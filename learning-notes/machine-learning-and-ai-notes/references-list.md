@@ -25,3 +25,10 @@ Study Plan - ML/AI
 Machine Learning Network Architecture
 ---
 1. https://nn.labml.ai/
+
+
+# Machine Learning in Trading
+---
+
+
+1. https://www.coursera.org/specializations/machine-learning-trading#courses

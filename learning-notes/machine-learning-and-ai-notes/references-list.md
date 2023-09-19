@@ -1,14 +1,14 @@
-Courses
+# Courses
 ---
 
 1. [Deep Learning Systems](https://dlsyscourse.org/lectures/)
 2. [Distributed systems](https://www.distributedsystemscourse.com/)
 
-Books
+# Books
 ---
 1. [[hands-on-machine-learning-scikit-learn-keras-tensorflow.pdf]]
 
-Study Plan - ML/AI
+# Study Plan - ML/AI
 ---
 1. [[studyplan_data_Scientist.pdf]]
 2. [[python-ultimate-guide.pdf]]
@@ -29,7 +29,5 @@ Machine Learning Network Architecture
 
 # Machine Learning in Trading
 ---
-
-
 1. https://www.coursera.org/specializations/machine-learning-trading#courses
 2. https://www.coursera.org/learn/money-banking 

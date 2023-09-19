@@ -12,7 +12,7 @@ Math in AI
 
 ### ပြန်လေ့လာသင့်သော maths များ
 
-- [[linear-algebra]]
+- [[01-linear-algebra]]
 	- branch of mathematics that deals with variables, constants and arithmetics operations
 		- **vectors**
 		- **matrics**
@@ -24,7 +24,7 @@ Math in AI
 		- data transformation
 		- conditional computation
 	
-- [[calculus]]
+- [[02-calculus]]
 	- Integral
 		- Integration, integration rules, parts
 	- **Differential** ကဆိုရင် ML မှာ အသုံးများပါတယ်။
@@ -35,7 +35,7 @@ Math in AI
 		- Second Derivative
 		- Finding Maxima and Minima
 		
-- [[statistics-and-probability]]
+- [[03-statistics-and-probability]]
 	- naive bases (classification models)
 	- Bayesian networks
 	- maximum likelihood 

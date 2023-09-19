@@ -30,9 +30,13 @@
 ## Vectors and Matrix
 
 - Vector တစ်ခုရဲ့ ဂုဏ်သတ္တိအနေနဲ့  direction နှင့် magnitude or size ဆိုပြီး ရှိပါတယ်။
-- vector  ၂ ခုရဲ့ distance ကို လိုချင်ရင် L1-norm ဒါမှမဟုတ် L2-norm distance ကို ရှာလို့ရပါတယ်။
-	- L1-norm distance 
-		![[Screenshot 2023-09-19 at 3.05.46 PM.png]]
+- Point A ကနေ Point B ရဲ့ distance ကို ရှာမယ်ဆိုရင်
+	
+	![[l1-l2-norm.png]]
+	- L1-norm distance ကို ရှာနည်း ဖြင့် ရှာနိုင်သလို့
+		![[l1-norm.png]]
 		
-	- L2 - norm distance 
-		![[Screenshot 2023-09-19 at 3.07.11 PM.png]]
+	- L2 - norm distance ရှာနည်းဖြင့်လည်း ရှာနိုင်ပါတယ်။
+		![[l2-norm.png]]
+- Vector  ၂ ခုရဲ့ distance ကိုလည်း လိုချင်ရင် L1-norm ဒါမှမဟုတ် L2-norm distance ကို ရှာလို့ရပါတယ်။
+	![[vector-distance.png]]

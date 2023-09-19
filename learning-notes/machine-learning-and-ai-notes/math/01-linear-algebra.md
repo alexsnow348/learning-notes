@@ -30,7 +30,7 @@
 ## Vectors
 
 - Vector တစ်ခုရဲ့ ဂုဏ်သတ္တိအနေနဲ့  direction နှင့် magnitude or size ဆိုပြီး ရှိပါတယ်။
-- Point A ကနေ Point B ရဲ့ distance ကို ရှာမယ်ဆိုရင်
+- Point A ကနေ Point B ရဲ့ distance/magnitude ကို ရှာမယ်ဆိုရင်
 	
 	![[l1-l2-norm.png]]
 	- L1-norm distance ကို ရှာနည်း ဖြင့် ရှာနိုင်သလို့
@@ -38,8 +38,10 @@
 		
 	- L2 - norm distance ရှာနည်းဖြင့်လည်း ရှာနိုင်ပါတယ်။
 		![[l2-norm.png]]
-- Vector  ၂ ခုရဲ့ distance ကိုလည်း လိုချင်ရင် L1-norm ဒါမှမဟုတ် L2-norm distance ကို ရှာလို့ရပါတယ်။
+- Vector  ၂ ခုရဲ့ distance ကို လိုချင်ရင်လည်း  L1-norm ဒါမှမဟုတ် L2-norm distance ကို ရှာလို့ရပါတယ်။
 	![[vector-distance.png]]
+
+
 ## Matrix
 
 - Matrix တွေရဲ့ dot product ကို လိုချင်ရင် row ကို column ဖြင့် မြှောက်ပေးရပါတယ်။
@@ -49,3 +51,12 @@
 - Matrix တွေရဲ့ inverse ကို ရှာမယ်ဆို သူရဲ့ identity matrix ကို အရင်သိဖို့ လိုပါတယ်။
 - Identity matrix ဆိုတာ သူကို original matrix  နဲ့ မြှောက်ရင် original matrix ကိုပဲ ပြန်ထုတ်ပေးပါတယ်။ တကယ်လို့ သူကို matrix ရဲ့ inverse နဲ့ မြှောက်မယ်ဆိုရင်လည်း original matrix ကိုပဲ ပြန်ထုတ်ပေးပါတယ်။
 ![[identity-matrix.png]]
+- Matrix Inverse ကို ရှာနည်း။ 
+![[inverse-matrix.png]]
+
+- တကယ်လို့ matrix က non-singular system ဖြစ်မှာသာလျှင် inverse ကို ရှာလိုရမှာပါ။ singular system ဖြစ်နေရင်တော့ inverse ကို ရှာလိုရမှာမဟုတ်ပါဘူး။
+![[matrix-invertible.png]]
+
+
+## Reference 
+1. https://www.coursera.org/learn/machine-learning-linear-algebra 

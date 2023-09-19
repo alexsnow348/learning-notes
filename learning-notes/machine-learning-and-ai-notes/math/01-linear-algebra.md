@@ -27,7 +27,7 @@
 	- unique solution အဖြေကို တစ်ခုခု ရှိကို နေနေတယ်။
 	- matrix မှာ inverse ရှာလိုရတယ်။
 
-## Vectors and Matrix
+## Vectors
 
 - Vector တစ်ခုရဲ့ ဂုဏ်သတ္တိအနေနဲ့  direction နှင့် magnitude or size ဆိုပြီး ရှိပါတယ်။
 - Point A ကနေ Point B ရဲ့ distance ကို ရှာမယ်ဆိုရင်
@@ -40,3 +40,9 @@
 		![[l2-norm.png]]
 - Vector  ၂ ခုရဲ့ distance ကိုလည်း လိုချင်ရင် L1-norm ဒါမှမဟုတ် L2-norm distance ကို ရှာလို့ရပါတယ်။
 	![[vector-distance.png]]
+## Matrix
+
+- Matrix တွေရဲ့ dot product ကို လိုချင်ရင် row ကို column ဖြင့် မြှောက်ပေးရပါတယ်။
+
+	![[dot-product.png]]
+	

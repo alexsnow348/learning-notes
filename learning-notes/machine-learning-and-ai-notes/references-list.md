@@ -1,6 +1,5 @@
 # Courses
 ---
-
 1. [Deep Learning Systems](https://dlsyscourse.org/lectures/)
 2. [Distributed systems](https://www.distributedsystemscourse.com/)
 

@@ -21,6 +21,12 @@
 - Singular System
 	- determinant က အမြဲတမ်း zero ပဲဖြစ်နေပါမယ်။
 	- multiple solution အဖြေးတွေကို ထုတ်ပေးနိုင် သလို့၊ အဖြေး လုံးဝ မရှိတာလဲ ဖြစ်နိုင်တယ်။
+	- matrix မှာ inverse ရှာလို့မရပါ။
 - Non-singular system
 	- determinant က အမြဲတမ် non-zero ပဲဖြစ်နေပါမယ်။
 	- unique solution အဖြေကို တစ်ခုခု ရှိကို နေနေတယ်။
+	- matrix မှာ inverse ရှာလိုရတယ်။
+
+## Vectors and Matrix
+
+- Vector တစ်ခုရဲ့ ဂုဏ်သတ္တိအနေနဲ့  direction နှင့် magnitude or size ဆိုပြီး ရှိပါတယ်။

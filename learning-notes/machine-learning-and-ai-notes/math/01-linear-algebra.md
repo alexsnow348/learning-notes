@@ -45,4 +45,7 @@
 - Matrix တွေရဲ့ dot product ကို လိုချင်ရင် row ကို column ဖြင့် မြှောက်ပေးရပါတယ်။
 
 	![[dot-product.png]]
-	
+	![[matric-dot-product.png]]
+- Matrix တွေရဲ့ inverse ကို ရှာမယ်ဆို သူရဲ့ identity matrix ကို အရင်သိဖို့ လိုပါတယ်။
+- Identity matrix ဆိုတာ သူကို original matrix  နဲ့ မြှောက်ရင် original matrix ကိုပဲ ပြန်ထုတ်ပေးပါတယ်။ တကယ်လို့ သူကို matrix ရဲ့ inverse နဲ့ မြှောက်မယ်ဆိုရင်လည်း original matrix ကိုပဲ ပြန်ထုတ်ပေးပါတယ်။
+![[identity-matrix.png]]

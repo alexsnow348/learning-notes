@@ -32,3 +32,4 @@ Machine Learning Network Architecture
 
 
 1. https://www.coursera.org/specializations/machine-learning-trading#courses
+2. https://www.coursera.org/learn/money-banking 

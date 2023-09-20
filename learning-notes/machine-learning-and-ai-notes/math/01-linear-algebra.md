@@ -64,8 +64,15 @@
 
 ## Application of Linear Algebra
 
-- Data Representation 
+- **Data Representation** 
 ![[data-representation.png]]
+
+- **Principal Component Analysis** - dimensionality reduction  method
+
+![[principal-component-analysis.png]]
 
 ## Reference 
 1. https://www.coursera.org/learn/machine-learning-linear-algebra 
+2. https://www.visual-design.net/post/linear-algebra-for-machine-learning
+3. https://www.visual-design.net/post/linear-algebra-for-ml-part2-principal-component-analysis
+4. 

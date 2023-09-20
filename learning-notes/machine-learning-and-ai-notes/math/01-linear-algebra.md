@@ -58,5 +58,9 @@
 ![[matrix-invertible.png]]
 
 
+-  Matrix တွေရဲ့ properties တွေက  သူက non-singular system ဟုတ်မဟုတ်နဲ့ သက်ဆိုင်မှုရှိတယ်။
+
+![[singular-and-non-singular-matrix-properties.png]]
+
 ## Reference 
 1. https://www.coursera.org/learn/machine-learning-linear-algebra 

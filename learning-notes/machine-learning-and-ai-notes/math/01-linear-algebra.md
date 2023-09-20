@@ -62,5 +62,10 @@
 
 ![[singular-and-non-singular-matrix-properties.png]]
 
+## Application of Linear Algebra
+
+- Data Representation 
+![[data-representation.png]]
+
 ## Reference 
 1. https://www.coursera.org/learn/machine-learning-linear-algebra 

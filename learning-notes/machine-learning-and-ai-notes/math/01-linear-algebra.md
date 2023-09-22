@@ -77,7 +77,10 @@
 
 - **Principal Component Analysis** - dimensionality reduction  method
 
+
 ![[principal-component-analysis.png]]
+
+- Support Vector Machine မှာလဲ linear algebra ကို အသုံးပြုထားပါတယ်။
 
 ## Reference 
 1. https://www.coursera.org/learn/machine-learning-linear-algebra 

@@ -19,3 +19,5 @@ __ခေါင်စဥ်များ__
 * [[other-rule]]
 * [[question-words]]
 * [[useful-short-sentence]]
+* [[proposition]]
+* [[model-helping-verb]]

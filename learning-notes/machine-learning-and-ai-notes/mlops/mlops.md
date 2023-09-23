@@ -7,6 +7,7 @@
 * [[minio]]
 * [[kedro-workflow]]
 * [[mlflow-dvc-minio]]
+* [[tensorboard]]
 
 ## Online Course 
 ---

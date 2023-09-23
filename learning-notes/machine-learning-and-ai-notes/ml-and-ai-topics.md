@@ -10,7 +10,7 @@ __ခေါင်စဥ်များ__
 ---------------------
 - [[concepts]]
 - [[programming]]
-- [[math-topics]]
+- [[maths-in-ai]]
 - [[mlops]]
 - [[data-engineering]]
 - [[references-list]]

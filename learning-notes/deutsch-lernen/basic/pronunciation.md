@@ -141,9 +141,9 @@ Das Alphabet
 
 အသံတို နှင့် အသံရှည်
 ---
-- vowel  ရဲ့ မှာ double consonant တွေပါရင်  အသံတို
+- vowel  ရဲ့ ရှေ့မှာ double consonant တွေပါရင်  အသံတို
 - ss and ß အသံတူ
-- vowel ရဲ့ single consonant ပဲဆို အသံရှည်
+- vowel ရဲ့ ရှေ့မှာ single consonant ပဲဆို အသံရှည်
 
 
 

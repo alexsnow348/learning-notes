@@ -26,3 +26,4 @@
 
 ## Reference
 - https://www.thegermanprofessor.com/german-modal-verbs/ 
+- http://germanforenglishspeakers.com/verbs/verb-types/

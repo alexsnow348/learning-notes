@@ -16,7 +16,7 @@ __ခေါင်စဥ်များ__
 * [[type-of-noun]]
 * [[sentences]]
 * [[neu-wort]]
-* [[other-rule]]
+* [[other-rules]]
 * [[question-words]]
 * [[useful-short-sentence]]
 * [[proposition]]

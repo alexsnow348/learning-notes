@@ -8,6 +8,7 @@ published: 2022-01-05
 topics: life-journey, ခရီးသွားမှတ်တမ်း
 tags:
   - clippings
+  - life-journey
 ---
 
 Every year I ask myself [40 questions](https://stephango.com/40-questions) that help me make sense of what happened over the past twelve months. I love working through that exercise and discussing it with friends and family who enjoy too.

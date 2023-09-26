@@ -1,15 +1,16 @@
 ---
 category: "[[Clippings]]"
 author: "[[Steph Ango]]"
-title: "40 questions to ask yourself every year"
+title: 40 questions to ask yourself every year
 source: https://stephango.com/40-questions
 clipped: 2023-09-26
 published: 2016-10-20
-topics: 
-tags: [clippings]
+topics: life-journey, ခရီးသွားမှတ်တမ်း
+tags:
+  - clippings
+  - life-journey
 ---
 
-October 20, 2016 • 2 minute read
 
 One of my rituals at the end of the year is asking myself these forty questions. I have made them available as [a Markdown file](https://github.com/kepano/40-questions) which has been [translated in several languages](https://github.com/kepano/40-questions/tree/master/translations).
 

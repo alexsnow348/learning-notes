@@ -4,8 +4,10 @@
 - [[#Singular vs Non-singular system|Singular vs Non-singular system]]
 - [[#Vectors|Vectors]]
 - [[#Matrix|Matrix]]
+- [[#MIT 18.06 Linear Algebra Gilbert Strang Lecture|MIT 18.06 Linear Algebra Gilbert Strang Lecture]]
 - [[#Application of Linear Algebra|Application of Linear Algebra]]
 - [[#Reference|Reference]]
+
 
 # Linear Algeria
 ---
@@ -70,20 +72,20 @@
 
 ![[singular-and-non-singular-matrix-properties.png]]
 ## MIT 18.06 Linear Algebra Gilbert Strang Lecture
-![[Pasted image 20230926101245.png]]
-![[Pasted image 20230926101257.png]]
-![[Pasted image 20230926101423.png]]
+![[mit-18-06-linear-algebra-01.png]]
+![[mit-18-06-linear-algebra-02.png]]
+![[mit-18-06-linear-algebra-03.png]]
 
 
-![[Pasted image 20230926101443.png]]
-![[Pasted image 20230926101532.png]]
-![[Pasted image 20230926101545.png]]
-![[Pasted image 20230926101556.png]]
-![[Pasted image 20230926101604.png]]
-![[Pasted image 20230926101612.png]]
-![[Pasted image 20230926101621.png]]
-![[Pasted image 20230926101635.png]]
-![[Pasted image 20230926101644.png]]
+![[mit-18-06-linear-algebra-04.png]]
+![[mit-18-06-linear-algebra-07.png]]
+![[mit-18-06-linear-algebra-08.png]]
+![[mit-18-06-linear-algebra-09.png]]
+![[mit-18-06-linear-algebra-10.png]]
+![[mit-18-06-linear-algebra-11.png]]
+![[mit-18-06-linear-algebra-12.png]]
+![[mit-18-06-linear-algebra-13.png]]
+![[mit-18-06-linear-algebra-14.png]]
 ## Application of Linear Algebra
 
 - **Data Representation** 

@@ -1,1 +1,3 @@
 - [[How to Get Rich]]
+- [[40 questions to ask yourself every decade]]
+- 

@@ -1,0 +1,62 @@
+---
+category: "[[Clippings]]"
+author: "[[Steph Ango]]"
+title: 40 questions to ask yourself every decade
+source: https://stephango.com/40-questions-decade
+clipped: 2023-09-26
+published: 2022-01-05
+topics: life-journey, ခရီးသွားမှတ်တမ်း
+tags:
+  - clippings
+---
+
+Every year I ask myself [40 questions](https://stephango.com/40-questions) that help me make sense of what happened over the past twelve months. I love working through that exercise and discussing it with friends and family who enjoy too.
+
+As we enter a new decade, I’ve been pondering what the 2020s will hold for us. I remembered that some time ago I had answered [Proust’s famous questionnaire](https://en.wikipedia.org/wiki/Proust_Questionnaire), and thought I would try answering it again. While the yearly questions help me reflect on what happened, Proust’s questions are more about personal philosophies and traits, and thus change less frequently over time.
+
+Going through my answers to the Proust questionnaire, I was inspired to work on a new questionnaire that I could use for the next few decades. I tried create a set of questions that I would enjoy reflecting on in 2030. This list combines questions from Proust’s questionnaire, and others I’ve been collecting ad hoc.
+
+It will be ten years before I can tell you whether this worked well or not, but join me on this journey if you’d like! Please edit this list with questions you would like to know your own answers to in ten years. The questions are also available in [Markdown format](https://github.com/kepano/40-questions) in several languages.
+
+---
+
+1.  What would you do if you had 6 months to live?
+2.  What would you do if you had a billion dollars?
+3.  What advice would you give yourself 10 years ago?
+4.  What do you hope will be the same 10 years from now?
+5.  What do you hope will be different 10 years from now?
+6.  What is your idea of perfect happiness?
+7.  When and where were you happiest?
+8.  Why do you get out of bed in the morning?
+9.  What do you consider the lowest depth of misery?
+10.  What is your most marked characteristic?
+11.  What is your greatest fear?
+12.  What is the trait you most deplore in yourself?
+13.  What is the trait you most deplore in others?
+14.  On what occasion do you lie?
+15.  What is your greatest extravagance?
+16.  What do you consider the most overrated virtue?
+17.  What do you most dislike about your appearance?
+18.  If you could change one thing about yourself, what would it be?
+19.  Which talent would you most like to have?
+20.  What do people frequently misunderstand about you?
+21.  What is the quality you most like in a man?
+22.  What is the quality you most like in a woman?
+23.  What do you most value in your friends?
+24.  What do you consider your greatest achievement?
+25.  If you could give everyone in the world one gift, what would it be?
+26.  What was your greatest waste of time?
+27.  What do you find painful but worth doing?
+28.  Where would you most like to live?
+29.  What is your most treasured possession?
+30.  Who is your best friend?
+31.  Who or what is the greatest love of your life?
+32.  Which living person do you most admire?
+33.  Who is your hero of fiction?
+34.  Which historical figure do you most identify with?
+35.  What is your greatest regret?
+36.  How would you like to die?
+37.  What is your motto?
+38.  What is the best compliment you ever received?
+39.  What is the luckiest thing that happened to you?
+40.  What makes you hopeful?

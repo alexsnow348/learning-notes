@@ -69,7 +69,21 @@
 -  Matrix တွေရဲ့ properties တွေက  သူက non-singular system ဟုတ်မဟုတ်နဲ့ သက်ဆိုင်မှုရှိတယ်။
 
 ![[singular-and-non-singular-matrix-properties.png]]
+## MIT 18.06 Linear Algebra Gilbert Strang Lecture
+![[Pasted image 20230926101245.png]]
+![[Pasted image 20230926101257.png]]
+![[Pasted image 20230926101423.png]]
 
+
+![[Pasted image 20230926101443.png]]
+![[Pasted image 20230926101532.png]]
+![[Pasted image 20230926101545.png]]
+![[Pasted image 20230926101556.png]]
+![[Pasted image 20230926101604.png]]
+![[Pasted image 20230926101612.png]]
+![[Pasted image 20230926101621.png]]
+![[Pasted image 20230926101635.png]]
+![[Pasted image 20230926101644.png]]
 ## Application of Linear Algebra
 
 - **Data Representation** 

@@ -5,7 +5,7 @@ title: 40 questions to ask yourself every year
 source: https://stephango.com/40-questions
 clipped: 2023-09-26
 published: 2016-10-20
-topics: life-journey, ခရီးသွားမှတ်တမ်း
+topics: life-journey
 tags:
   - clippings
   - life-journey

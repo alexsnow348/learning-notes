@@ -2,4 +2,6 @@
 
 - [[tensorflow-topics]]
 - [[pytorch-topics]]
-	
+
+
+![[debugging-manifesto.pdf]]

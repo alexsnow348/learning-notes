@@ -7,6 +7,7 @@ tags:
   - jira
   - devops
 author: coapp-io-code-author
+published: 2023-10-04
 ---
 Tech Stack: **Vue.js, Go, DynamoDb, Kakfa**
 ## Useful patterns in Microservice Application
@@ -31,4 +32,6 @@ Tech Stack: **Vue.js, Go, DynamoDb, Kakfa**
 ## Streamling Work Processes with GitHub Actions and Jira
 ---
 
+- for deployment - test, review 
+- Chromatc interacting with github actions 
 - 

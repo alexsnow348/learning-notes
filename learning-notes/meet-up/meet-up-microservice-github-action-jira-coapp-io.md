@@ -7,10 +7,14 @@
 	- Event Driven Architecture - **Kakfa**, MessageQ, RabbitMQ
 		- Publisher - Subscriber event distribution 
 	- Loosely coupling is important
-	-  pet projects - for exposure 
+	-  Pet projects - for exposure 
 	- DynamoDB from AWS 
 	- Zookeeper 
-	- Add example for other developer 
+	- Add example for other developer
+	- Distributed tracing
+	- API gateway - backend for frontend 
+	- microservice canvas - Sentry , openTelemetry 
+		- look, trace, metric 
 
 
 ## Vue.js

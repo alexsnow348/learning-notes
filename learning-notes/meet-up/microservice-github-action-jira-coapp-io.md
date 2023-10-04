@@ -6,7 +6,7 @@ tags:
   - github-action
   - jira
   - devops
-author: coapp-io-code-author
+author: coapp-io-code-author-magomed-
 published: 2023-10-04
 ---
 Tech Stack: **Vue.js, Go, DynamoDb, Kakfa**
@@ -34,4 +34,5 @@ Tech Stack: **Vue.js, Go, DynamoDb, Kakfa**
 
 - for deployment - test, review 
 - Chromatc interacting with github actions 
-- 
+- birdeatsbug 
+- git commit -S

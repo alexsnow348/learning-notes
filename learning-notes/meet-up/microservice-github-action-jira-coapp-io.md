@@ -6,7 +6,7 @@ tags:
   - github-action
   - jira
   - devops
-author: coapp-io-code-author-magomed-arsaev
+author: coapp-io-magomed-arsaev
 published: 2023-10-04
 ---
 Tech Stack: **Vue.js, Go, DynamoDb, Kakfa**
@@ -24,10 +24,14 @@ Tech Stack: **Vue.js, Go, DynamoDb, Kakfa**
 	- Distributed tracing
 	- API gateway - backend for frontend 
 	- microservice canvas - Sentry , openTelemetry 
-		- look, trace, metric  			
+		- look, trace, metric  	
+	- mircro-frontend
 ## Vue.js
 ---
-- Atomic Design System - Storybook, Chromatc
+- Atomic Design System - Storybook+Chromatc
+- test the frontend with mock data - api request data from back 
+- single or multi-threading ?
+- WEbA
 
 ## Streamling Work Processes with GitHub Actions and Jira
 ---

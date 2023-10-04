@@ -4,19 +4,18 @@
 
 - The Microservice Architecture Pattern Language
 	- DDD - Domain Driven Design - according to input from domain experts
-	- Event Driven Architecture - **Kakfa**, MessageQ, RabbitMQ
+	- Event Driven Architecture - **Kakfa**, MessageQ, RabbitMQ, Zookeeper
 		- Publisher - Subscriber event distribution 
 	- Loosely coupling is important
 	-  Pet projects - for exposure 
-	- DynamoDB from AWS 
-	- Zookeeper 
+	- DynamoDB from AWS  
 	- Add example for other developer
 	- Distributed tracing
 	- API gateway - backend for frontend 
 	- microservice canvas - Sentry , openTelemetry 
-		- look, trace, metric 
-
-
+		- look, trace, metric  
+	- Atomic Design System - Storybook
+				
 ## Vue.js
 ---
 

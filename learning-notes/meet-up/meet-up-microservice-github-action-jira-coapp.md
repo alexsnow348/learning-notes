@@ -8,6 +8,9 @@
 		- Publisher - Subscriber event distribution 
 	- Loosely coupling is important
 	-  pet projects - for exposure 
+	- DynamoDB from AWS 
+	- Zookeeper 
+	- Add example for other developer 
 
 
 ## Vue.js

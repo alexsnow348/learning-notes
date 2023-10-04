@@ -2,9 +2,13 @@
 ## Useful patterns in Microservice Application
 ----
 
-- DDD - Domain Driven Design - according to input from domain experts
-- The microservice Architecture Pattern Language
-- 
+- The Microservice Architecture Pattern Language
+	- DDD - Domain Driven Design - according to input from domain experts
+	- Event Driven Development - **Kakfa**, MessageQ, RabbitMQ
+		- Publisher - Subscriber event distribution 
+	- Loosely coupling is important
+	-  
+
 
 ## Vue.js
 ---

@@ -7,7 +7,7 @@
 *  Burmese Reading Notes - [[မြန်မာစာအုပ်များ]]
 *  Deutsch Lernern - [[deutsch-topics]]
 * [[reading-clippings]] - ဖတ်မိသမျှ internet ဆောင်းပါးများမှ ကောက်နုတ်ချက်များ
-
+- [[meet-up-and-talk]] - နာထောင်ဖြစ်သော knowledge sharing များမှ မှတ်စုများ
 
 စတာတွေနဲ့ ဆိုင်တာတွေကို စုထားတာ ဖြစ်ပါတယ်။ 
 

@@ -31,7 +31,7 @@ Tech Stack: **Vue.js, Go, DynamoDb, Kakfa**
 - Atomic Design System - Storybook+Chromatc
 - test the frontend with mock data - api request data from back 
 - single or multi-threading ?
-- WEbA
+- WebAssembly
 
 ## Streamling Work Processes with GitHub Actions and Jira
 ---

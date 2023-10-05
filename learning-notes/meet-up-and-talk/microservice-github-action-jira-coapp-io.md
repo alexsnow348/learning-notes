@@ -40,4 +40,5 @@ Tech Stack: **Vue.js, Go, DynamoDb, Kakfa**
 - Chromatc interacting with github actions 
 - birdeatsbug  for bug reporting 
 - git commit -S
-- Jira Automation - keep it simple 
+- Jira Automation - keep it simple
+- Make time to explore new tech and new pet project for future proof carrer  

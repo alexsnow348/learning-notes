@@ -2,21 +2,24 @@
 title: Home Schooling
 source: https://www.youtube.com/watch?v=DspNAGc1LOw
 ---
-
 # Home Schooling
 ---
-Conventional  Schooling - daycare, employment, and keep the kids out of the streets
-
-### ကောင်းကျိုးတွေက ဘာတွေလဲ။ ဘာလို မိဘတွေက သူတို့ ကလေးတွေကို home school လုပ်သင့်တာလဲ။
-
-- one-to-one direct tutoring - based on kid interest subjects matter
-- learning is part of natural life
-- learning that drive teaching
-- independent learning
+- Conventional  Schooling - daycare, employment, and keep the kids out of the streets
+- One-to-one direct tutoring - based on kid interest subjects matter is more better suited for the kids these day.
+- Learning is part of natural life, learning that drive teaching, not other way round.
+- Independent learning is the survival skills.
 - world schooling
-- non-co
+- non-coercive parenting style, more toward persuasive parenting 
+- teach kid family values 
+	- attributes of persona you wanna become
+	- the idea of opportunity cost
+- free to learn - Dr. Peter Gary
+- misconception of home schooling 
+	- less socialisation
+- exception people are built in solitude who are obsessed with things that interested in 
+- Finding your tribe.
+- the more originality and creativity there is required, the less AI is going to replace.
+- Maths is the language of nature. 
+- The importance skills kid need to know - literacy and numeracy. 
 
-### မကောင်းတဲ့ အချက်တွေက ရော ဘာတွေရှိလဲ။
 
-
-### တစ်ခြား home school နဲ့ ပတ်သက်ပြီး ဘာတွေ သိထားသင့်သလဲ။

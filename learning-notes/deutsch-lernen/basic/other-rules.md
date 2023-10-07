@@ -12,3 +12,4 @@
 	- Danach und dann...  - ပြီးတဲ့နောက်မှတော့
 	- Dann - ပြီးတော့
 	- Zum Schluss  - နောက်ဆုံးအနေနဲ့
+	- zum Beispiel - ဥပမာ အနေနဲ့

@@ -1,12 +1,13 @@
 # Other rule
 ---
 
-- **Te/ka/mo/lo** - ကြာခံမှာ လိုက်နေသော စကားလုံးအမျိုးအစားလိုက် နေရာယူမှု
-	- Te - tempora - ဘယ်အချိန် - when
-	- Ka - Kausal - ဘာ အကြောင်းကြောင့် - why
-	- Mo - Modal - ဘယ်လို - how
-	- Lo - Location - ဘယ်နေရာ - where
-	
+- **Te/ka/mo/lo** - ကြားခံမှာ လိုက်နေသော စကားလုံးအမျိုးအစားလိုက် နေရာယူမှု
+	- Te - temporal - ဘယ်အချိန် - when - wann
+	- Ka - kausal - ဘာအကြောင်းကြောင့် - why - warum
+	- Mo - modal - ဘယ်လို - how - wie
+	- Lo - lokal - ဘယ်နေရာ - where - wo
+	![[takemolo-details.jpeg]]
+
 - စာပိုင်တွေကို ဆက်ပေးတဲ့ စကားလုံးများ
 	- Zuerst muss man - ပထမဆုံး အနေနဲ့
 	- Danach und dann...  - ပြီးတဲ့နောက်မှတော့

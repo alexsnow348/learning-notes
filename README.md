@@ -8,6 +8,7 @@
 *  Deutsch Lernern - [[deutsch-topics]]
 * [[reading-clippings]] - ဖတ်မိသမျှ internet ဆောင်းပါးများမှ ကောက်နုတ်ချက်များ
 - [[meet-up-and-talk]] - နာထောင်ဖြစ်သော knowledge sharing များမှ မှတ်စုများ
+- [[all-drawing]] - mindmap အနေနဲ့ ဆွဲထုတ်ထားသော ပုံများ
 
 စတာတွေနဲ့ ဆိုင်တာတွေကို စုထားတာ ဖြစ်ပါတယ်။ 
 

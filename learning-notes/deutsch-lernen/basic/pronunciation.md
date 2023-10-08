@@ -147,4 +147,9 @@ Das Alphabet
 
 
 
+- eine - အိုင်နယ်
+- einen - အိုင်နန်
+- EINEM - အိုင်နမ်မ်
+- Einer - အိုင်နာရ်
+
 [Reference YouTube Channel](https://youtube.com/playlist?list=PL7E9E6E91D88A05CF)

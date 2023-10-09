@@ -10,6 +10,9 @@ tags:
   - clippings
   - life-journey
 ---
+# The Solitary Art of Self-Creation
+___
+## Questions to ask for yourself
 
 > “The whole life of the individual is nothing but the process of giving birth to himself; indeed, we should be fully born when we die — although it is the tragic fate of most individuals to die before they are born.”
 
@@ -20,3 +23,11 @@ tags:
 - Have you carved out a life true to who you are beyond the job, the title, the possessions, and society's tedious obligations? 
 - Have you ever accomplished anything on your own terms to be truly proud of?
 - Have you achieved some aspect of personal excellence through the cultivation of your own creative powers? Or are you simply living out your life as a walking mimicry, relying on customs, fashions, false appearances, and the opinions of others to nourish your sense of self-worth?
+
+## The Top Five Regrets of the Dying
+
+1) “I wish I'd had the courage to live a life true to myself, not the life others expected of me.”
+2) “I wish I hadn't worked so hard.”
+3) “I wish I'd had the courage to express my feelings.” 
+4) “I wish I had stayed in touch with my friends.” 
+5) “I wish I had let myself be happier.”

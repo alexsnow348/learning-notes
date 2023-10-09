@@ -2,3 +2,4 @@
 - [[40 questions to ask yourself every decade]]
 - [[40 questions to ask yourself every year]]
 - [[Moving from Zsh to Fish]]
+- [[The Solitary Art of Self-Creation]]

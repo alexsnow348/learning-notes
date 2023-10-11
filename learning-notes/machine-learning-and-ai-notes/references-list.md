@@ -30,3 +30,13 @@ Machine Learning Network Architecture
 ---
 1. https://www.coursera.org/specializations/machine-learning-trading#courses
 2. https://www.coursera.org/learn/money-banking 
+
+# General
+---
+Plan: GitHub projects  
+Develop: GitHub  
+Test: GitHub actions  
+UAT: test server running in GitHub code spaces  
+Build&package: GitHub actions  
+Release: GitHub releases + GitHub actions  
+Deploy: GitHub actions w. TF and [helm.sh](http://helm.sh/)

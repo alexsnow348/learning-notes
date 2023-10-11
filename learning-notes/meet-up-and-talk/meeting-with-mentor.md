@@ -21,6 +21,6 @@ ___
 	- data design patterns
 - create project to showcase
 - always remember to think reason of leaving the current roles
--  interest in data, fast data, big data, data governance, data models, data warehouse, data insights - or all of the above!.
+-  interest in data, fast data, big data, data governance, data models, data warehouse, data insights
 
 		

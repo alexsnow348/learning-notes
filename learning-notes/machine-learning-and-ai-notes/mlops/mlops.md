@@ -1,15 +1,15 @@
 
 # MLOps ဆိုင်ရာ ခေါင်စဥ်များ
 ---
-
-
 * [[dvc]]
 * [[minio]]
 * [[kedro-workflow]]
 * [[mlflow-dvc-minio]]
 * [[tensorboard]]
-
 ## Online Course 
 ---
 - https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses 
-- 
+
+# Road Map
+---
+![[mlops_engineer_road_map.pdf]]

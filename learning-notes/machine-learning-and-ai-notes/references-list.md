@@ -20,6 +20,7 @@
 9. [[design-patterns-guide.pdf]]
 10. [[git-ultimate-guide.pdf]]
 11. [[gitaction-guide.pdf]]
+12. [[mlops_engineer_road_map.pdf]]
 
 Machine Learning Network Architecture
 ---

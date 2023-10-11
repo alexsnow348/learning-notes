@@ -8,7 +8,7 @@ ___
 - the main data engineering process 
 	- ingestion 
 	- pre-processing
-	- storing in easy to access manners - paque and protobuf
+	- storing in easy to access manners - Avro, parquet and protobuf
 	- warehouse
 - the questions need to ask for data engineering problems is different from software engineering 
 	- cost effective of storing data
@@ -17,9 +17,10 @@ ___
 - always remember that you can always learn on the job too especially for upskilling
 	- fundamental of software engineering is still important
 	- data engine
-	- tech stack and tools
+	- tech stack and tools -  Spark, Hadoop, AWS EMR, AWS Redshift, AWS Glue, Qlik Sense, Postgres, Python, Scala.
 	- data design patterns
 - create project to showcase
 - always remember to think reason of leaving the current roles
+-  interest in data, fast data, big data, data governance, data models, data warehouse, data insights - or all of the above!.
 
 		

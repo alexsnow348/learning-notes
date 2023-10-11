@@ -12,7 +12,12 @@
 1. [[@hackingTamingChance1990]]
 
 
-Biography
+## Biography
 ---
 1. [[hermann-hesse]]
+
+
+## Human Behavior
+--- 
+1. [[the-concise-laws-of-human-nature]]
 2. 

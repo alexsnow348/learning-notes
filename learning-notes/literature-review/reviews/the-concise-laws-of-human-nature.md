@@ -1,3 +1,7 @@
+---
+tags:
+  - human-behavior
+---
 # The Concise Laws of Human Nature - Robert Greene
 ---
 
@@ -15,7 +19,7 @@
 
 - “ Notice how our propensities to compare ourselves with others, to feel envy, and to seek status through attention have only become intensified with our ability to communicate so quickly with so many people.”
 
-- “Trust your feelings!”—But feelings are nothing final or original; behind feelings there stand judgments and evaluations which we inherit in the form of … inclinations, aversions … The inspiration born of a feeling is the grandchild of a judgement—and often of a false judgment!—and in any event not a child of your own! To trust one’s feelings—means to give more obedience to one’s grandfather and grandmother and their grandparents than to the gods which are in us: our reason and our experience.”
+- “Trust your feelings!”—But feelings are nothing final or original; behind feelings there stand judgments and evaluations which we inherit in the form of … inclinations, aversions … The inspiration born of a feeling is the grandchild of a judgement—and often of a false judgment!—and in any event not a child of your own! To trust one’s feelings—means to give more obedience to one’s grandfather and grandmother and their grandparents than to the gods which are in us: our reason and our experience.”—Friedrich Nietzsche
 
 - “We constantly feel emotions, and they continually infect our thinking, making us veer toward thoughts that please us and soothe our egos.”
 
@@ -25,4 +29,6 @@
 
 - “First, people have trained themselves in social situations to present the front that is appropriate and that will be judged positively. Second, we are prone to fall for the **halo effect**—when we see certain negative or positive qualities in a person (social awkwardness, intelligence), other positive or negative qualities are implied that fit with this.”
 
-- 
+- “see other people as phenomena, as neutral as comets or plants. They simply exist. Work with what they give you, instead of resisting and trying to change them.”
+
+- “You want to retain the elasticity of spirit you had as a child, interested in everything, while retaining the hard-nosed need to verify and scrutinize for yourself all ideas and beliefs”

@@ -14,5 +14,5 @@
 
 Biography
 ---
-1. [[Hermann-Hesse]]
+1. [[hermann-hesse]]
 2. 

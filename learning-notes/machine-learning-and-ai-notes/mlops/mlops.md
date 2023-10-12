@@ -10,6 +10,17 @@
 ---
 - https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses 
 
+# Tool Stack
+---
+- Apache Airflow
+- MLFlow
+- Argo
+- Kubernetes
+- KubeFlow
+
+
+
+
 # Road Map
 ---
 ![[mlops_engineer_road_map.pdf]]

@@ -32,3 +32,4 @@ tags:
 ![[transform-pattern-example.png]]
 - feature store design pattern
 ![[feature-store-concept.png]]
+- everything you build, you have to maintain it 

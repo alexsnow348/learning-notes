@@ -4,9 +4,9 @@ tags:
   - ml-ai
   - mlops
 ---
-
 # Data Science Design Pattern
 ---
+
 ## Software Engineering
 ---
 - design after the fact 

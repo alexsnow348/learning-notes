@@ -1,8 +1,13 @@
 ---
 source: https://youtu.be/RcNhY3vMcpY
+tags:
+  - ml-ai
+  - mlops
 ---
 
 # Data Science Design Pattern
+---
+## Software Engineering
 ---
 - design after the fact 
 	- refactoring is part of the job 
@@ -15,4 +20,15 @@ source: https://youtu.be/RcNhY3vMcpY
 	- how can I design for easy to test code?
 
 ## Workflow pipeline pattern
+---
+- goal: isolate different steps
+- benefits: portability and scalability and maintainability 
+- implement pipeline using:
+	- Airflow
+	- MLflow
+	- TFX
+- need to use "transform design pattern"
 
+![[transform-pattern-example.png]]
+- feature store design pattern
+![[feature-store-concept.png]]

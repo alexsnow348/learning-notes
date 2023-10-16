@@ -18,9 +18,7 @@
 - Kubernetes
 - KubeFlow
 - Apache Spark
-
-
-
+- IBM Data Pak Solution
 
 # Road Map
 ---

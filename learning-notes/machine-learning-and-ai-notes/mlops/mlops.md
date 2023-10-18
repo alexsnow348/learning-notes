@@ -18,6 +18,7 @@
 - Kubernetes
 - KubeFlow
 - Apache Spark
+- Teraform
 - IBM Data Pak Solution
 
 # Road Map

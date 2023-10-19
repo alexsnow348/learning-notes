@@ -9,6 +9,7 @@
 ## Online Course 
 ---
 - https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses 
+- https://stanford-cs329s.github.io/syllabus.html
 
 # Tool Stack
 ---

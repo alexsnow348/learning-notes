@@ -2,7 +2,7 @@
 # MLOps ဆိုင်ရာ ခေါင်စဥ်များ
 ---
 * [[dvc]]
-* [[minio]]
+* [[llmops]]
 * [[kedro-workflow]]
 * [[mlflow-dvc-minio]]
 * [[tensorboard]]

@@ -12,5 +12,6 @@ __ခေါင်စဥ်များ__
 - [[programming]]
 - [[maths-in-ai]]
 - [[mlops]]
+- [[devops]]
 - [[data-engineering]]
 - [[references-list]]

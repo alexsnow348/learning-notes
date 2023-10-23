@@ -16,6 +16,7 @@ Math in AI
 
 - [[01-linear-algebra]]
 	- branch of mathematics that deals with variables, constants and arithmetics operations
+	- the study of linear functions
 		- **vectors**
 		- **matrics**
 		- probability

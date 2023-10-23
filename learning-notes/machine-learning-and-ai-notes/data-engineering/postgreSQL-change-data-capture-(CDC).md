@@ -10,6 +10,7 @@ tags: [clippings]
 ---
 # PostgreSQL Change Data Capture (CDC) The Complete Guide
 ___
+![[even-driven-aritechture.png]]
 
 
 ![[change_data_capture.svg]]
@@ -21,4 +22,6 @@ ___
 
 - CDC enables the efficient implementation of use cases requiring access to change events of PostgreSQL, such as audit or changelogs, without modifying the application code.
 
-![[even-driven-aritechture.png]]
+## Change Data Capture with Triggers in PostgreSQL
+
+- supports PostgreSQL **version 9.1 and newer** and stores all change events in the table _audit.logged_actions_

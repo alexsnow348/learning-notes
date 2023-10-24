@@ -74,5 +74,14 @@ host     all     repuser     0.0.0.0/0     md5
 
 - capture changes from the table _public.users_. You can enable CDC for this table by creating a new publication as follows:
 
+```sql
+CREATE PUBLICATION newpub FOR TABLE public.users;
 ```
+
+- In the next step, you can start subscribing to this publication.
+
+```sql
+CREATE SUBSCRIPTION newsub CONNECTION 'dbname=foo host=bar user=repuser' PUBLICATION newpub;
 ```
+
+- support  **version 10 and above** of PostgreSQL

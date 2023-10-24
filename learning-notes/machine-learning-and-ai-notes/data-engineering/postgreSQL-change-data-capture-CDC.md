@@ -28,6 +28,17 @@ ___
 2. queries, and 
 3. logical replication
 
-## Change Data Capture with Triggers in PostgreSQL
+## 1. Change Data Capture with Triggers in PostgreSQL
+
+-  listen for all INSERT, UPDATE, and DELETE events occurring in the table of interest and, for each event, insert one row into a second table, building a changelog.
 
 - supports PostgreSQL **version 9.1 and newer** and stores all change events in the table _audit.logged_actions_
+- 
+- captured events only **inside** PostgreSQL
+
+- Enable Trigger-based CDC for the table _public.users_.
+
+ ```sql
+ SELECT audit.audit_table('public.users');
+```
+

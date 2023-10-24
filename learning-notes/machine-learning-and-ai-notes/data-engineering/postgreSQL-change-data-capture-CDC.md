@@ -22,6 +22,12 @@ ___
 
 - CDC enables the efficient implementation of use cases requiring access to change events of PostgreSQL, such as audit or changelogs, without modifying the application code.
 
+## Three common approaches
+
+1. triggers, 
+2. queries, and 
+3. logical replication
+
 ## Change Data Capture with Triggers in PostgreSQL
 
 - supports PostgreSQL **version 9.1 and newer** and stores all change events in the table _audit.logged_actions_

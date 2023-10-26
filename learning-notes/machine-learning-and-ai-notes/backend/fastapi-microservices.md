@@ -16,6 +16,7 @@
 
 ## Migrate database with Alembic
 
+
 ![[alembic-sql-migration.png]]
 
 - Step 1: Initialise the alembic file
@@ -56,8 +57,12 @@ configuration["sqlalchemy.url"] = get_db_url()
 
 ```
 
-- Step 4: Generate initial migration files manually.
+- Step 4: Generate initial migration files .
 
 ```bash
+# manual
 alembic revision -m "<name-of-migration-changes-make>"
+
+# autogenerate
+alembic revision --autogenerate -m "<name-of-migration-changes-make>"
 ```

@@ -66,3 +66,8 @@ alembic revision -m "<name-of-migration-changes-make>"
 # autogenerate
 alembic revision --autogenerate -m "<name-of-migration-changes-make>"
 ```
+- Step 5: Apply migration for generated file.
+
+```shell
+alembic upgrade head
+```

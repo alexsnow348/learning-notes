@@ -1,0 +1,147 @@
+= Awesome Open-Source Data Engineering
+:toc:
+:toc-placement!:
+
+This https://github.com/topics/awesome-list[Awesome List] aims at providing an overview of https://opensource.org/licenses[open-source] projects related to data engineering.
+This is a community effort: please https://github.com/gunnarmorling/awesome-opensource-data-engineering/blob/master/CONTRIBUTING.md[contribute] and send your pull requests for growing this list!
+For a list including non-OSS tools, see this amazing https://github.com/igorbarinov/awesome-data-engineering[Awesome List].
+
+toc::[]
+
+== Analytics
+
+* https://spark.apache.org/[Apache Spark] - A unified analytics engine for large-scale data processing. Includes APIs in Scala, Java, Python (known as PySpark), and R (SparkR). 
+* https://beam.apache.org/[Apache Beam] - An open-source implementation of Google DataFlow. Provides capabilites of batch and streaming data processing jobs that run on any execution engine, including Spark, Flink, or its own DirectRunner. Supports multiple APIs in Java, Python, and Go. 
+* https://flink.apache.org/[Apache Flink] - Stateful computations over data streams.
+* https://trino.io/[Trino (formerly known as PrestoSQL)] - Distributed SQL Query Engine for Big Data.
+
+== Business Intelligence
+
+* https://superset.incubator.apache.org/[Apache Superset] - A modern, enterprise-ready business intelligence web application.
+* https://gethue.com/[HUE] - The Hadoop User Interface. Similar to Superset, but interfaces between RDBMS, Hive, Impala, HBase, Spark, HDFS & S3, Oozie, Pig, YARN Job Explorer, and more. Offers an extensible Django environment for custom app integration. 
+* https://www.metabase.com/[Metabase] - An easy way for everyone in your company to ask questions and learn from data.
+* https://redash.io/[Redash] - All the tools to unlock your data.
+
+== Data Lakehouse
+
+* https://delta.io/[Delta Lake] - Open-source storage framework that enables building a lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
+* https://hudi.apache.org/[Apache Hudi] - Transactional data lake platform that brings database and data warehouse capabilities to the data lake. Hudi reimagines slow old-school batch data processing with a powerful new incremental processing framework for low latency minute-level analytics.
+* https://iceberg.apache.org/[Apache Iceberg] - High-performance format for huge analytic tables. Iceberg brings the reliability and simplicity of SQL tables to big data, while making it possible for engines like Spark, Trino, Flink, Presto, Hive and Impala to safely work with the same tables, at the same time.
+
+== Change Data Capture
+
+* https://debezium.io/[Debezium] - Change data capture for MySQL, Postgres, MongoDB, SQL Server and others.
+* https://github.com/zendesk/maxwell[Maxwell] - Maxwell's daemon, a MySQL-to-JSON Kafka producer.
+
+== Datastores
+
+* https://calcite.apache.org/[Apache Calcite] - SQL parser, building blocks for datastores.
+* http://cassandra.apache.org/[Apache Cassandra] - Open Source distributed wide column store, NoSQL database.
+* https://druid.apache.org/[Apache Druid] - A high performance real-time analytics database.
+* https://hbase.apache.org/[Apache HBase] - Open Source non-relational distributed database. 
+* https://pinot.apache.org/[Apache Pinot] - A realtime distributed OLAP datastore.
+* https://clickhouse.tech/[ClickHouse] - Open Source distributed column-oriented DBMS.
+* https://www.influxdata.com/[InfluxDB] - Purpose-Built Open Source Time Series Database.
+* https://min.io/[MinIO] - MinIO is a high performance, distributed object storage system and AWS S3 compatible.
+* https://www.postgresql.org/[Postgres] - The World's Most Advanced Open Source Relational Database.
+
+== Data Governance and Registries
+
+* https://github.com/lyft/amundsen[Amundsen] - metadata catalogue.
+* https://atlas.apache.org[Apache Atlas] - Data governance and metadata framework for Hadoop.
+* https://github.com/linkedin/datahub[DataHub] -  A Generalized Metadata Search & Discovery Tool.
+* https://github.com/Netflix/metacat[Metacat] - Unified metadata exploration API service.
+* https://github.com/elementary-data/elementary-lineage[Elementary] - Data reliability solution, starting with plug-and-play data lineage and datasets operational status. 
+* https://github.com/monosidev/monosi[Monosi] - Data observability & monitoring platform. 
+* https://github.com/open-metadata/OpenMetadata[OpenMetadata] - Generalized metadata, search, and lineage tool.
+
+== Data Virtualization
+
+* https://drill.apache.org/[Apache Drill] - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage.
+* https://github.com/dremio/dremio-oss[Dremio] - A data lake engine. Provides an Apache Arrow-based query and acceleration engine together with the ability to create an IT-governed self-service layer for data scientists and analysts.
+* http://teiid.io/[Teiid] - A relational abstraction of different information sources.
+* https://prestodb.io/[Presto] - Distributed SQL Query Engine for Big Data.
+
+== Data Orchestration
+* https://github.com/Alluxio/alluxio[Alluxio] - Scalable, multi-tiered distributed caching for HDFS, S3, Ceph, NFS, and related filestores. Provides integrations for SQL queries into a Catalog from Spark, Hive, and Presto. 
+
+== Formats
+
+* https://avro.apache.org/[Apache Avro] - A data serialization system.
+* https://parquet.apache.org/[Apache Parquet] - A columnar storage format.
+* https://orc.apache.org/[Apache ORC] - Another columnar storage format.
+* https://thrift.apache.org/[Apache Thrift] - Data type and service interface definitions and code generator.
+* https://arrow.apache.org/[Apache Arrow] - A cross-language development platform for in-memory data. It specifies a standardized, language-independent, columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy IPC and streaming messaging. 
+* https://capnproto.org/[Cap’n Proto] - A data interchange format and capability-based RPC system.
+* https://google.github.io/flatbuffers/[FlatBuffers] - An efficient cross platform serialization library for C++, C#, C, Go, Java, JavaScript, Lobster, Lua, TypeScript, PHP, Python, and Rust.
+* https://msgpack.org/index.html[MessagePack] - An efficient binary serialization format. It lets you exchange data among multiple languages like JSON. 
+* https://developers.google.com/protocol-buffers[Protocol Buffers] - Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.
+
+== Integration
+
+* https://camel.apache.org/[Apache Camel] - Easily integrate various systems consuming or producing data.
+* https://kafka.apache.org/documentation/#connect[Kafka Connect] - Reusable framework to handle data int-and-out of Apache Kafka.
+* https://www.elastic.co/logstash[Logstash] - Open Source server-side data processing pipeline.
+* https://github.com/influxdata/telegraf[Telegraf] - a plugin-driven server agent writen in Go (deployed as a single binary with no external dependencies) for collecting and sending metrics and events from databases, systems, and IoT sensors. Offers hundreds of existing plugins. 
+
+== Messaging Infrastructure
+
+* https://activemq.apache.org/[Apache ActiveMQ] - Flexible & Powerful Multi-Protocol Messaging.
+* https://kafka.apache.org/[Apache Kafka] - A distributed commit log with messaging capabilities.
+* https://pulsar.apache.org/[Apache Pulsar] - A distributed pub-sub messaging system.
+* http://github.com/bsideup/liiklus[Liiklus] - An event gateway that provides reactive gRPC/RSocket access to Kafka-like systems.
+* https://nakadi.io/[Nakadi] - A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues].
+* https://nats.io/[NATS] - A simple, secure and high performance messaging system.
+* https://www.rabbitmq.com/[RabbitMQ] - A message broker.
+* https://github.com/wepay/waltz[Waltz] - A quorum-based distributed write-ahead log for replicating transactions.
+* https://zeromq.org/[ZeroMQ] - An open-source universal, high-performance messaging library.
+
+== Specifications and Standards
+
+* https://cloudevents.io/[CloudEvents] - A specification for describing event data in a common way.
+
+== Stream Processing
+
+* https://heron.incubator.apache.org/[Apache Heron] - The "direct successor of Apache Storm", built to be backwards compatible with Storm's topology API but with a wide array of architectural improvements.
+* https://kafka.apache.org/documentation/streams/[Apache Kafka Streams] - A client library for building applications and microservices, where the input and output data are stored in Kafka.
+* http://samza.apache.org/[Apache Samza] - A distributed stream processing framework.
+* https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html[Apache Spark Structured Streaming] -  A scalable and fault-tolerant stream processing engine built on the Spark SQL engine.
+* http://storm.apache.org/[Apache Storm] - A distributed realtime computation system.
+
+== Testing
+
+* https://greatexpectations.io/[Great expectations] - Helps data teams eliminate pipeline debt, through data testing.
+
+== Versioning 
+* https://github.com/treeverse/lakeFS/[lakeFS] - Repeatable, atomic and versioned data lake on top of object storage.
+
+== Workflow Management
+
+* https://github.com/meirwah/awesome-workflow-engines[Awesome Workflow Engines] - A curated list of awesome open source workflow engines.
+* https://airflow.apache.org/[Apache Airflow] - A platform created by community to programmatically author, schedule and monitor workflows.
+* https://nifi.apache.org/[Apache NiFi] - Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic
+* https://github.com/knime/[KNIME] - KNIME Analytics Platform offers a WYSIWYG Editor for Spark-based workflows, with over 2000+ integrations. Offers visualization and flow analytics in-place. KNIME Server is a commercially licensed component that adds additional features. 
+* https://github.com/PrefectHQ/prefect/[Prefect] - A workflow management system designed for modern infrastructure.
+* https://github.com/dagster-io/dagster/[Dagster] - A data orchestrator for machine learning, analytics, and ETL.
+* https://github.com/kestra-io/kestra[Kestra] - Open source data orchestration and scheduling platform with declarative syntax.
+
+== Related Resources
+
+_only overview contents, no specific tools_
+
+=== Slide Decks, Recordings and Podcasts
+
+* https://www.dataengineeringpodcast.com/[Data Engineering Podcast]
+* https://softwareengineeringdaily.com/[Software Engineering Daily]
+
+=== Blog Posts and Articles
+* https://dataengweekly.substack.com/[Data Eng Weekly]
+
+=== Collections
+* https://nosql-database.org/[NOSQL Database Management Systems] - List of NoSQL database management systems.
+* https://db-engines.com/en/[DB-Engines] - Knowledge base of relational and NoSQL database management systems.
+* https://www.goodreads.com/list/show/146550.Data_Engineering_Group[Books] and https://www.goodreads.com/group/show/1073364-data-engineering[Book club] - Goodreads list and group about Data Engineering books
+
+== License
+
+The contents of this repository is licensed under the "Creative Commons Attribution-ShareAlike 4.0 International License".

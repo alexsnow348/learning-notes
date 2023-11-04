@@ -5,8 +5,10 @@ ___
 ___
 
 1. https://www.udemy.com/course/google-cloud-gcp-professional-data-engineer-certification/ 
-2. [[professional-data-engineer-certification]]
-3. [[data-engineering-interview]]
+2. [[certification-guides]]
+3. [[interview-related-tips]]
+4. [[tools]]
+
 
 ## Articles
 ___

@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+
+<article lang="en">
+<articleinfo>
+    <title>Awesome Open-Source Data Engineering</title>
+</articleinfo>
+<simpara>This <ulink url="https://github.com/topics/awesome-list">Awesome List</ulink> aims at providing an overview of <ulink url="https://opensource.org/licenses">open-source</ulink> projects related to data engineering.
+This is a community effort: please <ulink url="https://github.com/gunnarmorling/awesome-opensource-data-engineering/blob/master/CONTRIBUTING.md">contribute</ulink> and send your pull requests for growing this list!
+For a list including non-OSS tools, see this amazing <ulink url="https://github.com/igorbarinov/awesome-data-engineering">Awesome List</ulink>.</simpara>
+<section id="_analytics">
+<title>Analytics</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://spark.apache.org/">Apache Spark</ulink> - A unified analytics engine for large-scale data processing. Includes APIs in Scala, Java, Python (known as PySpark), and R (SparkR).
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://beam.apache.org/">Apache Beam</ulink> - An open-source implementation of Google DataFlow. Provides capabilites of batch and streaming data processing jobs that run on any execution engine, including Spark, Flink, or its own DirectRunner. Supports multiple APIs in Java, Python, and Go.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://flink.apache.org/">Apache Flink</ulink> - Stateful computations over data streams.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://trino.io/">Trino (formerly known as PrestoSQL)</ulink> - Distributed SQL Query Engine for Big Data.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_business_intelligence">
+<title>Business Intelligence</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://superset.incubator.apache.org/">Apache Superset</ulink> - A modern, enterprise-ready business intelligence web application.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://gethue.com/">HUE</ulink> - The Hadoop User Interface. Similar to Superset, but interfaces between RDBMS, Hive, Impala, HBase, Spark, HDFS &amp; S3, Oozie, Pig, YARN Job Explorer, and more. Offers an extensible Django environment for custom app integration.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.metabase.com/">Metabase</ulink> - An easy way for everyone in your company to ask questions and learn from data.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://redash.io/">Redash</ulink> - All the tools to unlock your data.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_data_lakehouse">
+<title>Data Lakehouse</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://delta.io/">Delta Lake</ulink> - Open-source storage framework that enables building a lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://hudi.apache.org/">Apache Hudi</ulink> - Transactional data lake platform that brings database and data warehouse capabilities to the data lake. Hudi reimagines slow old-school batch data processing with a powerful new incremental processing framework for low latency minute-level analytics.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://iceberg.apache.org/">Apache Iceberg</ulink> - High-performance format for huge analytic tables. Iceberg brings the reliability and simplicity of SQL tables to big data, while making it possible for engines like Spark, Trino, Flink, Presto, Hive and Impala to safely work with the same tables, at the same time.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_change_data_capture">
+<title>Change Data Capture</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://debezium.io/">Debezium</ulink> - Change data capture for MySQL, Postgres, MongoDB, SQL Server and others.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://github.com/zendesk/maxwell">Maxwell</ulink> - Maxwell&#8217;s daemon, a MySQL-to-JSON Kafka producer.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_datastores">
+<title>Datastores</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://calcite.apache.org/">Apache Calcite</ulink> - SQL parser, building blocks for datastores.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://cassandra.apache.org/">Apache Cassandra</ulink> - Open Source distributed wide column store, NoSQL database.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://druid.apache.org/">Apache Druid</ulink> - A high performance real-time analytics database.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://hbase.apache.org/">Apache HBase</ulink> - Open Source non-relational distributed database.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://pinot.apache.org/">Apache Pinot</ulink> - A realtime distributed OLAP datastore.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://clickhouse.tech/">ClickHouse</ulink> - Open Source distributed column-oriented DBMS.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.influxdata.com/">InfluxDB</ulink> - Purpose-Built Open Source Time Series Database.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://min.io/">MinIO</ulink> - MinIO is a high performance, distributed object storage system and AWS S3 compatible.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.postgresql.org/">Postgres</ulink> - The World&#8217;s Most Advanced Open Source Relational Database.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_data_governance_and_registries">
+<title>Data Governance and Registries</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://github.com/lyft/amundsen">Amundsen</ulink> - metadata catalogue.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://atlas.apache.org">Apache Atlas</ulink> - Data governance and metadata framework for Hadoop.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://github.com/linkedin/datahub">DataHub</ulink> -  A Generalized Metadata Search &amp; Discovery Tool.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://github.com/Netflix/metacat">Metacat</ulink> - Unified metadata exploration API service.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://github.com/elementary-data/elementary-lineage">Elementary</ulink> - Data reliability solution, starting with plug-and-play data lineage and datasets operational status.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://github.com/monosidev/monosi">Monosi</ulink> - Data observability &amp; monitoring platform.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://github.com/open-metadata/OpenMetadata">OpenMetadata</ulink> - Generalized metadata, search, and lineage tool.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_data_virtualization">
+<title>Data Virtualization</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://drill.apache.org/">Apache Drill</ulink> - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://github.com/dremio/dremio-oss">Dremio</ulink> - A data lake engine. Provides an Apache Arrow-based query and acceleration engine together with the ability to create an IT-governed self-service layer for data scientists and analysts.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://teiid.io/">Teiid</ulink> - A relational abstraction of different information sources.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://prestodb.io/">Presto</ulink> - Distributed SQL Query Engine for Big Data.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_data_orchestration">
+<title>Data Orchestration</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://github.com/Alluxio/alluxio">Alluxio</ulink> - Scalable, multi-tiered distributed caching for HDFS, S3, Ceph, NFS, and related filestores. Provides integrations for SQL queries into a Catalog from Spark, Hive, and Presto.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_formats">
+<title>Formats</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://avro.apache.org/">Apache Avro</ulink> - A data serialization system.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://parquet.apache.org/">Apache Parquet</ulink> - A columnar storage format.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://orc.apache.org/">Apache ORC</ulink> - Another columnar storage format.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://thrift.apache.org/">Apache Thrift</ulink> - Data type and service interface definitions and code generator.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://arrow.apache.org/">Apache Arrow</ulink> - A cross-language development platform for in-memory data. It specifies a standardized, language-independent, columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy IPC and streaming messaging.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://capnproto.org/">Cap’n Proto</ulink> - A data interchange format and capability-based RPC system.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://google.github.io/flatbuffers/">FlatBuffers</ulink> - An efficient cross platform serialization library for C++, C#, C, Go, Java, JavaScript, Lobster, Lua, TypeScript, PHP, Python, and Rust.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://msgpack.org/index.html">MessagePack</ulink> - An efficient binary serialization format. It lets you exchange data among multiple languages like JSON.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://developers.google.com/protocol-buffers">Protocol Buffers</ulink> - Google&#8217;s language-neutral, platform-neutral, extensible mechanism for serializing structured data.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_integration">
+<title>Integration</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://camel.apache.org/">Apache Camel</ulink> - Easily integrate various systems consuming or producing data.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://kafka.apache.org/documentation/#connect">Kafka Connect</ulink> - Reusable framework to handle data int-and-out of Apache Kafka.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.elastic.co/logstash">Logstash</ulink> - Open Source server-side data processing pipeline.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://github.com/influxdata/telegraf">Telegraf</ulink> - a plugin-driven server agent writen in Go (deployed as a single binary with no external dependencies) for collecting and sending metrics and events from databases, systems, and IoT sensors. Offers hundreds of existing plugins.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_messaging_infrastructure">
+<title>Messaging Infrastructure</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://activemq.apache.org/">Apache ActiveMQ</ulink> - Flexible &amp; Powerful Multi-Protocol Messaging.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://kafka.apache.org/">Apache Kafka</ulink> - A distributed commit log with messaging capabilities.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://pulsar.apache.org/">Apache Pulsar</ulink> - A distributed pub-sub messaging system.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://github.com/bsideup/liiklus">Liiklus</ulink> - An event gateway that provides reactive gRPC/RSocket access to Kafka-like systems.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://nakadi.io/">Nakadi</ulink> - A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues].
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://nats.io/">NATS</ulink> - A simple, secure and high performance messaging system.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.rabbitmq.com/">RabbitMQ</ulink> - A message broker.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://github.com/wepay/waltz">Waltz</ulink> - A quorum-based distributed write-ahead log for replicating transactions.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://zeromq.org/">ZeroMQ</ulink> - An open-source universal, high-performance messaging library.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_specifications_and_standards">
+<title>Specifications and Standards</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://cloudevents.io/">CloudEvents</ulink> - A specification for describing event data in a common way.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_stream_processing">
+<title>Stream Processing</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://heron.incubator.apache.org/">Apache Heron</ulink> - The "direct successor of Apache Storm", built to be backwards compatible with Storm&#8217;s topology API but with a wide array of architectural improvements.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://kafka.apache.org/documentation/streams/">Apache Kafka Streams</ulink> - A client library for building applications and microservices, where the input and output data are stored in Kafka.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://samza.apache.org/">Apache Samza</ulink> - A distributed stream processing framework.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html">Apache Spark Structured Streaming</ulink> -  A scalable and fault-tolerant stream processing engine built on the Spark SQL engine.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://storm.apache.org/">Apache Storm</ulink> - A distributed realtime computation system.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_testing">
+<title>Testing</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://greatexpectations.io/">Great expectations</ulink> - Helps data teams eliminate pipeline debt, through data testing.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_versioning">
+<title>Versioning</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://github.com/treeverse/lakeFS/">lakeFS</ulink> - Repeatable, atomic and versioned data lake on top of object storage.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_workflow_management">
+<title>Workflow Management</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://github.com/meirwah/awesome-workflow-engines">Awesome Workflow Engines</ulink> - A curated list of awesome open source workflow engines.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://airflow.apache.org/">Apache Airflow</ulink> - A platform created by community to programmatically author, schedule and monitor workflows.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://nifi.apache.org/">Apache NiFi</ulink> - Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://github.com/knime/">KNIME</ulink> - KNIME Analytics Platform offers a WYSIWYG Editor for Spark-based workflows, with over 2000+ integrations. Offers visualization and flow analytics in-place. KNIME Server is a commercially licensed component that adds additional features.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://github.com/PrefectHQ/prefect/">Prefect</ulink> - A workflow management system designed for modern infrastructure.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://github.com/dagster-io/dagster/">Dagster</ulink> - A data orchestrator for machine learning, analytics, and ETL.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://github.com/kestra-io/kestra">Kestra</ulink> - Open source data orchestration and scheduling platform with declarative syntax.
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_related_resources">
+<title>Related Resources</title>
+<simpara><emphasis>only overview contents, no specific tools</emphasis></simpara>
+<section id="_slide_decks_recordings_and_podcasts">
+<title>Slide Decks, Recordings and Podcasts</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://www.dataengineeringpodcast.com/">Data Engineering Podcast</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://softwareengineeringdaily.com/">Software Engineering Daily</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_blog_posts_and_articles">
+<title>Blog Posts and Articles</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://dataengweekly.substack.com/">Data Eng Weekly</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section id="_collections">
+<title>Collections</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="https://nosql-database.org/">NOSQL Database Management Systems</ulink> - List of NoSQL database management systems.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://db-engines.com/en/">DB-Engines</ulink> - Knowledge base of relational and NoSQL database management systems.
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="https://www.goodreads.com/list/show/146550.Data_Engineering_Group">Books</ulink> and <ulink url="https://www.goodreads.com/group/show/1073364-data-engineering">Book club</ulink> - Goodreads list and group about Data Engineering books
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+<section id="_license">
+<title>License</title>
+<simpara>The contents of this repository is licensed under the "Creative Commons Attribution-ShareAlike 4.0 International License".</simpara>
+</section>
+</article>

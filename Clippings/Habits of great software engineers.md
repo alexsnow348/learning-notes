@@ -54,7 +54,7 @@ Some may argue that efficiency = the [opposite of stability](https://psyche.co/i
 
 So we’re talking about staying efficient. At its core, efficiency is about progress — momentum, ensuring that the wheels of development are always turning. To make it clear what I’m talking about, let’s take a look at the opposite. Every developer knows the feeling of being "stuck" – whether it's a particularly challenging bug — where you start doubting your competence or a piece of code that just won't cooperate. The progress seems to have come to a halt. The pursuit of efficiency, in this case, means not letting these obstacles impede you. It's about thinking on your feet, finding resources to solve the issue, finding alternative solutions, and keeping the end goal in sight.
 
-🏄 Think of it as adopting a proactive mindset, where doing something – even if it doesn’t solve your problem directly – is better than doing nothing.
+> 🏄 Think of it as adopting a proactive mindset, where doing something – even if it doesn’t solve your problem directly – is better than doing nothing.
 
 This means breaking a complex problem into smaller, more manageable tasks. It means seeking input from a colleague when you're feeling stuck or temporarily setting aside a challenging task to focus on another aspect of the project. The key is to maintain forward momentum with small increments.
 
@@ -68,6 +68,8 @@ I have nothing against people who are not passionate about programming; it’s o
 
 This passion manifests itself in various ways, but one of the most evident is the joy of exploration. Great developers are explorers at heart. They're not content with just knowing the tools and technologies of today; they're always on the lookout for what's on the horizon. They tinker, they experiment, they play. Whether it's a new framework, a novel algorithm, or an emerging tech trend, they dive in headfirst, eager to learn, understand, and master.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nctqc8FBJ2U?si=KGolduaKTohsVX-V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 So here's George Hotz having great time tinkering with LLaMa and building a chatbot, can you see the joy while he's coding? I find this so cool.
 
 This kind of tinkering keeps the spark alive. In a field as vast and ever-evolving as software development, it's easy to feel overwhelmed or stuck in a rut. However, by embracing curiosity and actively seeking new challenges and learning opportunities, developers can keep their skills sharp and enthusiasm high.
@@ -80,8 +82,9 @@ Nowadays, developers often find themselves engrossed in specific layers or compo
 
 Now, it's a valid argument that a developer doesn't need to be an expert in every layer of the stack. One doesn't need to trace the journey from circuit boards to bits and bytes for every line of code written. But having a foundational understanding and a sense of the bigger picture can be incredibly empowering.
 
-*Frontend Developers* — why and how the CSS is rendered? So many cool things in the [Blink rendering engine](https://www.chromium.org/blink/) will change how you think about the page.  
-*Backend Developers* — why and how the Python interpreter works? There are so many fascinating things in the [CPython interpreter/compiler](https://github.com/python/cpython) that you’ll be surprised how your code runs.
+***Frontend Developers*** — why and how the CSS is rendered? So many cool things in the [Blink rendering engine](https://www.chromium.org/blink/) will change how you think about the page.  
+
+***Backend Developers*** — why and how the Python interpreter works? There are so many fascinating things in the [CPython interpreter/compiler](https://github.com/python/cpython) that you’ll be surprised how your code runs.
 
 Knowing the WHY/HOW behind the code offers several advantages:
 
@@ -110,7 +113,7 @@ In the digital age, screens have become ubiquitous. From the workstation where y
 
 Great developers aren't just masters of their craft but well-rounded individuals who understand the value of experiences beyond the digital realm. They recognize that while technology can expand horizons, it can also, paradoxically, become a limiting bubble.
 
-🏄Constant immersion in the digital world can lead to a narrowed perspective. There’s so much more outside of the tech bubble.
+> 🏄Constant immersion in the digital world can lead to a narrowed perspective. There’s so much more outside of the tech bubble.
 
 I won’t talk too much about the dangers of constant screen time. Physically, it can lead to ailments like eye strain, disrupted sleep patterns, and sedentary lifestyle-related issues. Mentally, it can result in burnout, increased stress, and a feeling of being perpetually "wired." Moreover, a predominantly online life can lead to a sense of isolation and a disconnection from the tangible, real world around us.
 
@@ -138,7 +141,7 @@ I find this adaptability and transfer mindset quite important. Challenges are co
 
 If it looks like a duck, swims like a duck, and quacks like a duck, then it probably is a duck.
 
-🏄 Experience plays a pivotal role in this. With each challenge faced, a developer adds to their repertoire, expanding their understanding and refining their approach. I tell my developers, “Every bug you solve today is a skill tomorrow.”
+> 🏄 Experience plays a pivotal role in this. With each challenge faced, a developer adds to their repertoire, expanding their understanding and refining their approach. I tell my developers, “Every bug you solve today is a skill tomorrow.”
 
 Static knowledge, rigid and unyielding, can become a limitation. The real magic lies in understanding and grasping the core principles so that they can be reshaped and repurposed as needed.
 

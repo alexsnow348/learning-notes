@@ -129,6 +129,8 @@ Amidst the lines of logic and structures, there are numbers that matter. If you'
 
 I’ve seen this cool concept called *“The Napkin Math”* — for situations where you need to quickly approximate how much it will cost or how fast it will be. In today's cloud-centric world, where scalability and performance are paramount, costs can soon spiral out of control if not kept in check. Being able to approximate calculations on the fly can provide a solid roadmap. It can help you anticipate costs, allocate resources efficiently, and design performant and cost-effective systems.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IxkSlnrRFqc?si=F1VNYSH3hLzOvAux" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 I won’t talk too in-depth about this - but watch the talk. It’s great.
 
 ## **Transfering Knowledge to Other Problems**
@@ -149,6 +151,10 @@ Static knowledge, rigid and unyielding, can become a limitation. The real magic 
 
 Julia Evans has a great talk on making hard things easy. That’s where I stole the title of this section as well.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/30YWsGDr8mA?si=RaL2--dIngY4Q9UU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 There's a truth often attributed to the genius of Albert Einstein: "If you can't explain it simply, you don't understand it well enough." In software engineering especially, the pinnacle of understanding isn't just about mastering the hard things but about making those hard things easy for others.
 
 I’ve met quite a few developers who explained complex things to me in such simple terms that I was surprised that a) I understood it and b) that the concepts were not as complicated as I feared.
@@ -167,7 +173,9 @@ Deadlines loom, stakeholders press and the allure of quick fixes can be overwhel
 
 It's easy to opt for a solution that addresses the problem at hand, but does it stand the test of time? Will it scale? Is it maintainable? Will you even want to touch it later? These are the questions that guide the forward-thinking developer.
 
-I’ve talked a bit [about technical debt](https://vadimkravcenko.com/en/manage-technical-debt-agile-company/) and the conscious choice of taking it on. Much like financial debt, technical debt refers to the "cost" associated with opting for quick-and-dirty solutions. While it might offer immediate relief — and give you the much-needed time-to-market, it accumulates interest over time, often manifesting as bugs, performance issues, integration challenges, and, worst of all, maintainability chaos. Every developer should understand the implications of technical debt. Today's shortcuts can become tomorrow's roadblocks.
+I’ve talked a bit [about technical debt](https://vadimkravcenko.com/en/manage-technical-debt-agile-company/) and the conscious choice of taking it on. Much like financial debt, technical debt refers to the "cost" associated with opting for quick-and-dirty solutions. While it might offer immediate relief — and give you the much-needed time-to-market, it accumulates interest over time, often manifesting as bugs, performance issues, integration challenges, and, worst of all, maintainability chaos. Every developer should understand the implications of technical debt.
+
+>  🏄  Today's shortcuts can become tomorrow's roadblocks.
 
 The pitfalls of short-term gratification in software development are numerous. Beyond technical debt, there's the risk of building on shaky foundations, e.g., with a new and shiny framework, or becoming too rigid and inflexible in the face of change, e.g., with vendor-lock-ins. While seductive, the allure of immediate results often comes at the expense of future growth and adaptability.
 

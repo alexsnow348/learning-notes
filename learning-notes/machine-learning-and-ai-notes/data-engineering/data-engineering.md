@@ -8,6 +8,7 @@ ___
 2. [[certification-guides]]
 3. [[interview-related-tips]]
 4. [[tools]]
+5. [[open-data-lake-house]]
 
 
 ## Articles

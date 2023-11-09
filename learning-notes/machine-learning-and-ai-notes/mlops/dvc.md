@@ -100,9 +100,9 @@ Reference
 1. [[dvc-slide-1-intro.pdf]]
 2. [[dvc-slide-2-practices-and-tools-for-efficient-collaboration-in-ML-projects.pdf]]
 3. [[dvc-slide-3-pipelines-automation-and-configuration-management.pdf]]
-4. [[dvc-slide-4.pdf]]
-5. [[dvc-slide-5.pdf]]
-6. [[dvc-slide-6.pdf]]
-7. [[dvc-slide-7.pdf]]
+4. [[dvc-slide-4-versioning-and-sharing-data.pdf]]
+5. [[dvc-slide-5-visualize-metrics-and-plot.pdf]]
+6. [[dvc-slide-6-experiment-management-and-collaboration.pdf]]
+7. [[dvc-slide-7-advanced-topics-and-usecases.pdf]]
 8. [data-science-blueprint](https://data-science-blueprint.readthedocs.io/)
 9. https://realpython.com/python-data-version-control/ 

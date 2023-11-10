@@ -41,3 +41,8 @@ UAT: test server running in GitHub code spaces
 Build&package: GitHub actions  
 Release: GitHub releases + GitHub actions  
 Deploy: GitHub actions w. TF and [helm.sh](http://helm.sh/)
+
+# Tools to Learn 
+---
+
+Kubernetes, Rust, and JAX.

@@ -17,3 +17,5 @@ tags:
 - a sense of competence and achievement. But the type of achievement matters.
 
 Is it because you genuinely want or need to do the thing, or because you think it will make you look good?
+
+https://plato.stanford.edu/entries/heidegger/

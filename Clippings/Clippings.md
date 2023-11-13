@@ -6,3 +6,5 @@
 - [[Habits of great software engineers]]
 - [[Data Engineer vs MLOps Engineer Who Does What?]]
 - [[The Case for Mediocrity]]
+- [[On actionable and actually useful logs]]
+- 

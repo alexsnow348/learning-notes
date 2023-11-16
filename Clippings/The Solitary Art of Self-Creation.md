@@ -37,4 +37,14 @@ To become the artist of your life is to forever seek the light and resist being 
 
 It is to be inventive, daring, well-read, and untamed in your quest. Give attention to the hunger of your soul. Explore the full range of your own potentialities and suppressed passions.
 
+
+**“the most common form of despair is not being who you are.”**
+
+**“through blind acceptance of collective opinions, we cripple ourselves and our own potential for meaningful growth and change, and we rarely understand how closely such debilitation is linked with depression, physical illness, neurosis, and death.”**
+
+Wake from the slumber of habit and do something no one has done before.
+
+ “Find what you love and let it kill you. Let it drain you of your all. Let it cling onto your back and weigh you down into eventual nothingness.”
+ 
+
 ![[Siddhartha.png]]

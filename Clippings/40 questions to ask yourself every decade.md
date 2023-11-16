@@ -11,16 +11,6 @@ tags:
   - life-journey
 ---
 
-Every year I ask myself [40 questions](https://stephango.com/40-questions) that help me make sense of what happened over the past twelve months. I love working through that exercise and discussing it with friends and family who enjoy too.
-
-As we enter a new decade, I’ve been pondering what the 2020s will hold for us. I remembered that some time ago I had answered [Proust’s famous questionnaire](https://en.wikipedia.org/wiki/Proust_Questionnaire), and thought I would try answering it again. While the yearly questions help me reflect on what happened, Proust’s questions are more about personal philosophies and traits, and thus change less frequently over time.
-
-Going through my answers to the Proust questionnaire, I was inspired to work on a new questionnaire that I could use for the next few decades. I tried create a set of questions that I would enjoy reflecting on in 2030. This list combines questions from Proust’s questionnaire, and others I’ve been collecting ad hoc.
-
-It will be ten years before I can tell you whether this worked well or not, but join me on this journey if you’d like! Please edit this list with questions you would like to know your own answers to in ten years. The questions are also available in [Markdown format](https://github.com/kepano/40-questions) in several languages.
-
----
-
 1.  What would you do if you had 6 months to live?
 2.  What would you do if you had a billion dollars?
 3.  What advice would you give yourself 10 years ago?

@@ -10,18 +10,6 @@ tags:
   - clippings
   - life-journey
 ---
-
-
-One of my rituals at the end of the year is asking myself these forty questions. I have made them available as [a Markdown file](https://github.com/kepano/40-questions) which has been [translated in several languages](https://github.com/kepano/40-questions/tree/master/translations).
-
-It usually takes me about a week to work my way through all of them. I find it to be one of the most valuable exercises to reflect on what happened, good and bad, and how I hope the year ahead will shape up.
-
-What is more interesting than each individual answer are the trends that emerge after years of answering the same questions. I’ve shared this list with my family and closest friends, and always enjoy discussing answers as we reflect on the year.
-
-Feel free to add or remove questions, and [share your edits with me](https://www.twitter.com/kepano). This is first and foremost a personal exercise, so make it a tradition you can enjoy for years to come. See also my [40 questions to ask yourself every decade](https://stephango.com/40-questions-decade).
-
----
-
 1.  What did you do this year that you’d never done before?
 2.  Did you keep your new year’s resolutions?
 3.  Did anyone close to you give birth?

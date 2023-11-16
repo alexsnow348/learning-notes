@@ -34,6 +34,7 @@ ___
 
 
 To become the artist of your life is to forever seek the light and resist being marred by the endless mire of this batshit crazy world. 
+
 It is to be inventive, daring, well-read, and untamed in your quest. Give attention to the hunger of your soul. Explore the full range of your own potentialities and suppressed passions.
 
 ![[Siddhartha.png]]

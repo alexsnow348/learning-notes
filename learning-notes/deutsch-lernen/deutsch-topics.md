@@ -20,4 +20,4 @@ __ခေါင်စဥ်များ__
 * [[question-words]]
 * [[useful-short-sentence]]
 * [[proposition]]
-* [[model-helping-verb]]
+* [[model-helping-verb-proposition]]

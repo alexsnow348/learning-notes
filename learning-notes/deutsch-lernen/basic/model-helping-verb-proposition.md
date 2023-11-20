@@ -23,6 +23,8 @@
 ![[haben.png]]
 - **Werden - to become**
 ![[werden.png]]
+- Lokale Präpositionen
+![[lokale_proposition.png]]
 
 ## Reference
 - https://www.thegermanprofessor.com/german-modal-verbs/ 

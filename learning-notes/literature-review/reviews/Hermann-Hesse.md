@@ -17,5 +17,5 @@ tags:
 
 - “ I wanted to praise the innocence and inexhaustibility of nature and to present her course up to that point where, through inevitable suffering, she is forced to turn toward spirit, her distant polar opposite, and the oscillation of life between these two poles of nature and of spirit would be revealed as blithe, playful, and complete as the arch of a rainbow.”
 
-- “I divide my days between the study and garden work, the latter is intended for meditation and spiritual digestion and thus is usually undertaken in solitude”
+- “I divide my days between the study and garden work, the latter is intended for meditation and spiritual digestion and thus is usually undertaken in solitude.”
 

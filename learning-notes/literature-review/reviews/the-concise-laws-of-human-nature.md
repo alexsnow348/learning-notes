@@ -29,6 +29,6 @@ tags:
 
 - “First, people have trained themselves in social situations to present the front that is appropriate and that will be judged positively. Second, we are prone to fall for the **halo effect**—when we see certain negative or positive qualities in a person (social awkwardness, intelligence), other positive or negative qualities are implied that fit with this.”
 
-- “see other people as phenomena, as neutral as comets or plants. They simply exist. Work with what they give you, instead of resisting and trying to change them.”
+- “See other people as phenomena, as neutral as comets or plants. They simply exist. Work with what they give you, instead of resisting and trying to change them.”
 
 - “You want to retain the elasticity of spirit you had as a child, interested in everything, while retaining the hard-nosed need to verify and scrutinize for yourself all ideas and beliefs”

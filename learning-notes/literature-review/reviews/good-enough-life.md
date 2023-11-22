@@ -13,6 +13,12 @@ tags:
 - “the pressure to be great, which is to say, to maximize our potential and be at the top of our field. ”
 
 
+“From Buddhism we can learn that although some suffering in life is inevitable, the best path to decreasing it is through embracing our interdependence”
+
+“that winning is a leaky cup: the more we get, the more we want. There’s always another promotion or accomplishment around the bend. Community and kindness, however, tend to have long-lasting benefits”
+
+
+
 
 
 

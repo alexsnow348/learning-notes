@@ -17,6 +17,8 @@ tags:
 
 “that winning is a leaky cup: the more we get, the more we want. There’s always another promotion or accomplishment around the bend. Community and kindness, however, tend to have long-lasting benefits”
 
+“As Brown shows, the way that we think about education, free speech, and even love increasingly occurs in economic terms. Where to go to school and what to study, who gets to speak and how much, and what person to marry—all of these decisions get made with at least some reference to economics.”
+
 
 
 

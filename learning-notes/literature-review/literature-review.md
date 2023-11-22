@@ -20,4 +20,4 @@
 ## Human Behavior
 --- 
 1. [[the-concise-laws-of-human-nature]]
-2. 
+2. [[good-enough-life]]

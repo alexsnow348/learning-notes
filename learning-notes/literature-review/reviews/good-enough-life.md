@@ -23,6 +23,8 @@ tags:
 “The obvious consequence for the individual is to strive to be the best at whatever they pursue—not to make money, but to achieve the highest goals of their chosen field.”
 
 
+https://www.youtube.com/watch?v=ax9-CMi-lUU
+
 
 
 

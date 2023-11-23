@@ -20,6 +20,8 @@ tags:
 “As Brown shows, the way that we think about education, free speech, and even love increasingly occurs in economic terms. Where to go to school and what to study, who gets to speak and how much, and what person to marry—all of these decisions get made with at least some reference to economics.”
 
 
+“The obvious consequence for the individual is to strive to be the best at whatever they pursue—not to make money, but to achieve the highest goals of their chosen field.”
+
 
 
 

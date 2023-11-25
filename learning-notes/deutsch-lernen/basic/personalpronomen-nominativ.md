@@ -21,3 +21,4 @@
 |Sie - လူကြီးမင်တို့|sind|haben|Heißen|
 |Sie - လူကြီးမင်တို့|sind|haben|Heißen|
 
+![[sein_past.jpeg]]

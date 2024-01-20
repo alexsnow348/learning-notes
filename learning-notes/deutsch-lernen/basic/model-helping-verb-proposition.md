@@ -1,4 +1,4 @@
-q- [[#Modalverb|Modalverb]]
+- [[#Modalverb|Modalverb]]
 - [[#Helping Verb|Helping Verb]]
 - [[#Reference|Reference]]
 

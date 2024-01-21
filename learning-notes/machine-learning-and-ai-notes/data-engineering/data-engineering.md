@@ -15,4 +15,6 @@ ___
 ___
 
 - [[postgreSQL-change-data-capture-CDC]]
+- [[certification-guides]]
+- [[interview-related-tips]]
 - 

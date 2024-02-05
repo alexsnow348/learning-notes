@@ -11,6 +11,7 @@ Math in AI
 		- Integers - **Z**
 	- Irrational - **I**
 - Imaginary Numbers - **C** 
+- [[math-symbol]]
 
 ### ပြန်လေ့လာသင့်သော maths များ
 
@@ -43,6 +44,7 @@ Math in AI
 	- Bayesian networks
 	- maximum likelihood 
 	- log loss and cross entropy
+- [[04-time-series]]
 	 
  - Geometry
 	- Shapes

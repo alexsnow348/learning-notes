@@ -17,4 +17,7 @@ ___
 - [[postgreSQL-change-data-capture-CDC]]
 - [[certification-guides]]
 - [[interview-related-tips]]
-- 
+
+## Tips
+---
+1. [[meeting-with-mentor]]

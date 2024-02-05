@@ -2,3 +2,5 @@
 - [[home-schooling]]
 - [[data-science-design-pattern]]
 - [[system-design-notes]]
+- [[meeting-with-mentor]]
+- 

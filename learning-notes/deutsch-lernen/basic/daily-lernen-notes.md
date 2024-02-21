@@ -1,4 +1,4 @@
-# Daily Learning Note
+# Daily Learning Notes
 ------
 
 - Ich habe viele Sorgen, weil ich für die Prüfung noch nicht gut/richtig vorbereitet habe.
@@ -70,7 +70,14 @@ Der Fernseher steht im Wohnzimmer. (in + dative for fixed locations → Wo ist d
 • Die Uhr hängt im Arbeitszimmer. (hängen = to hang)
 • Das Bild hängt im Kinderzimmer.
 • Die Spülmaschine ist/steht in der Küche.
-• Der Teppich liegt im Wohnzimmer. (liegen = to lie
+• Der Teppich liegt im Wohnzimmer. (liegen = to lie)
+
+Ich lebe jetzt in einer 3-Zimmer-Wohnung im dritten Stock. Ich stelle den Kühlschrank in
+die Küche. Im Wohnzimmer hängt ein Bild. Es ist bunt. Ich finde das Bild sehr schön. Der
+Sessel steht schon im Wohnzimmer. Er ist blau. Das mag ich. Er ist echt auffällig und ganz
+weich. Das Bett stelle ich in das Schlafzimmer. Ich lege den Teppich neben das Bett. Ich
+mag mein Bett nicht. Es ist zu hart und ungemütlich. Auf dem Kleiderschrank steht eine
+Pflanze. (...)
 
 1. Wie viel kostet die Wohnung? 699 Euro Warmmiete (including additional costs/Nebenkosten such as heating costs/Heizkosten)
 2. Wie viele Zimmer hat die Wohnung? 1-Zimmer-Wohnung
@@ -82,6 +89,22 @@ Der Fernseher steht im Wohnzimmer. (in + dative for fixed locations → Wo ist d
 8. Wann können Sie einziehen? Bezugsfrei ab 01.10.2023
 
 **Studium/Beruf**
+
+- Wo sind die Personen?
+- Was machen sie?
+- Welchen Beruf hat die Person?
+- Was studiert die Person?
+
+- Was sind Sie von Beruf? Wo arbeiten Sie?
+- Was studieren Sie? Wo studieren Sie?
+
+- Ich studiere den Master Data Analytics an der Universität Hildesheim.
+- Ich studiere Data Analytics im Master.
+- Ich promoviere in Landschaftsökologie.
+- Ich mache eine Promotion in dem Fach Landschaftsökologie.
+- Ich arbeite als Data Engineer/Dateningenieur/in bei Siemens.
+- Ich bin Data Analyst/Datenanalytiker/in von Beruf.
+- Ich bin Data Scientist/Datenwissenschaftler/in von Beruf.
 
 ## **Ein schöner Ort auf der Welt (A beautiful place in the world)**
 

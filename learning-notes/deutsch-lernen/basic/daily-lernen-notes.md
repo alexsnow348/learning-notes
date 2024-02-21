@@ -22,12 +22,29 @@ In der Uni trägt sie meistens einen Sweatshirt.
 Alex trägt meistens ein T-Shirt.
 Alex schaut gerne japanische Anime.
 
+**Essen und Trinken**
 
-Gesundheit ◦
-Wohnung ◦
-Studium/Beruf
+Beispiele: Um 7 Uhr stehe ich auf. Dann frühstücke ich Müsli mit Milch.
+(…) Mittags esse ich einen Salat und ein bisschen Reis mit Gemüse. Ich
+trinke Wasser zum Mittagessen. Mittwochs unterrichte ich den A1.2-Kurs.
+(…) Am Abend treffe ich einen Freund und eine Freundin. Wir spielen
+gerne Basketball zusammen (...).
 
-Ein schöner Ort auf der Welt (A beautiful place in the world)
+
+**Gesundheit ◦**
+Nehmen Sie die Tabletten morgens, mittags und abends ein!
+Der Arzt/Die Ärztin sagt, ich soll die Tabletten morgens, mittags und abends einnehmen.
+**Wohnung ◦**
+Ich wohne mit meinen Freunden/Freundinnen zusammen.
+Ich wohne mit einer Mitbewohnerin zusammen. (der Mitbewohner/die Mitbewohnerin = flatmate)
+Ich fahre mit dem Bus zur Uni. Ich gehe zu Fuß zur Uni.
+Ich mache mit meinen Kommilitonen/Kommilitoninnen Pause in der Mensa.
+Ich gehe mit einem Freund zum Sport/ins Kino.
+Ich telefoniere mit meiner Großmutter am Abend.
+
+**Studium/Beruf**
+
+**Ein schöner Ort auf der Welt (A beautiful place in the world)**
 
 "Sigiriya"
 

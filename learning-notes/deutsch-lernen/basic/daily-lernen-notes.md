@@ -13,7 +13,13 @@
 4. Was trägt die Person gerne zu Hause/in der Uni/bei der Arbeit (Kleidung)? 
 5. Was macht die Person gern? / Was macht die Person nicht gern?
 
-Sie ist Alex. Sie komm
+Sie ist Alex. 
+Alex kommt aus Myanmar. 
+Alex wohnt jetzt in Hansering.
+
+Bei der Arbeit trägt Alex meistens einen Hosenanzug.
+
+
 
 Gesundheit ◦ Wohnung ◦ Studium/Beruf
 

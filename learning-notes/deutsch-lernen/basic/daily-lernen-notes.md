@@ -16,9 +16,10 @@
 Sie ist Alex. 
 Alex kommt aus Myanmar. 
 Alex wohnt jetzt in Hansering.
-
 Bei der Arbeit trägt Alex meistens einen Hosenanzug.
-
+In der Uni trägt sie meistens einen Sweatshirt. 
+Alex trägt meistens ein T-Shirt.
+Alex schaut gerne japanische Anime.
 
 
 Gesundheit ◦ Wohnung ◦ Studium/Beruf

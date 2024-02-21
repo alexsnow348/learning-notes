@@ -13,11 +13,14 @@
 4. Was trägt die Person gerne zu Hause/in der Uni/bei der Arbeit (Kleidung)? 
 5. Was macht die Person gern? / Was macht die Person nicht gern?
 
+Sie ist Alex. Sie komm
 
 Gesundheit ◦ Wohnung ◦ Studium/Beruf
 
 
 Ein schöner Ort auf der Welt (A beautiful place in the world)
+
+"Sigiriya"
 
 Wie heißt der Ort?
 Wo ist der Ort?

@@ -6,6 +6,7 @@
 - Das ist doch immer wieder das Selbe.
 - ei - ie (ပုံမှန်ပြောင်)
 
+**လူတစ်ယောက်ကို မိတ်ဆက်ပေးပြီး သူအကြောင်းပြန်ပြောခြင်။**
 
 1. Wie heißt die Person? 
 2. Woher kommt die Person? 
@@ -22,8 +23,9 @@ Alex trägt meistens ein T-Shirt.
 Alex schaut gerne japanische Anime.
 
 
-Gesundheit ◦ Wohnung ◦ Studium/Beruf
-
+Gesundheit ◦
+Wohnung ◦
+Studium/Beruf
 
 Ein schöner Ort auf der Welt (A beautiful place in the world)
 

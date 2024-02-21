@@ -1,6 +1,17 @@
 # Daily Learning Notes
 ------
 
+**နေစဥ်သုံး စကားလုံးများ**
+
+- Danke  - ကျေးဇူးပါ။
+- Dankeschön - ကျေးဇူးပါပဲနော်။
+- Danke sehr! - ကျေးဇူးပဲ။
+- Bitte - တစိတ်လောက်။
+- Bitteschön - တစိတ်လောက်ပါနော်။
+- Sehr gern - sehr gut - အရမ်း အဆင်ပြေပါတယ်။
+- Guten Tag! - ကောင်းတဲ့နေ့ပါ။
+- Guten Abend! - ကောင်းတဲ့ ညနေခင်ပါ။
+
 - Ich habe viele Sorgen, weil ich für die Prüfung noch nicht gut/richtig vorbereitet habe.
 - Das ich mich vorstellen.
 - Das gibt doch nicht.
@@ -70,7 +81,7 @@ Ich mache mit meinen Kommilitonen/Kommilitoninnen Pause in der Mensa.
 Ich gehe mit einem Freund zum Sport/ins Kino.
 Ich telefoniere mit meiner Großmutter am Abend.
 
-Der Fernseher steht im Wohnzimmer. (in + dative for fixed locations → Wo ist der Fernseher? Im Wohnzimmer.)
+• Der Fernseher steht im Wohnzimmer. (in + dative for fixed locations → Wo ist der Fernseher? Im Wohnzimmer.)
 • Die Pflanze steht auf dem Balkon. (auf + dative for fixed locations → Wo ist die Pflanze? Auf dem Balkon.)
 • Das Bett steht im Schlafzimmer. (stehen = to stand, to be upright)
 • Der Sessel steht im Wohnzimmer.
@@ -80,12 +91,16 @@ Der Fernseher steht im Wohnzimmer. (in + dative for fixed locations → Wo ist d
 • Die Spülmaschine ist/steht in der Küche.
 • Der Teppich liegt im Wohnzimmer. (liegen = to lie)
 
-Ich lebe jetzt in einer 3-Zimmer-Wohnung im dritten Stock. Ich stelle den Kühlschrank in
-die Küche. Im Wohnzimmer hängt ein Bild. Es ist bunt. Ich finde das Bild sehr schön. Der
-Sessel steht schon im Wohnzimmer. Er ist blau. Das mag ich. Er ist echt auffällig und ganz
-weich. Das Bett stelle ich in das Schlafzimmer. Ich lege den Teppich neben das Bett. Ich
-mag mein Bett nicht. Es ist zu hart und ungemütlich. Auf dem Kleiderschrank steht eine
-Pflanze. (...)
+Ich lebe jetzt in einer 3-Zimmer-Wohnung im dritten Stock.
+Ich stelle den Kühlschrank in die Küche. 
+Im Wohnzimmer hängt ein Bild. 
+Es ist bunt. Ich finde das Bild sehr schön. 
+Der Sessel steht schon im Wohnzimmer. Er ist blau. 
+Das mag ich. Er ist echt auffällig und ganz weich.
+Das Bett stelle ich in das Schlafzimmer. 
+Ich lege den Teppich neben das Bett. 
+Ich mag mein Bett nicht. Es ist zu hart und ungemütlich. 
+Auf dem Kleiderschrank steht eine Pflanze.
 
 1. Wie viel kostet die Wohnung? 699 Euro Warmmiete (including additional costs/Nebenkosten such as heating costs/Heizkosten)
 2. Wie viele Zimmer hat die Wohnung? 1-Zimmer-Wohnung

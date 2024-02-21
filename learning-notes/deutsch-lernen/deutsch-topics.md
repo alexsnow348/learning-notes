@@ -12,7 +12,7 @@ __ခေါင်စဥ်များ__
 * [[gender-rule]]
 * [[pronunciation]]
 * [[personalpronomen-nominativ]]
-* [[daily-learning-notes]]
+* [[daily-learning-notes-burmese-deutsch]]
 * [[type-of-noun]]
 * [[sentences]]
 * [[neu-wort]]

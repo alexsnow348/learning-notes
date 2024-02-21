@@ -11,7 +11,7 @@ tags: [clippings]
 
 If you want to really understand an idea, you have to grapple with it.
 
-You can’t just read something, listen to a lecture, or hear a notion in a conversation. You’ve got to wonder: where does this apply and where does it not? What are the implications? What are the assumptions? Whose view is represented here? What does this refute? etc.
+You can’t just read something, listen to a lecture, or hear a notion in a conversation. You’ve got to wonder: **where does this apply and where does it not? What are the implications? What are the assumptions? Whose view is represented here? What does this refute? etc.**
 
 As Stephen Kosslyn notably says,
 

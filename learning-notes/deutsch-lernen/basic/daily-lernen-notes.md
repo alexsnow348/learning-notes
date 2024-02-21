@@ -27,19 +27,20 @@ Alex schaut gerne japanische Anime.
 Name: Shashi Withanage
 Komme aus sri lanka
 Wohne in Hansering, Hildesheim
-In der haus, T shirt und Schlafanzug 
-In der uni, sweatshirt
+zu Hause, T-Shirt und Schlafanzug 
+In der Uni, Sweatshirt
 Schaut gerne filme
 
 ## **Each person asks two question and responds to two questions.** (အောက်ပါ ခေါင်စဥ်များမှ)
 
 **Essen und Trinken**
 
-Beispiele: Um 7 Uhr stehe ich auf. Dann frühstücke ich Müsli mit Milch.
-(…) Mittags esse ich einen Salat und ein bisschen Reis mit Gemüse. Ich
-trinke Wasser zum Mittagessen. Mittwochs unterrichte ich den A1.2-Kurs.
-(…) Am Abend treffe ich einen Freund und eine Freundin. Wir spielen
-gerne Basketball zusammen (...).
+Um 7 Uhr stehe ich auf. Dann frühstücke ich Müsli mit Milch.
+Mittags esse ich einen Salat und ein bisschen Reis mit Gemüse.
+Ich trinke Wasser zum Mittagessen. 
+Mittwochs unterrichte ich den A1.2-Kurs.
+Am Abend treffe ich einen Freund und eine Freundin.
+Wir spielen gerne Basketball zusammen.
 
 
 **Gesundheit ◦** 

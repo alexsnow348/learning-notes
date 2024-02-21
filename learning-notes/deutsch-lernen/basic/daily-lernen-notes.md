@@ -21,8 +21,15 @@ Alex kommt aus Myanmar.
 Alex wohnt jetzt in Hansering.
 Bei der Arbeit trägt Alex meistens einen Hosenanzug.
 In der Uni trägt sie meistens einen Sweatshirt. 
-Alex trägt meistens ein T-Shirt.
+Alex trägt meistens ein T-Shirt zu Hause.
 Alex schaut gerne japanische Anime.
+
+Name: Shashi Withanage
+Komme aus sri lanka
+Wohne in Hansering, Hildesheim
+In der haus, T shirt und Schlafanzug 
+In der uni, sweatshirt
+Schaut gerne filme
 
 ## **Each person asks two question and responds to two questions.** (အောက်ပါ ခေါင်စဥ်များမှ)
 

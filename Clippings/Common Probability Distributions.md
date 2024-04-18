@@ -8,23 +8,6 @@ published:
 topics: 
 tags: [clippings]
 ---
-
-[
-
-![Sean Owen](https://miro.medium.com/v2/resize:fill:88:88/1*5erKQuWaIJAMLEOkFUsK1w.jpeg)
-
-
-
-
-
-
-
-
-
-](https://medium.com/@srowen?source=post_page-----347e6b945ce4--------------------------------)
-
-*Reprinted from* [*https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/*](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
-
 **Data scientists have hundreds of probability distributions from which to choose. Where to start?**
 
 Data science, whatever it may be, remains a big deal. “A data scientist is better at statistics than any software engineer,” you may overhear a [pundit](https://twitter.com/josh_wills/status/198093512149958656) say, at your local tech get-togethers and hackathons. The applied mathematicians have their revenge, because statistics hasn’t been this [talked-about since the roaring 20s](https://en.wikipedia.org/wiki/Ronald_Fisher#Statistical_Methods_for_Research_Workers). They have their own [legitimizing Venn diagram](https://pbs.twimg.com/media/BdoZ6NjIcAAGv3w.png) of which people don’t [make fun](http://41.media.tumblr.com/tumblr_lqfu7kJIFN1qz6f4bo1_500.jpg). Suddenly it’s you, the engineer, left out of the chat about [confidence intervals](https://en.wikipedia.org/wiki/Confidence_interval) instead of tutting at the analysts who have never heard of the Apache Bikeshed project for distributed comment formatting. To fit in, to be the life and soul of that party again, you need a crash course in stats. Not enough to get it right, but enough to sound like you could, by making basic observations.

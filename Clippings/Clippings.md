@@ -8,4 +8,4 @@
 - [[The Case for Mediocrity]]
 - [[On actionable and actually useful logs]]
 - [[Get your work recognized write a brag document]]
-- 
+- [[Common Probability Distributions]]

@@ -8,7 +8,7 @@ kedro, dvc, mlflow တို့ဖြင့် တည်ဆောက်ထား
 
 	[[kedro-workflow#Useful command]]
 	
-၂။ source code တွေကို သိမ်းဖို့အတွက် git ကို `git init` စတင်ပေးဖို့ လိုအပ်ပါမယ်။ တကယ်လို့ data folder ကို git track ခဲ့မိရင် git ကနေ remove လုပ်ဖို့ လိုပါတယ်။ 
+၂။ source code တွေကို သိမ်းဖို့အတွက်  git ကို `git init` စတင်ပေးဖို့ လိုအပ်ပါမယ်။ တကယ်လို့ data folder ကို git track ခဲ့မိရင် git ကနေ remove လုပ်ဖို့ လိုပါတယ်။ 
 
 ```bash
 git rm -r --cached 'data'

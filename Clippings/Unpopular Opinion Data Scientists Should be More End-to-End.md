@@ -38,3 +38,5 @@ Throughout the process, they ask questions such as:
 - Dev Ops: Basic containerization and cloud proficiency, build and automation tools
 - 
 **Do your own projects end-to-end** to get first-hand experience of the entire process.
+
+>You don’t have to be able to build a plane, runway, or airport to be a pilot.

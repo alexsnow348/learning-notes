@@ -24,4 +24,4 @@ Cross-entropy extends this concept to compare two probability distributions. It 
 - in terms of 𝑙𝑜𝑔_2​​ we can interpret this as "how many bits of information we expect to lose"
  ![[KL-divergence-common-form.png]]
  - It may be tempting to think of KL Divergence as a distance metric, however we cannot use KL Divergence to measure the _distance_ between two distributions. The reason for this is that KL Divergence is _not **symmetric_**.
- - 
+ - we can use KL Divergence as an objective function to find the optimal value for any approximating distribution we can come up with.

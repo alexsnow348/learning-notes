@@ -11,5 +11,4 @@
 -  [[ai-ml-deep-learning]]
 -  [[type-of-loss-cost-functions]]
 -  [[type-of-activation-functions]]
-- [[ optimizers]]
 - [[ai-in-computer-vision]]

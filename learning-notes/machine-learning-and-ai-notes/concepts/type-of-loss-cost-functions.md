@@ -29,3 +29,5 @@ Cross-entropy extends this concept to compare two probability distributions. It 
  - we can use KL Divergence as an objective function to find the optimal value for any approximating distribution we can come up with.
 
 ## Distillation  Loss
+
+![[distillation_loss.png]]

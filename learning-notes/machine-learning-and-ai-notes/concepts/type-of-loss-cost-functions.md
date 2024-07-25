@@ -8,6 +8,8 @@ ___
 - MAE value သေးလေ best line fit နဲ့နီးလေဖြစ်တယ်။
 - regression problems တွေမှာ အသုံးများပါတယ်။
 
+## L2 Loss (MSE)
+
 ## Cross Entropy Loss
 
 Entropy is a measure of uncertainty or randomness. In the context of information theory, it quantifies the amount of uncertainty involved in predicting the outcome of a random variable. In machine learning, we often use it to measure the impurity or disorder in our data.
@@ -25,3 +27,5 @@ Cross-entropy extends this concept to compare two probability distributions. It 
  ![[KL-divergence-common-form.png]]
  - It may be tempting to think of KL Divergence as a distance metric, however we cannot use KL Divergence to measure the _distance_ between two distributions. The reason for this is that KL Divergence is _not **symmetric_**.
  - we can use KL Divergence as an objective function to find the optimal value for any approximating distribution we can come up with.
+
+## Distillation  Loss

@@ -144,5 +144,6 @@ Was macht ihr an diesem Ort?
 Warum gefällt euch dieser Ort?
 
 
-##  
+##  အရေးကြီးသော စကားစုများ
+
 ![[Bildschirmfoto 2024-07-27 um 8.38.25 AM.png]]

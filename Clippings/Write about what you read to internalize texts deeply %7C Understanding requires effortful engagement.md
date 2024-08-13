@@ -1,7 +1,7 @@
 ---
 category: "[[Clippings]]"
 author: "[[Andyʼs working notes]]"
-title: "Write about what you read to internalize texts deeply | Understanding requires effortful engagement"
+title: "Write about what you read to internalize texts deeply - Understanding requires effortful engagement"
 source: https://notes.andymatuschak.org/zB74H9CuWrosEuqve7jZyCo?stackedNotes=z8ccRLda8BqJafNxjQBpzis
 clipped: 2024-02-20
 published: 

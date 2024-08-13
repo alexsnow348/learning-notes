@@ -34,4 +34,5 @@ Time series forecasting is a critical task in many different domains like financ
 **Questions and Discussion**
 
 - Q: why simple model perform better than transformer, CNN methods. 
-	- adding memory to already complex models might not be benefitcial 
+	- adding memory to already complex models might not be beneficial   
+- Discriminative  analysis with ensemble might produce better performance

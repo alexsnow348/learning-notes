@@ -63,3 +63,10 @@ reviewed by internal Bosch experts to initiate any necessary follow-up actions.
 - Input: complaint description  - internal Bosch company complaint dataset 
 - Output: probability of output class 
 
+
+
+### **First Idea Talk**: Enhancing Patching for Time Series Forecasting
+---
+
+Multivariate time series forecasting is a crucial problem for tasks such as financial predictions or forecasting retail demands, traffic, or weather. Recently, the PatchTST model combines two trends in this research area. The first is the use of transformers, which have been shown to be an effective architecture for learning patterns in different domains. The second is the use of patching, which reduces the required memory and computational operations for a fixed look-back window and provides more meaningful local information. PatchTSTs patching mechanism simply groups overlapping subsequences of time points in the look-back window. My hypothesis is that this approach does not exploit the full potential of patching. An enhanced patching technique is used in the HDMixer model that uses a Length-Extendable Patcher to flexibly divide the look-back window into patches. This retains peak information and enables a more consistent use of local semantics. Another approach is the use of multiple convolution layers with a long look-back receptive field in combination with a pooling layer. Besides having the benefits of the Length-Extendable Patcher, it could also generate more informative patches. This master thesis will empirically verify the effectiveness of these approaches for more enhanced patching on the ETTh, ETTm, Weather, and Electricity benchmark datasets in comparison to state-of-the-art models.
+

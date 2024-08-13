@@ -20,6 +20,13 @@ Time series forecasting is a critical task in many different domains like financ
 
 **Methodology**
 
-- Prototype Extraction from time-series  dataset - moving time window - to create Memory Table with KMeans and KNN
+- Prototype Extraction from time-series  dataset - moving time window - to create Memory Table with KMeans and KNN with Euclidean distance as similarity score
 - Forecasting - Prototype Search - Linear model, CNN based model, Transformer-based model
 - Reversible Instance Normalization (RevIN) - to solve distribution shift problem 
+- Losses - MSE, MAE
+- Dataset - ETTh1,h2,m1,m2 , Electricity 
+
+**Results**
+
+- CNN leads to better generalization of the dataset
+- Lookback Window analysis (WaveNet) - lowest MSE with a shorter context length 

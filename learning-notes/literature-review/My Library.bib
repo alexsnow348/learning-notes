@@ -121,6 +121,23 @@
   file = {/Users/alexsnow/Documents/Obsidian Vault/learning-notes/literature-review/pdf-documents/ducciNaturalMonopoliesDigital2020.pdf}
 }
 
+@online{gaoPile800GBDataset2020,
+  title = {The {{Pile}}: {{An 800GB Dataset}} of {{Diverse Text}} for {{Language Modeling}}},
+  shorttitle = {The {{Pile}}},
+  author = {Gao, Leo and Biderman, Stella and Black, Sid and Golding, Laurence and Hoppe, Travis and Foster, Charles and Phang, Jason and He, Horace and Thite, Anish and Nabeshima, Noa and Presser, Shawn and Leahy, Connor},
+  date = {2020-12-31},
+  eprint = {2101.00027},
+  eprinttype = {arXiv},
+  eprintclass = {cs},
+  url = {http://arxiv.org/abs/2101.00027},
+  urldate = {2024-08-03},
+  abstract = {Recent work has demonstrated that increased training dataset diversity improves general cross-domain knowledge and downstream generalization capability for large-scale language models. With this in mind, we present \textbackslash textit\{the Pile\}: an 825 GiB English text corpus targeted at training large-scale language models. The Pile is constructed from 22 diverse high-quality subsets -- both existing and newly constructed -- many of which derive from academic or professional sources. Our evaluation of the untuned performance of GPT-2 and GPT-3 on the Pile shows that these models struggle on many of its components, such as academic writing. Conversely, models trained on the Pile improve significantly over both Raw CC and CC-100 on all components of the Pile, while improving performance on downstream evaluations. Through an in-depth exploratory analysis, we document potentially concerning aspects of the data for prospective users. We make publicly available the code used in its construction.},
+  langid = {english},
+  pubstate = {prepublished},
+  keywords = {Computer Science - Computation and Language},
+  file = {/Users/alexsnow/Zotero/storage/4RGQZFJX/Gao et al. - 2020 - The Pile An 800GB Dataset of Diverse Text for Lan.pdf}
+}
+
 @book{hackingTamingChance1990,
   title = {The Taming of Chance},
   author = {Hacking, Ian},
@@ -182,6 +199,23 @@
   pubstate = {prepublished},
   keywords = {Computer Science - Computer Vision and Pattern Recognition,Computer Science - Machine Learning,Statistics - Machine Learning},
   file = {/Users/alexsnow/Zotero/storage/5FVLU536/Hoffer and Ailon - 2018 - Deep metric learning using Triplet network.pdf}
+}
+
+@online{huLoRALowRankAdaptation2021,
+  title = {{{LoRA}}: {{Low-Rank Adaptation}} of {{Large Language Models}}},
+  shorttitle = {{{LoRA}}},
+  author = {Hu, Edward J. and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and Wang, Shean and Wang, Lu and Chen, Weizhu},
+  date = {2021-10-16},
+  eprint = {2106.09685},
+  eprinttype = {arXiv},
+  eprintclass = {cs},
+  url = {http://arxiv.org/abs/2106.09685},
+  urldate = {2024-08-03},
+  abstract = {An important paradigm of natural language processing consists of large-scale pretraining on general domain data and adaptation to particular tasks or domains. As we pre-train larger models, full fine-tuning, which retrains all model parameters, becomes less feasible. Using GPT-3 175B as an example – deploying independent instances of fine-tuned models, each with 175B parameters, is prohibitively expensive. We propose Low-Rank Adaptation, or LoRA, which freezes the pretrained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable parameters for downstream tasks. Compared to GPT-3 175B fine-tuned with Adam, LoRA can reduce the number of trainable parameters by 10,000 times and the GPU memory requirement by 3 times. LoRA performs on-par or better than finetuning in model quality on RoBERTa, DeBERTa, GPT-2, and GPT-3, despite having fewer trainable parameters, a higher training throughput, and, unlike adapters, no additional inference latency. We also provide an empirical investigation into rank-deficiency in language model adaptation, which sheds light on the efficacy of LoRA. We release a package that facilitates the integration of LoRA with PyTorch models and provide our implementations and model checkpoints for RoBERTa, DeBERTa, and GPT-2 at https://github.com/microsoft/LoRA.},
+  langid = {english},
+  pubstate = {prepublished},
+  keywords = {Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Computer Science - Machine Learning},
+  file = {/Users/alexsnow/Zotero/storage/AVVIPD42/Hu et al. - 2021 - LoRA Low-Rank Adaptation of Large Language Models.pdf}
 }
 
 @book{jamesIntroductionStatisticalLearning2021,
@@ -449,4 +483,21 @@
   abstract = {Many algorithms rely critically on being given a good metric over their inputs. For instance, data can often be clustered in many “plausible” ways, and if a clustering algorithm such as K-means initially fails to find one that is meaningful to a user, the only recourse may be for the user to manually tweak the metric until sufficiently good clusters are found. For these and other applications requiring good metrics, it is desirable that we provide a more systematic way for users to indicate what they consider “similar.” For instance, we may ask them to provide examples. In this paper, we present an algorithm that, given examples of similar (and, if desired, dissimilar) pairs of points in ¢¤£ , learns a distance metric over ¢¥£ that respects these relationships. Our method is based on posing metric learning as a convex optimization problem, which allows us to give efficient, local-optima-free algorithms. We also demonstrate empirically that the learned metrics can be used to significantly improve clustering performance.},
   langid = {english},
   file = {/Users/alexsnow/Zotero/storage/DC3EKMKD/Xing et al. - Distance Metric Learning with Application to Clust.pdf}
+}
+
+@online{xuParameterEfficientFineTuningMethods2023,
+  title = {Parameter-{{Efficient Fine-Tuning Methods}} for {{Pretrained Language Models}}: {{A Critical Review}} and {{Assessment}}},
+  shorttitle = {Parameter-{{Efficient Fine-Tuning Methods}} for {{Pretrained Language Models}}},
+  author = {Xu, Lingling and Xie, Haoran and Qin, Si-Zhao Joe and Tao, Xiaohui and Wang, Fu Lee},
+  date = {2023-12-19},
+  eprint = {2312.12148},
+  eprinttype = {arXiv},
+  eprintclass = {cs},
+  url = {http://arxiv.org/abs/2312.12148},
+  urldate = {2024-08-03},
+  abstract = {With the continuous growth in the number of parameters of transformer-based pretrained language models (PLMs), particularly the emergence of large language models (LLMs) with billions of parameters, many natural language processing (NLP) tasks have demonstrated remarkable success. However, the enormous size and computational demands of these models pose significant challenges for adapting them to specific downstream tasks, especially in environments with limited computational resources. Parameter Efficient Fine-Tuning (PEFT) offers an effective solution by reducing the number of fine-tuning parameters and memory usage while achieving comparable performance to full fine-tuning. The demands for fine-tuning PLMs, especially LLMs, have led to a surge in the development of PEFT methods, as depicted in Fig. 1. In this paper, we present a comprehensive and systematic review of PEFT methods for PLMs. We summarize these PEFT methods, discuss their applications, and outline future directions. Furthermore, we conduct experiments using several representative PEFT methods to better understand their effectiveness in parameter efficiency and memory efficiency. By offering insights into the latest advancements and practical applications, this survey serves as an invaluable resource for researchers and practitioners seeking to navigate the challenges and opportunities presented by PEFT in the context of PLMs.},
+  langid = {english},
+  pubstate = {prepublished},
+  keywords = {Computer Science - Computation and Language},
+  file = {/Users/alexsnow/Zotero/storage/U4RZW2TJ/Xu et al. - 2023 - Parameter-Efficient Fine-Tuning Methods for Pretra.pdf}
 }

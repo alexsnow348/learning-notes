@@ -1,12 +1,14 @@
 ---
 category: "[[Clippings]]"
 author: "[[Lingalot]]"
-title: "57 Burmese Quotes, Proverbs & Sayings + Their Meanings - Lingalot"
+title: 57 Burmese Quotes, Proverbs & Sayings + Their Meanings - Lingalot
 source: https://www.lingalot.com/burmese-quotes/
 clipped: 2024-08-26
 published: 
 topics: 
-tags: [clippings]
+tags:
+  - clippings
+  - FamousMyanmarQuotesProverbs
 ---
 
 **Affiliate Disclaimer:** *Lingalot is a participant in the Amazon Services LLC Associates Program. As an Amazon Associate this site earns from qualifying purchases.* We may also use affiliate links for other programmes. [(See full affiliate disclosure.)](https://lingalot.com/affiliate-disclosure/)

@@ -1,12 +1,14 @@
 ---
 category: "[[Clippings]]"
 author: "[[Scientific Computing]]"
-title: "Install ImageJ for Linux"
+title: Install ImageJ for Linux
 source: https://www.scivision.dev/install-imagej-linux/
 clipped: 2024-09-16
 published: 2018-05-01
-topics: 
-tags: [clippings]
+tags:
+  - clippings
+  - imagej
+  - image-processing
 ---
 
 May 1, 2018

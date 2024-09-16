@@ -10,3 +10,5 @@
 - [[Get your work recognized write a brag document]]
 - [[Common Probability Distributions]]
 - [[Kullback-Leibler Divergence Explained — Count Bayesie]]
+- [[Install ImageJ for Linux]]
+- 

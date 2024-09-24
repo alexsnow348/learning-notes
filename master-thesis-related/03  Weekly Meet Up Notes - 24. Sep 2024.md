@@ -27,3 +27,40 @@ experimentation with this channel clustering module. This thesis
 hypothesizes that this approach will improve the model's ability to 
 capture temporal and cross-channel dynamics, leading to more accurate 
 multivariate time series forecasts.
+
+
+
+### Defense Title: Time Series Classification Using GAN-Augmented Data and Attention-Based Convolutions
+
+Abstract:This thesis explores the potential of contrastive learning for 
+enhancing the analysis of time series data, a domain where labels are 
+often scarce or unavailable. By exploiting the distinctions between 
+similar and dissimilar instances, our work aims to extract significant 
+features from time series data without the need for labelled examples. 
+We build upon the **TS2Vec** methodology, extending its potential with an 
+advanced encoder architecture that integrates attention-based causal 
+dilated convolutions, thereby enriching the contextual details captured 
+within the data representations. Considering the challenges 
+associated with labelled data scarcity, we also examine the application 
+of generative adversarial networks (GANs) to create synthetic data for 
+diversity. Subsequently, our approach employs adaptive pooling to obtain
+ representations of arbitrary sub-sequences within the time series. We 
+validate our approach through empirical analysis, using benchmark 
+datasets from the UCR and UEA time series classification archives. Our 
+accuracy results demonstrate notable improvements over TS2Vec, and 
+Synth-TS2Vec outperforms current state-of-the-art methods in 
+unsupervised time series representation.
+
+
+GAN Based
+ - TimeGAN
+ - TCGAN
+ - TSGAN
+ 
+Autoencoder Based Learning
+
+Constrative methods
+- T-loss (Subseries consistency)
+- Transformation consistency TS-TCC
+- Temporal consistency (TNC)
+- Contextual consistency

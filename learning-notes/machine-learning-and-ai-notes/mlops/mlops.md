@@ -5,7 +5,7 @@
 # MLOps ဆိုင်ရာ ခေါင်စဥ်များ
 ---
 * [[dvc]]
-* [[llmops]]
+* [[learning-notes/machine-learning-and-ai-notes/mlops/llmops]]
 * [[kedro-workflow]]
 * [[mlflow-dvc-minio]]
 * [[tensorboard]]

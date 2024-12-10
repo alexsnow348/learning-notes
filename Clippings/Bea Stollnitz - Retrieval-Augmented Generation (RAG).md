@@ -1,12 +1,15 @@
 ---
 category: "[[Clippings]]"
 author: "[[Bea Stollnitz]]"
-title: "Bea Stollnitz - Retrieval-Augmented Generation (RAG)"
+title: Bea Stollnitz - Retrieval-Augmented Generation (RAG)
 source: https://bea.stollnitz.com/blog/rag/
 clipped: 2024-12-10
 published: 2023-09-25
-topics: 
-tags: [clippings]
+topics: machine-learning
+tags:
+  - clippings
+  - rag
+  - ml-ai
 ---
 
 ## Introduction

@@ -1,12 +1,14 @@
 ---
 category: "[[Clippings]]"
 author: 
-title: "100 Simple Truths"
+title: 100 Simple Truths
 source: https://tr.af/100
 clipped: 2024-12-23
 published: 
 topics: 
-tags: [clippings]
+tags:
+  - clippings
+  - life-journey
 ---
 
 1.  It’s 100% off if you don’t buy it.
@@ -33,7 +35,7 @@ tags: [clippings]
     
 12.  Inspiration is a productivity multiplier, but it’s perishable. Act quickly.
     
-13.  Minimalism isn't about owning nothing, it’s about nothing owning you.
+13.  **Minimalism isn't about owning nothing, it’s about nothing owning you.**
     
 14.  Demotivated because of how long it takes? The time will pass anyways.
     

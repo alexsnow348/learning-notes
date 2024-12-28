@@ -1,6 +1,4 @@
 
-# Reference Materials for System Design Interview
-
 ## Chapter 1: Introduction and Overview
 
 [1] Data warehouse. https://cloud.google.com/learn/what-is-a-data-warehouse.  

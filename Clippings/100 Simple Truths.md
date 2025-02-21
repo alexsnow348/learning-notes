@@ -12,7 +12,7 @@ tags:
 ---
 
 1.  It’s 100% off if you don’t buy it.
-    
+
 2.  Not wanting something is as good as having it.
     
 3.  Someone else’s success isn’t your failure.

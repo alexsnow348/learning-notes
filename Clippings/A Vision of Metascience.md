@@ -11,9 +11,6 @@ tags:
   - metascience
   - general-knowledge
 ---
-
-[![](https://scienceplusplus.org/assets/home.png)](https://scienceplusplus.org/index.html)
-
 **Contents**
 
 -   [How does the culture of science change?](#how-does-the-culture-of-science-change)

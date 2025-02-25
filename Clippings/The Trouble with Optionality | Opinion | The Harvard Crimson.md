@@ -1,12 +1,15 @@
 ---
 category: "[[Clippings]]"
 author: "[[The Crimson Brand Studio]]"
-title: "The Trouble with Optionality | Opinion | The Harvard Crimson"
+title: The Trouble with Optionality | Opinion | The Harvard Crimson
 source: https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/
 clipped: 2025-02-25
 published: 2017-05-25
 topics: 
-tags: [clippings]
+tags:
+  - clippings
+  - life-journey
+  - relationship
 ---
 
 The language of finance can be insidious. Words like leverage and concepts like diversification can morph from narrow financial terms into much more general ways of understanding the world. For students that go into finance or business, the idea of “optionality” is particularly pliable—and taken too far, it can be downright dangerous.

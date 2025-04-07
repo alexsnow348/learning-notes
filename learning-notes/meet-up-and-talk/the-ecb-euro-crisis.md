@@ -8,5 +8,7 @@ tags:
 # The ECB during the Euro Crisis and its Future Role in Global Disruption
 ---
 
-- the friendship between germany and french 
-- 
+## Past of Euro
+
+- the friendship between Germany and France
+- [*Jean Monnet* ](https://en.wikipedia.org/wiki/Jean_Monnet) was the first-ever individual to be designated as an [Honorary Citizen of Europe](https://en.wikipedia.org/wiki/Honorary_Citizen_of_Europe "Honorary Citizen of Europe") in 1976.

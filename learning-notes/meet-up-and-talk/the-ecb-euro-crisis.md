@@ -8,11 +8,11 @@ tags:
 # The ECB during the Euro Crisis and its Future Role in Global Disruption
 ---
 by  [Jean-Claude Trichet](https://en.wikipedia.org/wiki/Jean-Claude_Trichet)
-## Past of Euro
+## Past of ECB and Euro
 
-- the friendship between Germany and France
+- started as the friendship between **Germany and France**
 - [*Jean Monnet* ](https://en.wikipedia.org/wiki/Jean_Monnet) was the first-ever individual to be designated as an [Honorary Citizen of Europe](https://en.wikipedia.org/wiki/Honorary_Citizen_of_Europe "Honorary Citizen of Europe") in 1976.
-- Greek, Ireland, Portugal - crisis
+- Greece, Ireland, Portugal, Cyprus - crisis
 - **Greece**: The crisis led to a severe economic downturn and massive job losses. Greece's debt-to-GDP ratio jumped from 127% in 2009 to about 170% due to GDP drop.23
 - **Ireland**: Followed Greece in requiring a bailout in November 2010. Ireland's recovery started in 2012 to 2014, partly due to its banking crisis.35
 - **Portugal**: Required a bailout in May 2011. Portugal's recovery began in 2012 to 2014, and the country has performed strongly since 2019.
@@ -35,11 +35,10 @@ by  [Jean-Claude Trichet](https://en.wikipedia.org/wiki/Jean-Claude_Trichet)
 - **Global Financial Crisis:**
 	The global financial crisis of 2007-2008 and the subsequent Great Recession exacerbated the problems of these countries. 
     
-
 ###  Key Events and Outcomes:
 
 - **Bailouts:**
-	Greece, Ireland, Portugal, and Cyprus requested and received financial assistance from the Troika (European Commission, European Central Bank, and International Monetary Fund) in the form of bailouts. 
+	Greece, Ireland, Portugal, and Cyprus requested and received financial assistance from the [Troika (European Commission, European Central Bank, and International Monetary Fund)](https://en.wikipedia.org/wiki/Troika_(European_group)) in the form of bailouts. 
     
 - **Austerity Measures:**
 	As a condition for the bailouts, these countries were forced to implement austerity measures, including cuts to public spending and wages, which led to social unrest and economic hardship. 
@@ -58,3 +57,4 @@ by  [Jean-Claude Trichet](https://en.wikipedia.org/wiki/Jean-Claude_Trichet)
     
 - **Recapitalization of Banks:**
     Banks in these countries were recapitalized and the regulatory framework was strengthened, increasing confidence in the banking sector.
+

@@ -7,7 +7,7 @@ tags:
 ---
 # The ECB during the Euro Crisis and its Future Role in Global Disruption
 ---
-
+by  [Jean-Claude Trichet](https://en.wikipedia.org/wiki/Jean-Claude_Trichet)
 ## Past of Euro
 
 - the friendship between Germany and France

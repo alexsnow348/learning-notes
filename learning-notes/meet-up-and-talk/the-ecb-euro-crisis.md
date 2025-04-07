@@ -84,9 +84,13 @@ by  [Jean-Claude Trichet](https://en.wikipedia.org/wiki/Jean-Claude_Trichet)
 	- 01-05-**2004** - Fifth enlargement - Ten new countries join the EU: **Cyprus, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia**. This is the largest enlargement in terms of people and number of countries.
 	- 01-01-**2007** - Sixth enlargement - **Bulgaria** and **Romania** join the EU.
 	- 01-07-**2013** - Seventh enlargement - **Croatia** joins the EU in the most recent enlargement.
-- EU  and the world
+- EU  and the world - EIB
 	- The **G7** consists of **Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States**, with the European Union also represented at all G7 meetings.
 	- Joined-army within EU countries might help to be more independent from US
 	- if dollar collapse,  US has 80 % GDP of debt to other countries, other countries might collapse too.
 	- China might be good positions if dollar collapse.
 	- Germany is surplus country which mean the country is good position.
+	- EU Bonds -
+		- [NextGeneration](https://next-generation-eu.europa.eu/index_de) - Hamilton Moment
+		- [EIB](https://www.eib.org/de/index)
+		- 

@@ -58,3 +58,13 @@ by  [Jean-Claude Trichet](https://en.wikipedia.org/wiki/Jean-Claude_Trichet)
 - **Recapitalization of Banks:**
     Banks in these countries were recapitalized and the regulatory framework was strengthened, increasing confidence in the banking sector.
 
+European Stability Mechanism
+![[Greece, Ireland, Portugal, Cyprus Crisis.jpg]]
+
+![[Spain Crisis.jpg]]
+
+## Future of ECB and Euro
+
+- prepare for unexpected - US alliance as example (due to Trump)
+- promise to price stability 
+- polatical unification around the world

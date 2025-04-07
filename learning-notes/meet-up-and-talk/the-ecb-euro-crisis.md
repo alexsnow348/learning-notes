@@ -58,7 +58,8 @@ by  [Jean-Claude Trichet](https://en.wikipedia.org/wiki/Jean-Claude_Trichet)
 - **Recapitalization of Banks:**
     Banks in these countries were recapitalized and the regulatory framework was strengthened, increasing confidence in the banking sector.
 
-European Stability Mechanism
+[European Stability Mechanism](https://www.esm.europa.eu/)
+
 ![[Greece, Ireland, Portugal, Cyprus Crisis.jpg]]
 
 ![[Spain Crisis.jpg]]
@@ -67,4 +68,9 @@ European Stability Mechanism
 
 - prepare for unexpected - US alliance as example (due to Trump)
 - promise to price stability 
-- polatical unification around the world
+- World Political Unification - Middle East, Asia, Europe, US
+- Euro vs US Dollar vs Crypto
+	- 20 % USD reserved in Euro creation 
+	- no misalignment between euro and usd
+	- 
+- 

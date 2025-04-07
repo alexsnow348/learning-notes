@@ -72,5 +72,15 @@ by  [Jean-Claude Trichet](https://en.wikipedia.org/wiki/Jean-Claude_Trichet)
 - Euro vs US Dollar vs Crypto
 	- 20 % USD reserved in Euro creation 
 	- no misalignment between euro and usd
-	- 
-- 
+	- Crypto as - speculative instrument 
+- Digital Euro by ECB
+	- might make work if not used by organized crimes and unintended uses
+- EU Enlargement
+	- 25-03-**1957** - Founding members - (**Belgium, France, Germany, Italy, Luxembourg, and the Netherlands**) sign the Treaty of Rome. This establishes the European Economic Community (EEC), which would eventually become the EU we know today.
+	- 01-01-**1973**  - First enlargement - (**Denmark, Ireland and the United Kingdom**) join the EEC, raising the number of Member States to nine.
+	- 01-01-**1981** - Second enlargement - Membership of the EEC reaches double figures when **Greece** joins.
+	- 01-01-**1986** - Third enlargement - **Spain and Portuga**l join the EEC. The number of Member States is now 12.
+	- 01-01-**1995** - Fourth enlargement - **Austria, Finland, and Sweden** join the European Union (EU), the successor of the EEC following the Treaty of Maastricht in 1993. The 15 members now cover almost the whole of western Europe.
+	- 01-05-**2004** - Fifth enlargement - Ten new countries join the EU: **Cyprus, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia**. This is the largest enlargement in terms of people and number of countries.
+	- 01-01-**2007** - Sixth enlargement - **Bulgaria** and **Romania** join the EU.
+	- 01-07-**2013** - Seventh enlargement - **Croatia** joins the EU in the most recent enlargement.

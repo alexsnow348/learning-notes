@@ -90,7 +90,10 @@ by  [Jean-Claude Trichet](https://en.wikipedia.org/wiki/Jean-Claude_Trichet)
 	- if dollar collapse,  US has 80 % GDP of debt to other countries, other countries might collapse too.
 	- China might be good positions if dollar collapse.
 	- Germany is surplus country which mean the country is good position.
-	- EU Bonds -
+	- EU Bonds and Investment -
 		- [NextGeneration](https://next-generation-eu.europa.eu/index_de) - Hamilton Moment
 		- [EIB](https://www.eib.org/de/index)
-		- 
+
+## Audio-note
+
+![[20250407 182243.m4a]]

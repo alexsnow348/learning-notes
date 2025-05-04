@@ -20,3 +20,10 @@ I decided on an experiment. Rather than go straight to a painting’s blurb as I
 [![Peter Doig, 'Pelican (Stag)' (2003)](http://www.arbuturian.com/wp-content/uploads/2013/10/Peter-Doig-Pelican.jpg)](http://www.arbuturian.com/wp-content/uploads/2013/10/Peter-Doig-Pelican.jpg)
 
 Peter Doig, ‘Pelican (Stag)’ (2003)
+
+![Peter Doig, ‘Lapeyrouse Wall’ (2004)](http://www.arbuturian.com/wp-content/uploads/2013/10/Peter-Doig-Lapeyrouse.png)
+
+Peter Doig, ‘Lapeyrouse Wall’ (2004)
+
+
+

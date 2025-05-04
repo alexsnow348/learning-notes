@@ -15,3 +15,4 @@
 	- Zum Schluss  - နောက်ဆုံးအနေနဲ့
 	- zum Beispiel - ဥပမာ အနေနဲ့
 
+![[ten_sten.jpg]]

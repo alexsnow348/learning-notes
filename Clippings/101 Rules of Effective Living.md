@@ -9,13 +9,11 @@ topics:
 tags: [clippings]
 ---
 
-[
+
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e7a4f41-b1ea-402c-b38f-8d4efc6f4e78_800x1375.jpeg)
 
 
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e7a4f41-b1ea-402c-b38f-8d4efc6f4e78_800x1375.jpeg)
 
 In more than thirty years as a writer, editor, and publisher, I have, to my best reckoning, introduced, abridged, issued or reissued, and read nearly every major work of inspirational literature produced or translated into English.
 

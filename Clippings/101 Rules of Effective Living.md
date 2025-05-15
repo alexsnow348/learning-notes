@@ -1,12 +1,14 @@
 ---
 category: "[[Clippings]]"
 author: "[[𝐌𝐢𝐭𝐜𝐡 𝐇𝐨𝐫𝐨𝐰𝐢𝐭𝐳]]"
-title: "101 Rules of Effective Living"
+title: 101 Rules of Effective Living
 source: https://mitchhorowitz.substack.com/p/101-rules-of-effective-living?r=2vtv9&triedRedirect=true
 clipped: 2025-05-15
 published: 2025-05-09
-topics: 
-tags: [clippings]
+topics: life-journey
+tags:
+  - clippings
+  - life-journey
 ---
 
 
@@ -39,13 +41,13 @@ Based on experience, the “rules” of effective living—at least those I cons
 
 10) Judge quality not category.
 
-11) Research every important question independently.
+11) Research every important question ***independently***.
 
 12) Expect corruption.
 
 13) “Beware the devastation of conflict; war must never be pursued lightly.” (Sun Tzu)
 
-14) The loftier the language, the lower the behavior.
+14) *The loftier the language, the lower the behavior.*
 
 15) Take due credit. You will get blame when you do not deserve it.
 
@@ -69,7 +71,7 @@ Based on experience, the “rules” of effective living—at least those I cons
 
 25) People see only those traits they possess.
 
-26) Focus on one area of expertise and know it comprehensively.
+26) *Focus on one area of expertise and know it comprehensively.*
 
 27) Relationships define your life and happiness.
 
@@ -79,7 +81,7 @@ Based on experience, the “rules” of effective living—at least those I cons
 
 30) “The art of war is the art of deception.” (Sun Tzu)
 
-31) In terms of investments, virtually nothing, over time, outpaces an index fund.
+31) *In terms of investments, virtually nothing, over time, outpaces an index fund.*
 
 32) Brilliant people are wrong all the time.
 
@@ -89,7 +91,7 @@ Based on experience, the “rules” of effective living—at least those I cons
 
 35) Give no second chances to anyone who shows disrespect.
 
-36) “In the long run, we find what we expect. We shall be fortunate then if we expect great things.” (Thoreau)
+36) *“In the long run, we find what we expect. We shall be fortunate then if we expect great things.”* (Thoreau)
 
 37) Honor every religion.
 
@@ -143,9 +145,9 @@ Based on experience, the “rules” of effective living—at least those I cons
 
 62) Cynics know nothing.
 
-63) Recheck your work—especially beginnings, endings, and the “easy parts.”
+63) *Recheck your work—especially beginnings, endings, and the “easy parts.”*
 
-64) Practice constantly.
+64) *Practice constantly.*
 
 65) “To feel brave, act as if we were brave.” (William James)
 
@@ -171,7 +173,7 @@ Based on experience, the “rules” of effective living—at least those I cons
 
 76) Know who you are talking to.
 
-77) Do your absolute best to carry your own load before bothering another.
+77) *Do your absolute best to carry your own load before bothering another.*
 
 78) “Opposition is true Friendship” (Blake)—but only if it is worthy opposition.
 
@@ -185,7 +187,7 @@ Based on experience, the “rules” of effective living—at least those I cons
 
 83) Boredom invites trouble.
 
-84) It is better and nobler to give away than lend money.
+84) *It is better and nobler to give away than lend money.*
 
 85) Never give up hope that your tormenter will disappear or die. It happens constantly.
 
@@ -201,7 +203,7 @@ Based on experience, the “rules” of effective living—at least those I cons
 
 91) “What is fear of need but need itself?” (Khalil Gibran)
 
-92) The only things you can really give another are money or time.
+92) *The only things you can really give another are money or time.*
 
 93) “Persistence amounting to madness should be avoided.” (I Ching)
 
@@ -217,8 +219,8 @@ Based on experience, the “rules” of effective living—at least those I cons
 
 99) Show respect.
 
-100) Those who bill by the hour work not for you but for the hour.
+100) *Those who bill by the hour work not for you but for the hour.*
 
 101) “The power of instruction is seldom of much efficacy, except in those happy dispositions where it is almost superfluous.” (Edward Gibbon)
 
-P.S. Do not grow fascinated with people who dislike you. It is a universal of human nature that we project our insecurities onto what we cannot have, including relationships and approval, hence elevating their perceived value.
+P.S. ***Do not grow fascinated with people who dislike you.* I**t is a universal of human nature that we project our insecurities onto what we cannot have, including relationships and approval, hence elevating their perceived value.

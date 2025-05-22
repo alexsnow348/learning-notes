@@ -11,8 +11,8 @@ tags:
 ## Steps:
 
 1. Download the Ubuntu ISO Image of 12.04 LTS version from [here](https://ubuntu.com/download/desktop)
-2. Create new VM instance  with Generation 2 Version of VM Instance.
-3. Make sure Enable Secure Boot under Security turn-off.
+2. Create new VM instance  with Generation 2 Version of VM Instance. And maker VM setting of Boot Setup Order to boot from DVD Drive.
+3. Make sure Enable Secure Boot under Security turn-off from both VM Setting and Hyper-V settings.
 4. Disable Enhanced Session Mode in Hyper-V settings. This has been reported to resolve the issue for some users. To do this:
     - Open Hyper-V Manager and  Right-click on the Ubuntu VM and select “Hyper V Settings”
     - Navigate to “Enhanced Session  Mode Policy ” and toggle off “Allow Enhanced Session Mode”

@@ -1,10 +1,3 @@
----
-title: Set Up Triton Inference Server in Ubuntu  24.04 LTS VM in Hyper V in Window 11
-category: development-related-script
-tags:
-  - devops
-  - mlops
----
 # Set Up Triton Inference Server in Ubuntu 24.04 LTS VM in Hyper V in Window 11
 ---- 
 *Note: Make sure you have permission to turn on Hyper V Virtualization on Window 11*
@@ -88,7 +81,7 @@ docker pull nvcr.io/nvidia/tritonserver:24.03-py3
 	- In the Settings window, under the `Management` section, click on `Automatic Start Action`
 	- Select `Always start this virtual machine automatically`. Click Apply.
 	
-1. Set Up for on boot application loading process for Hyper V
+10. Set Up for on boot application loading process for Hyper V
     
     - Press `Win + R`, type `services.msc`, and press Enter.
     - Look for the following services:

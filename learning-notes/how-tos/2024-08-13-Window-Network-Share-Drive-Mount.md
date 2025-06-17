@@ -6,7 +6,7 @@ tags:
   - devops
 title: Set Up Window Network Share to Linux System mount (data folder)
 ---
-c# Set Up Window Network Share to Linux System mount (data folder)
+# Set Up Window Network Share to Linux System mount (data folder)
 ----
 
 ## Steps:

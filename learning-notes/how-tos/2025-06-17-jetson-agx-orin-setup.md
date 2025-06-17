@@ -1,5 +1,7 @@
 # Steps to flash Jetson AGX Orin via Ubuntu 24.04 LTS Host
 
+![[Pasted image 20250617144800.png]]
+
 ## Via SDK Manger
 
 Step 1: Install [SDK Manager](https://developer.nvidia.com/sdk-manager)

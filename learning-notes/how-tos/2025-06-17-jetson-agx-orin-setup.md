@@ -1,7 +1,7 @@
 # Steps to flash Jetson AGX Orin via Ubuntu 24.04 LTS Host
 
 ![[Pasted image 20250617144800.png]]
-
+[Jetpack 6.2: Command Line Install for Orin Nano and AGX - YouTube](https://www.youtube.com/watch?v=WQg3PEUBiD8)
 ## Via SDK Manger
 
 Step 1: Install [SDK Manager](https://developer.nvidia.com/sdk-manager)

@@ -16,3 +16,6 @@
 	- zum Beispiel - ဥပမာ အနေနဲ့
 
 ![[ten_sten.jpg]]
+
+
+![[Pasted image 20251030170139.png]]

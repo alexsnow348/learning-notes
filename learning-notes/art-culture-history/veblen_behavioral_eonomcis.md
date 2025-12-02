@@ -1,5 +1,5 @@
 # Veblen → Behavioral Economics → Digital Culture
-
+```pgsql
 ────────────────────────────────────────────────────────────────────────
                          THE EVOLUTION OF STATUS ECONOMICS
 ────────────────────────────────────────────────────────────────────────
@@ -65,3 +65,5 @@
 - Algorithmic Comparison Loop: A digital feedback cycle—feeds, likes, follows—that intensifies constant status comparison.
 - Veblen Goods: Items whose desirability increases with price because scarcity and expense are the point.
 - Conspicuous Intelligence: Using technology, knowledge, or tools (AI agents, GPUs, custom models) to signal expertise.
+
+```

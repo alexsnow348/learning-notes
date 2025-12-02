@@ -1,5 +1,5 @@
 # Hirsch vs. Bourdieu
-
+```pgsql
                           ┌─────────────────────────────┐
                           │     NEOLIBERAL SYSTEM       │
                           │  (Markets, Competition,     │
@@ -56,3 +56,5 @@
        │ - No increase in actual access              │
        │ - Rising frustration, inequality, anxiety   │
        └─────────────────────────────────────────────┘
+
+```

@@ -78,8 +78,3 @@ Guides and teardowns on how to apply machine learning in production. Want to con
 
 ### -   [Assorted Advice on Applying ML](https://applyingml.com/resources/assorted-advice/)
 
-  
-### Want email updates on new content?
-
-  
-© [Eugene Yan](https://eugeneyan.com/) 2024 • [About](https://applyingml.com/about/) • [Suggest edits](https://github.com/eugeneyan/applyingml#contributing).

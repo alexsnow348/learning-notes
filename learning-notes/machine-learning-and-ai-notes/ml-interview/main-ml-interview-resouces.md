@@ -15,4 +15,3 @@
 13. [[Visual Search System - Part-2]]
 14. [[What we look for in a resume]]
 15. [[Real-time machine learning challenges and solutions]]
-16. 

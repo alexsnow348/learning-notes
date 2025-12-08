@@ -27,6 +27,7 @@ Sample MLOps pipeline with dvc, minio, mlflow and postgresql
 ![[mlflow-with-minio-postgresql.png]]
 
 
+![[Pasted image 20251208115931.png]]
 references များ 
 -----
 

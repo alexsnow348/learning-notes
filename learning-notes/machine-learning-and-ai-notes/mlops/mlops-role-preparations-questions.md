@@ -6,7 +6,7 @@
 	- [[#Tell me About Yourself#1-Minute Version|1-Minute Version]]
 	- [[#Tell me About Yourself#20-Second Version|20-Second Version]]
 - [[#ML Infrastructure & Architecture|ML Infrastructure & Architecture]]
-	- [[#ML Infrastructure & Architecture#1. End-to-End ML Infrastructure (Your Real Setup) (DVC + MLflow + Training + Triton + FastAPI)|1. End-to-End ML Infrastructure (Your Real Setup) (DVC + MLflow + Training + Triton + FastAPI)]]
+	- [[#ML Infrastructure & Architecture#1. End-to-End ML Infrastructure (DVC + MLflow + Training + Triton + FastAPI)|1. End-to-End ML Infrastructure (DVC + MLflow + Training + Triton + FastAPI)]]
 	- [[#ML Infrastructure & Architecture#2. ML Serving (Triton + FastAPI)|2. ML Serving (Triton + FastAPI)]]
 	- [[#ML Infrastructure & Architecture#3. Training & Dataset Versioning Architecture (DVC + MLflow)|3. Training & Dataset Versioning Architecture (DVC + MLflow)]]
 	- [[#ML Infrastructure & Architecture#4. On-Prem GPU Deployment (Proxmox + Docker + Triton)|4. On-Prem GPU Deployment (Proxmox + Docker + Triton)]]
@@ -58,7 +58,7 @@ Overall, I bring a blend of ML engineering, MLOps architecture, backend developm
 
 “Sure. I’m an MLOps Engineer with over 8 years of experience across ML engineering, backend development, and large-scale data systems. Most recently at LPKF, I built the entire ML infrastructure from scratch. I set up MLflow for experiment tracking and model registry, DVC for data versioning, and deployed GPU-accelerated models using NVIDIA Triton Server orchestrated through Docker and Docker Compose on our on-prem Proxmox environment and Azure Cloud VM. I also designed the data architecture for processing high-resolution image and video microscopy data, ensuring reproducible training workflows and scalable inference performance.
 
-Before that, I spent six years at Telekom Malaysia in roles ranging from ML Engineer to Lead Backend Engineer. I developed real-time analytics systems, video analytics pipelines, and later led backend teams building microservices and ETL workflows that reduced internal operational workload by 50%. I also worked on FinTech systems—such as KYC verification flows and PCI-DSS–compliant key management services.
+Before that, I spent six years at Telekom Malaysia in roles ranging from ML Engineer to Lead Backend Engineer. I developed real-time analytics systems, video analytics pipelines, and later led backend teams building microservices and ETL workflows that reduced internal operational workload by 50%. 
 
 I hold a Master’s in Data Analytics, specialize in MLOps and LLMOps, and build open-source projects like a BBC-audio RAG system and an AI-driven career conversation tool. Overall, I bring strong hands-on experience in MLOps, ML engineering, and backend architecture—especially around deploying, serving, and operationalizing ML models with Docker-based GPU environments.”
 
@@ -68,7 +68,7 @@ I hold a Master’s in Data Analytics, specialize in MLOps and LLMOps, and build
 
 ## ML Infrastructure & Architecture
 
-### 1. End-to-End ML Infrastructure (Your Real Setup) (DVC + MLflow + Training + Triton + FastAPI)
+### 1. End-to-End ML Infrastructure (DVC + MLflow + Training + Triton + FastAPI)
 
 ```pgsql 
                          ┌─────────────────────────┐

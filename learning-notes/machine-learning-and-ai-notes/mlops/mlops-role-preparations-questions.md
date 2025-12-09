@@ -529,4 +529,4 @@ This works extremely well in **high-precision imaging systems** like LPKF’s mi
 ### Give an example of standardizing engineering workflow across teams.  
 ### How do you communicate ML system limitations to non-technical stakeholders?  
 ### How do you mentor junior engineers or contributors?
-    
+

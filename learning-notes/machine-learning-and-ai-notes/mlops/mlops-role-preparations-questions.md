@@ -1,6 +1,5 @@
 
 # MLOps Engineer
-
 - [[#Tell me About Yourself|Tell me About Yourself]]
 	- [[#Tell me About Yourself#Long version|Long version]]
 	- [[#Tell me About Yourself#1-Minute Version|1-Minute Version]]
@@ -35,6 +34,8 @@
 	- [[#Leadership Questions#Give an example of standardizing engineering workflow across teams.|Give an example of standardizing engineering workflow across teams.]]
 	- [[#Leadership Questions#How do you communicate ML system limitations to non-technical stakeholders?|How do you communicate ML system limitations to non-technical stakeholders?]]
 	- [[#Leadership Questions#How do you mentor junior engineers or contributors?|How do you mentor junior engineers or contributors?]]
+- [[#Documents|Documents]]
+
 ## Tell me About Yourself
 
 ### Long version
@@ -553,3 +554,10 @@ This works extremely well in **high-precision imaging systems** like LPKF’s mi
 ### How do you mentor junior engineers or contributors?
 
 “I mentor by pairing with junior engineers on real tasks, reviewing their code with constructive feedback, and breaking down complex concepts into simple explanations. I also guide them toward best practices — like reproducible ML pipelines, clean code, and proper version control. I prefer a supportive, hands-on approach that helps them grow confidence and autonomy while learning industry standards.”
+
+
+## Documents
+
+![[what-is-mlops.pdf]]
+
+![[mlflow.pdf]]

@@ -26,17 +26,15 @@
 	- [[#Questions and Answers#Why use Triton instead of a custom FastAPI inference server?|Why use Triton instead of a custom FastAPI inference server?]]
 	- [[#Questions and Answers#How would you optimize Triton for high-throughput real-time inference?|How would you optimize Triton for high-throughput real-time inference?]]
 	- [[#Questions and Answers#Explain dynamic batching in Triton.|Explain dynamic batching in Triton.]]
+	- [[#Questions and Answers#How to expose a scalable inference API with FastAPI?|How to expose a scalable inference API with FastAPI?]]
 	- [[#Questions and Answers#How do you handle model A/B testing and canary deployments for ML models?|How do you handle model A/B testing and canary deployments for ML models?]]
 		- [[#How do you handle model A/B testing and canary deployments for ML models?#Blue/Green Deployment|Blue/Green Deployment]]
 		- [[#How do you handle model A/B testing and canary deployments for ML models?#Canary Deployment|Canary Deployment]]
 		- [[#How do you handle model A/B testing and canary deployments for ML models?#Shadow Testing (a.k.a. Dark Launching)|Shadow Testing (a.k.a. Dark Launching)]]
-	- [[#Questions and Answers#How to expose a scalable inference API with FastAPI + Kubernetes?|How to expose a scalable inference API with FastAPI + Kubernetes?]]
-	- [[#Questions and Answers#What metrics do you log to monitor model inference performance?|What metrics do you log to monitor model inference performance?]]
 - [[#Leadership Questions|Leadership Questions]]
 	- [[#Leadership Questions#Give an example of standardizing engineering workflow across teams.|Give an example of standardizing engineering workflow across teams.]]
 	- [[#Leadership Questions#How do you communicate ML system limitations to non-technical stakeholders?|How do you communicate ML system limitations to non-technical stakeholders?]]
 	- [[#Leadership Questions#How do you mentor junior engineers or contributors?|How do you mentor junior engineers or contributors?]]
-
 ## Tell me About Yourself
 
 ### Long version
@@ -258,10 +256,9 @@ This is very similar to the infrastructure I built at LPKF, where we had to hand
 
 ### Why did you choose Docker Compose instead of Kubernetes for deployment?
 
-“In our environment, Kubernetes wasn’t necessary because the workloads were predictable, ran on a small GPU cluster, and didn’t require multi-node orchestration.
+“In our environment, Kubernetes wasn’t necessary because the workloads were predictable, ran on a small number of GPU , and didn’t require multi-node orchestration.
 
 Docker Compose was ideal because:
-
 - It’s lightweight and easy to maintain. 
 - Fits well in on-prem Proxmox virtualized environments.  
 - Triton, MLflow, FastAPI, Postgres, and supporting services can be defined in a single compose file.  
@@ -337,7 +334,7 @@ At LPKF, the data volume was extremely high because of microscopy resolution. Ef
 Even without Kubernetes, you can scale efficiently using:
 
 - Multiple Triton instances defined in Docker Compose  
-- Load-balanced FastAPI gateway routing requests 
+- Load-balanced FastAPI gateway routing requests using Nginx
 - Triton dynamic batching to boost GPU throughput  
 - TensorRT-optimized model formats  
 - Running Triton containers on different GPU devices with --gpus device=X  
@@ -389,8 +386,6 @@ I monitor both system-level and model-level metrics:
 
 These metrics together give a reliable view of model health and system stability.
 
-**
-
 ### If you had to build this ML infrastructure again from scratch, what would you prioritize first?
 
 I would start with:
@@ -411,14 +406,33 @@ The main challenges were:
 - Getting DVC, MLflow, Triton, and FastAPI to work together cleanly via Docker Compose      
 Through systematic iteration, documentation, and modular design, we built a stable production pipeline.
 
-
 ### How do you prevent data leakage in an automated ML pipeline?
 
-### Why use Triton instead of a custom FastAPI inference server?  
+“I prevent data leakage by enforcing strict data isolation rules in the pipeline: using proper train-validation-test splits, applying all transformations through versioned DVC pipelines, ensuring no future information leaks into training, and validating that preprocessing in serving matches training. I also automate drift checks and schema validation so only clean, non-leaky data passes into training.”
 
-### How would you optimize Triton for high-throughput real-time inference?  
+---
+
+### Why use Triton instead of a custom FastAPI inference server?
+
+“Triton provides GPU-optimized, production-ready model serving out of the box. It supports dynamic batching, concurrent execution, multi-model serving, optimized backends like TensorRT, and built-in metrics — all of which are difficult and time-consuming to implement manually with FastAPI. FastAPI is great as a gateway, but Triton is far more efficient for heavy ML inference.”
+
+---
+
+### How would you optimize Triton for high-throughput real-time inference?
+ 
+“I optimize throughput by enabling dynamic batching, using TensorRT or ONNX-optimized models, adjusting `max_batch_size` and `preferred_batch` sizes, running multiple model instances for concurrency, pinning CPU/GPU resources properly, and using gRPC for lower latency compared to HTTP. I also profile performance using Triton’s built-in metrics.”
+
+---
 
 ### Explain dynamic batching in Triton.
+  
+“Dynamic batching lets Triton combine multiple incoming requests into a single larger batch automatically. This maximizes GPU utilization and reduces per-request overhead, dramatically increasing throughput while keeping latency within the configured limits. It’s one of Triton’s biggest performance advantages.”
+
+---
+
+### How to expose a scalable inference API with FastAPI?
+
+“I use FastAPI as a lightweight gateway: async endpoints, connection pooling, and a router that forwards requests to Triton via gRPC. Behind FastAPI, I run multiple worker processes (e.g., with Uvicorn/Gunicorn) in Docker so the API scales horizontally. Triton handles the heavy inference, while FastAPI provides routing, preprocessing, and load balancing.”
 
 ### How do you handle model A/B testing and canary deployments for ML models?  
 
@@ -520,13 +534,22 @@ How I  would use it with Triton:
 - Logs v1 vs v2 outputs to MLflow or a database
 This works extremely well in **high-precision imaging systems** like LPKF’s microscopy workflow.
 
-### How to expose a scalable inference API with FastAPI + Kubernetes?  
 
-### What metrics do you log to monitor model inference performance?
+
     
 ## Leadership Questions
+### Give an example of standardizing engineering workflow across teams.
 
-### Give an example of standardizing engineering workflow across teams.  
-### How do you communicate ML system limitations to non-technical stakeholders?  
+“At Telekom Malaysia, I standardized the backend engineering workflow across multiple teams by introducing consistent API guidelines, automated testing, shared CI/CD pipelines, and centralized logging. This reduced duplicate work, improved code quality, and cut operational effort by nearly 50%. The same practices helped align cross-functional teams and made onboarding faster.”
+
+---
+
+### How do you communicate ML system limitations to non-technical stakeholders?
+
+“I explain limitations using clear, business-focused language — not technical jargon. For example, instead of talking about model drift or overfitting, I describe how accuracy can change when the real-world data shifts. I use simple visuals, examples, and concrete scenarios so stakeholders understand the impact on the product and the decisions we need to make. My goal is to align expectations and ensure everyone understands both capabilities and risks.”
+
+---
+
 ### How do you mentor junior engineers or contributors?
-    
+
+“I mentor by pairing with junior engineers on real tasks, reviewing their code with constructive feedback, and breaking down complex concepts into simple explanations. I also guide them toward best practices — like reproducible ML pipelines, clean code, and proper version control. I prefer a supportive, hands-on approach that helps them grow confidence and autonomy while learning industry standards.”

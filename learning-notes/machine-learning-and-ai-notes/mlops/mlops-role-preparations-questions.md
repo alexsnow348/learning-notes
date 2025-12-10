@@ -79,7 +79,7 @@ I hold a Master’s in Data Analytics, specialize in MLOps and LLMOps, and build
                           │    Git Repository   │
                           └──────────┬──────────┘
                                      │
-                                     │ triggers CI
+                                     │ triggers CI (Azure Agent Pool)
 ──────────────────────────────────────────────────────────────────────
                           TRAINING & VERSIONING LAYER
 ──────────────────────────────────────────────────────────────────────
@@ -153,7 +153,7 @@ I hold a Master’s in Data Analytics, specialize in MLOps and LLMOps, and build
                                       │ dvc pull/push
                            ┌──────────▼────────────┐
                            │   DVC Remote Storage   │
-                           │ (NAS/MinIO/Blob)       │
+                           │ (NAS/MinIO/AzureBlob   │
                            └──────────┬────────────┘
                                       │
                        ┌──────────────▼──────────────┐
@@ -175,7 +175,7 @@ I hold a Master’s in Data Analytics, specialize in MLOps and LLMOps, and build
 ```pgsql
                   ┌────────────────────────────────────────┐
                   │              Proxmox Node              │
-                  │ GPU Passthrough Enabled (NVIDIA GPUs)  │
+                  │ GPU Passthrough Enabled (NVIDIA vGPUs)  │
                   └───────────────────┬────────────────────┘
                                       │
                    ┌──────────────────▼───────────────────┐
@@ -233,12 +233,12 @@ Client Requests
 
 1. **Data Layer**
 	- Raw images and videos stored in a structured directory or object storage.  
-	- DVC handles versioning and tracks metadata.  
+	- DVC handles versioning and tracks metadata. Or Using other equivalence versioning tools 
 	- Dataset processing pipelines defined in `dvc.yaml` for reproducibility.  
 
 2. **Experimentation & Training**    
 	- Training jobs run on GPU machines inside Docker containers—fully reproducible environments.  
-	- Model artifacts are automatically registered into the MLflow Model Registry.  
+	- Model artifacts are automatically registered into the MLflow Model Registry along with development tag.  
 
 3. **Model Packaging & Serving**
 	- Models exported into Triton-compatible formats (ONNX, TorchScript, TensorRT). 
@@ -252,7 +252,9 @@ Client Requests
 5. **Monitoring & Observability**
 	- MLflow for performance metrics.  
 	- Triton’s Prometheus endpoint for GPU utilization, latency, and throughput.  
-	- Application logs handled via ELK or a OpenSearch stack.  
+	- Application logs handled via ELK or a OpenSearch stack- data prepper, jaeger, Prometheus.  
+	
+![[Pasted image 20251210113437.png]] 
 
 This is very similar to the infrastructure I built at LPKF, where we had to handle high-resolution microscopy images and video data on-prem with Docker and GPU acceleration.”
 
@@ -309,10 +311,10 @@ This reflects exactly how I structure systems in real projects.
 
 ### How do you architect reproducible ML pipelines?
 
-“Reproducibility requires controlling three things: data, code, and environment.
+“Reproducibility requires controlling three things: **data, code, and environment.**
 Here’s how I approach it:
 - **Data**: I version datasets with DVC, including checksums and lineage.  
-- **Code**: Git for source control, modular ML code structure, semantic versioning.  
+- **Code**: Git for source control, modular ML code structure, **semantic** versioning.  
 - **Environment**: Training and inference run in the same Docker images, pinned with specific CUDA, PyTorch, and library versions.  
 - **Experiments**: MLflow logs all hyperparameters, metrics, and artifacts so any run can be recreated.  
 - **Pipelines**: DVC pipelines define deterministic steps from raw data → features → model.  
@@ -322,11 +324,11 @@ This way, any model can be reproduced months later, even in a new environment.
 
 “For large image and video data, the key is to optimize storage, I/O, and preprocessing:
 
-- Chunking and indexing large video files for faster access  
+- **Chunking and indexing** large video files for faster access  
 - Using parallel preprocessing in Docker containers  
-- Storing preprocessed intermediate datasets versioned in DVC  
-- Using efficient data formats like WebP/PNG for images and H.265/MJPEG for videos  
-- Ensuring zero-copy GPU pipelines when possible  
+- Storing **preprocessed** intermediate datasets versioned in DVC  
+- Using **efficient data formats** like WebP/PNG for images and H.265/MJPEG for videos  
+- Ensuring **zero-copy** GPU pipelines when possible  
 - Using Triton preprocessors or custom CUDA kernels for speed  
 
 At LPKF, the data volume was extremely high because of microscopy resolution. Efficient preprocessing and DVC-based dataset organization made a massive difference.
@@ -336,7 +338,7 @@ At LPKF, the data volume was extremely high because of microscopy resolution. Ef
 Even without Kubernetes, you can scale efficiently using:
 
 - Multiple Triton instances defined in Docker Compose  
-- Load-balanced FastAPI gateway routing requests using Nginx
+- Nginx load balancer routing requests to multiple FastAPI instances.
 - Triton dynamic batching to boost GPU throughput  
 - TensorRT-optimized model formats  
 - Running Triton containers on different GPU devices with --gpus device=X  
@@ -347,6 +349,7 @@ This allowed us to achieve high throughput for CV inference workloads without th
 ### How would you design a model registry and promotion workflow?
 
 I implement a 3-stage promotion process using MLflow:
+
 1. **Development Stage**  
 	- Newly trained models  
 	- Verified only via offline metrics  
@@ -355,7 +358,7 @@ I implement a 3-stage promotion process using MLflow:
 	- Tested with validation datasets  
 	- Load-tested in staging Triton instance  
 	- API-level smoke tests  
-	- Partial rollout in Docker Compose environment  
+	- Partial rollout in Docker Compose environment  using canary approach 
 	
 3. **Production Stage**  
 	- Manually approved  
@@ -363,6 +366,22 @@ I implement a 3-stage promotion process using MLflow:
 	- Old versions retained for rollback  
 Model lineage is tracked via MLflow + DVC so we always know which data + code produced each version.
 
+```bash
+Model Lineage
+Model v3.2 was trained using Dataset A (v5.1), with code from Git commit 8ac3, using learning rate 0.001, and deployed to production on Jan 10.
+```
+```bash
+Data Lineage
+Customer data flows from PostgreSQL → ETL pipeline → cleansed “Customers_gold” table → used by features table → consumed by Model v3.
+
+Data Drift
+Over months, a security camera lens accumulates:
+- dust
+- water spots
+- scratches
+Result:  
+Images have blur or artifacts → image statistics drift → detection confidence drops.
+```
 ### What is your approach to monitoring ML systems in production?
 
 I monitor both system-level and model-level metrics:
@@ -370,13 +389,19 @@ I monitor both system-level and model-level metrics:
 1. **System monitoring (from Triton):**
 	- GPU utilization  
 	- Memory usage  
-	- QPS and latency  
+	- Queries Per Second (QPS)  and P50, P90, P95, P99 latency  
 	- Dynamic batching efficiency  
 	- Request error rates  
+		```bash
+			- QPS = how many
+			- Latency = how fast
+			High QPS + low latency = great performance  
+			High QPS + high latency = overloaded system
+		```
       
 2. **Model monitoring (from MLflow + custom API logs):**
 	- Drift (input distribution vs training distribution)  
-	- Confidence scores  
+	- **Confidence scores**  
 	- Accuracy or proxy business metrics  
 	- Failed inference cases  
 	- Data quality anomalies  
@@ -403,8 +428,8 @@ Once these foundations are stable, adding feature stores, scheduling, and advanc
 The main challenges were:
 - Handling extremely large microscopy images efficiently  
 - Setting up a reproducible system without any existing ML infrastructure  
-- Ensuring GPU inference worked reliably in a non-cloud, on-prem Proxmox cluster  
-- Standardizing the workflow across multiple research teams  
+- Setting up different GPU drivers and CUDA toolkit in different VM, standalone or VM Sphere 
+- Ensuring GPU inference worked reliably in on-prem Proxmox cluster  and Azure Cloud
 - Getting DVC, MLflow, Triton, and FastAPI to work together cleanly via Docker Compose      
 Through systematic iteration, documentation, and modular design, we built a stable production pipeline.
 
@@ -416,7 +441,7 @@ Through systematic iteration, documentation, and modular design, we built a stab
 
 ### Why use Triton instead of a custom FastAPI inference server?
 
-“Triton provides GPU-optimized, production-ready model serving out of the box. It supports dynamic batching, concurrent execution, multi-model serving, optimized backends like TensorRT, and built-in metrics — all of which are difficult and time-consuming to implement manually with FastAPI. FastAPI is great as a gateway, but Triton is far more efficient for heavy ML inference.”
+“Triton provides GPU-optimized, production-ready model serving out of the box. It supports dynamic batching, concurrent execution, multi-model serving, optimized backends like TensorRT, and built-in metrics — all of which are difficult and time-consuming to implement manually with FastAPI. FastAPI is great as pre-processer since it is Python based, but Triton is far more efficient for heavy ML inference.”
 
 ---
 
@@ -434,7 +459,7 @@ Through systematic iteration, documentation, and modular design, we built a stab
 
 ### How to expose a scalable inference API with FastAPI?
 
-“I use FastAPI as a lightweight gateway: async endpoints, connection pooling, and a router that forwards requests to Triton via gRPC. Behind FastAPI, I run multiple worker processes (e.g., with Uvicorn/Gunicorn) in Docker so the API scales horizontally. Triton handles the heavy inference, while FastAPI provides routing, preprocessing, and load balancing.”
+“I use FastAPI together with Nginx as a lightweight API gateway: async endpoints, connection pooling, and a router that forwards requests to Triton via HTTPS. Behind FastAPI, I run multiple worker processes (e.g., with Uvicorn/Gunicorn) in Docker so the API scales horizontally. Triton handles the heavy inference, while FastAPI + Nginx provides routing, preprocessing, and load balancing.”
 
 ### How do you handle model A/B testing and canary deployments for ML models?  
 
@@ -501,7 +526,7 @@ Cons:
 	
 How I would use it with Triton: (Ngnix)
 - Run both v1 and v2 on Triton (multi-model repository)
-- In FastAPI, randomly route X% of requests to v2
+- In Nginx and FastAPI, randomly route X% of requests to v2
 - Log outcomes for comparison
 - Increase percentage over time
 This aligns well with your **FastAPI Gateway → Triton** serving architecture.
@@ -533,16 +558,13 @@ How I  would use it with Triton:
 - FastAPI receives incoming request
 - Sends one request to Triton v1 (response to user)
 - Sends a duplicate to Triton v2
-- Logs v1 vs v2 outputs to MLflow or a database
+- Logs v1 vs v2 outputs to OpenSearch Stack  a database
 This works extremely well in **high-precision imaging systems** like LPKF’s microscopy workflow.
 
-
-
-    
 ## Leadership Questions
 ### Give an example of standardizing engineering workflow across teams.
 
-“At Telekom Malaysia, I standardized the backend engineering workflow across multiple teams by introducing consistent API guidelines, automated testing, shared CI/CD pipelines, and centralized logging. This reduced duplicate work, improved code quality, and cut operational effort by nearly 50%. The same practices helped align cross-functional teams and made onboarding faster.”
+“At Telekom Malaysia, I standardized the backend engineering workflow across multiple teams by introducing consistent API guidelines, automated testing, shared CI/CD pipelines, and centralized logging with ELK stack. This reduced duplicate work, improved code quality. The same practices helped align cross-functional teams and made onboarding faster.”
 
 ---
 

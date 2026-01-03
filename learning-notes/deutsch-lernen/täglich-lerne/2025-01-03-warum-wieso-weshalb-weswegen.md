@@ -9,3 +9,6 @@
 - Für mich ist . . wichtig, weil/denn
 - Am allerwichtigsten ist …
 - Deshalb/Deswegen/Darum/Daher.
+- wer wiess 
+- Den kann ich gebrauchen - ငါတကယ်လိုအပ်တယ်။ 
+- hervorragend - excellent 

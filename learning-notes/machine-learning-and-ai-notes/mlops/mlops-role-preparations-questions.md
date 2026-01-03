@@ -36,6 +36,9 @@
 	- [[#Leadership Questions#How do you communicate ML system limitations to non-technical stakeholders?|How do you communicate ML system limitations to non-technical stakeholders?]]
 	- [[#Leadership Questions#How do you mentor junior engineers or contributors?|How do you mentor junior engineers or contributors?]]
 - [[#Documents|Documents]]
+	- [[#Documents#KPIs for Machine Learning Life Cycle|KPIs for Machine Learning Life Cycle]]
+	- [[#Documents#Terraform for infrastructure as code|Terraform for infrastructure as code]]
+
 
 ## Tell me About Yourself
 
@@ -578,9 +581,176 @@ This works extremely well in **high-precision imaging systems** like LPKF’s mi
 
 “I mentor by pairing with junior engineers on real tasks, reviewing their code with constructive feedback, and breaking down complex concepts into simple explanations. I also guide them toward best practices — like reproducible ML pipelines, clean code, and proper version control. I prefer a supportive, hands-on approach that helps them grow confidence and autonomy while learning industry standards.”
 
-
 ## Documents
 
 ![[what-is-mlops.pdf]]
 
 ![[mlflow.pdf]]
+
+### KPIs for Machine Learning Life Cycle
+
+For this responsibility, I focus on three types of KPIs.  
+First are **dataset quality KPIs**, such as data completeness, label accuracy, consistency, and bias or coverage across classes, to ensure the data is reliable for training.  
+Second are **model performance KPIs**, like accuracy, precision, recall, F1-score, or error metrics such as MAE or RMSE, depending on whether the task is classification or regression.  
+Third are **model robustness and operational KPIs**, including validation–training performance gaps, model stability across data segments, inference latency, and monitoring for data or model drift.  
+Together, these KPIs ensure both high-quality data and models that perform reliably in production.
+
+“The exact KPIs depend on the business goal—for example, prioritizing recall in fraud detection or precision in recommendation systems.”
+
+```pgsql
+┌────────────────────┐
+│ Business Objective │
+│ (Define Success)   │
+└─────────┬──────────┘
+          │
+          ▼
+┌────────────────────┐
+│ KPI Definition     │
+│ • Business KPIs    │
+│ • ML KPIs          │
+│ (e.g. Recall vs    │
+│  Precision)        │
+└─────────┬──────────┘
+          │
+          ▼
+┌────────────────────┐
+│ Data Collection    │
+│ & Curation         │
+│ KPIs:              │
+│ • Completeness     │
+│ • Accuracy         │
+│ • Bias / Coverage  │
+└─────────┬──────────┘
+          │
+          ▼
+┌────────────────────┐
+│ Feature Engineering│
+│ KPIs:              │
+│ • Feature Stability│
+│ • Leakage Checks   │
+└─────────┬──────────┘
+          │
+          ▼
+┌────────────────────┐
+│ Model Training     │
+│ KPIs:              │
+│ • Accuracy / F1    │
+│ • Recall / Precision
+│ • MAE / RMSE       │
+└─────────┬──────────┘
+          │
+          ▼
+┌────────────────────┐
+│ Model Validation   │
+│ KPIs:              │
+│ • Train–Val Gap    │
+│ • ROC-AUC          │
+│ • Slice Performance│
+└─────────┬──────────┘
+          │
+          ▼
+┌────────────────────┐
+│ Deployment         │
+│ KPIs:              │
+│ • Latency          │
+│ • Throughput       │
+│ • Resource Usage   │
+└─────────┬──────────┘
+          │
+          ▼
+┌────────────────────┐
+│ Monitoring         │
+│ KPIs:              │
+│ • Model Drift      │
+│ • Data Drift       │
+│ • Business Impact  │
+└─────────┬──────────┘
+          │
+          ▼
+┌────────────────────┐
+│ Feedback & Retrain │
+│ KPI Review &       │
+│ Optimization       │
+└────────────────────┘
+```
+### Terraform for infrastructure as code
+
+Terraform is used in the MLOps lifecycle to provision, version, and manage all infrastructure required for data pipelines, model training, deployment, and monitoring in a repeatable and automated way.
+
+“I use Terraform to ensure that the same infrastructure is reproducible across environments, reducing configuration drift.”
+
+```pgsql
+Code (Terraform)
+      ↓
+Version Control (Git)
+      ↓
+CI/CD Pipeline
+      ↓
+Cloud Infrastructure
+      ↓
+Data → Train → Deploy → Monitor
+```
+
+Long Version
+
+```pgsql
+┌────────────────────────────┐
+│   Source Control (Git)     │
+│  Terraform Code (.tf)      │
+└─────────────┬──────────────┘
+              │
+              ▼
+┌────────────────────────────┐
+│   CI / CD Pipeline         │
+│  terraform plan / apply   │
+└─────────────┬──────────────┘
+              │
+              ▼
+┌──────────────────────────────────────────────────┐
+│          MLOps Lifecycle (Infrastructure)         │
+│                                                  │
+│  ┌────────────────────────────────────────────┐ │
+│  │ 1. Data Ingestion & Storage                 │ │
+│  │  - Object Storage (S3/GCS)                  │ │
+│  │  - Databases / Data Lakes                   │ │
+│  │  - IAM & Networking                         │ │
+│  └────────────────────────────────────────────┘ │
+│                                                  │
+│  ┌────────────────────────────────────────────┐ │
+│  │ 2. Feature Engineering & Pipelines          │ │
+│  │  - Compute Instances                        │ │
+│  │  - Workflow Orchestration Infra             │ │
+│  │  - Autoscaling                              │ │
+│  └────────────────────────────────────────────┘ │
+│                                                  │
+│  ┌────────────────────────────────────────────┐ │
+│  │ 3. Model Training                           │ │
+│  │  - CPU / GPU Clusters                       │ │
+│  │  - Experiment Tracking Infra (MLflow)       │ │
+│  │  - Ephemeral Training Environments          │ │
+│  └────────────────────────────────────────────┘ │
+│                                                  │
+│  ┌────────────────────────────────────────────┐ │
+│  │ 4. Model Deployment                         │ │
+│  │  - Kubernetes Cluster                       │ │
+│  │  - Load Balancers                           │ │
+│  │  - Model Serving Endpoints                  │ │
+│  └────────────────────────────────────────────┘ │
+│                                                  │
+│  ┌────────────────────────────────────────────┐ │
+│  │ 5. Monitoring & Observability               │ │
+│  │  - Logging Infrastructure                   │ │
+│  │  - Metrics & Alerts                         │ │
+│  │  - Drift Monitoring Infra                   │ │
+│  └────────────────────────────────────────────┘ │
+│                                                  │
+│  ┌────────────────────────────────────────────┐ │
+│  │ 6. Security & Governance                    │ │
+│  │  - IAM Roles & Policies                     │ │
+│  │  - Network Isolation                        │ │
+│  │  - Compliance Controls                     │ │
+│  └────────────────────────────────────────────┘ │
+└──────────────────────────────────────────────────┘
+```
+
+“Terraform defines _where and how_ ML runs, Databricks defines _how data and models are built_.”

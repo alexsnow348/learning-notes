@@ -3,7 +3,7 @@
 - ausgebaut - တိုချက်တည်ဆောက်လိုက်တာမျိုး
 - mehrfach - အကြိမ်ကြိမ်
 - leise - တိုးတိုးလေ ပြောတာ 
-- Wa s meinen Sie mit .?
+- Was meinen Sie mit .?
 - Das Wort habe ich nicht verstanden.
 - Entschuldigung, habe ich das richtig verstanden?
 - Und was bedeutet...?
@@ -21,8 +21,12 @@
 - (Das ist) Unsinn!
 - Aber jetzt habe ich gelesen, dass das gar nicht stimmt.
 - Was, das stimmt gar nicht?
-- 
+- versuchen - experiments 
+
+
+
 ![[Pasted image 20260104153245.png]]
+![[Pasted image 20260104153410.png]]
 
 
 ![[Pasted image 20260104153124.png]]

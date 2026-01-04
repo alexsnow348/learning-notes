@@ -22,6 +22,8 @@
 - Aber jetzt habe ich gelesen, dass das gar nicht stimmt.
 - Was, das stimmt gar nicht?
 - versuchen - experiments 
+- Deutsch ist für mich ... 
+- Meine Muttersprache ist für mich
 
 
 

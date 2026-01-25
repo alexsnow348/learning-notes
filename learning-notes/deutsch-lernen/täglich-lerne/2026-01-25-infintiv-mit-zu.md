@@ -14,3 +14,6 @@
 - Es fällt mir schwer, ohne Arbeit zu Hause rumzusitzen.
 - Es fällt mir schwer, nein zu sagen.
 - Stärke/ Schwäche - Strength/Weakness
+![[Pasted image 20260125163539.png]]
+- Ich kann mir nicht vorstellen, nachts zu arbeiten. -I can't imagine working at night. 
+-  Fang endlich an, Bewerbungen zu schreiben! - Get started on those applications!

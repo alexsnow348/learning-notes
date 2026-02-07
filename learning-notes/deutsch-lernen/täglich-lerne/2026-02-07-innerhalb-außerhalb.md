@@ -7,3 +7,6 @@ Leider rufen Sie außerhalb unser**er** Öffnungszeiten an. Wir werden uns inner
 Es fällt mir leicht,.. - ငါအတွက် အရမ်းလွယ်တယ်။
 
 - deshalb  - therefore - ဒါကြောင့်
+- beurteilen
+- verurteilen
+- vorurteilen

@@ -14,3 +14,11 @@ Es fällt mir leicht,.. - ငါအတွက် အရမ်းလွယ်တ�
 - Wie weißt bis du? / Wie viel weißt du darüber? - how much do you know?
 - Es ist Zeit, endlich aufzuwachen. - It's time to finally wake up.
 - Ich habe genug davon. - ငါအရမ်းစိတ်ပျက်နေပြီ။
+- Zwischendurch mal  - in between
+- inzwischen - in the meantime
+- fast - almost
+- zu merken - to note
+- zu jammern - to complain
+- zu nerven - to annoy
+- Herkunft - origin
+- Firmengründers - company founder

@@ -1,4 +1,0 @@
-- dauernd  - constantly - အမြဲတမ်း
-- anprobieren - အစမ်းလုပ်ကြည့်တာ - try on
-- auszuprobieren - to try out
-- mitzuarbeiten - collaborate

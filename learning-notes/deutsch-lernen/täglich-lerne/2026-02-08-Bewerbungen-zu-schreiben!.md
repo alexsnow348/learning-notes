@@ -1,0 +1,9 @@
+- dauernd  - constantly - အမြဲတမ်း
+- anprobieren - အစမ်းလုပ်ကြည့်တာ - try on
+- auszuprobieren - to try out
+- mitzuarbeiten - collaborate
+- auszuschalten - switch off
+- Ich habe Angst, nachts allein zu sein. - *I'm afraid of being alone at night.*
+- Ich habe leider keine Zeit, Ihnen den Weg zu erklären. - *Unfortunately, I don't have time to explain the way to you.*
+- würde ... gern - Ich würde gern im Ausland arbeiten.
+- Sie ergriff die Chance und begann ein neues Leben. -    *She seized the opportunity and started a new life.* - ဖမ်းဆုပ်လိုက်တာ။

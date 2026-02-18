@@ -7,4 +7,5 @@
 - I just want to do what I believe + what I want to do, and what I must do to get what I want—something that is natural—and something that exists in us all.
 - The more I mixed with people the more I felt my loneliness,
 - But art has a way that is beyond the words that we could write about. It’s a different way of entry for looking at the world. [https://www.moma.org/magazine/articles/997](https://www.moma.org/magazine/articles/997)
-- Everybody fundamentally wants to be loved…to feel like they belong. The first thing we can do is to stay connected and be aware that social connections are what matter the most in life. https://www.moma.org/magazine/articles/1184
+- Everybody fundamentally wants to be loved…to feel like they belong. https://www.moma.org/magazine/articles/1184
+- https://www.bbc.co.uk/programmes/m0009bf6/episodes/player

@@ -5,3 +5,12 @@
 - Bescheid - decision 
 - Vorstellungsgespräch - job interview
 - verhandeln (VB) - negotiate/bargaining
+- Sie haben es fast geschafft. - You're almost there.
+- verlangen - demand (The Expectation) - Ich verlange eine Entschuldigung.
+- fordern - demand (The Active Demand) - Die Gewerkschaft fordert mehr Gehalt.
+- die Grundlage - basis
+- begründen - justify -အကြောင်းပြချက်ပေးပါ
+- punkten - score points 
+- ablehnen - reject
+- Fortbildung - further training
+- anzusprechen - to address

@@ -14,3 +14,5 @@
 - ablehnen - reject
 - Fortbildung - further training
 - anzusprechen - to address
+- Einerseits - On the one hand
+- Gedächtnis - memory

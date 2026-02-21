@@ -1,0 +1,7 @@
+- Verantwortung - responsibility
+- Aushilfe - temporary worker
+- zuständig - responsible
+- während - during
+- Bescheid - decision 
+- Vorstellungsgespräch - job interview
+- verhandeln (VB) - negotiate/bargaining

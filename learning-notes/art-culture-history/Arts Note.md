@@ -15,3 +15,6 @@
 - The photograph's claim of artistic distinction relied solely upon the clarity, intelligence, and originality of the photographer's perception.
 - Painting and Sculpture, Drawings, Prints and Illustrated Books, Architecture and Design, Film and Video, and Photography
 - https://ali-design.github.io/deepcreativity/  - ML/AI - Art Creativity
+- https://profile.benoitseguin.net/
+- https://ukiyo-e.org/ - Japanese Woodblock Print Search
+- https://www.artnome.com/art-analytics

@@ -14,4 +14,4 @@
 - Does the picture really exist locked away in a dark box? I think not. Better to look at it, enjoy it and let it wear out like everything else in the world.
 - The photograph's claim of artistic distinction relied solely upon the clarity, intelligence, and originality of the photographer's perception.
 - Painting and Sculpture, Drawings, Prints and Illustrated Books, Architecture and Design, Film and Video, and Photography
-- https://ali-design.github.io/deepcreativity/ 
+- https://ali-design.github.io/deepcreativity/  - ML/AI - Art Creativity

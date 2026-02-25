@@ -18,7 +18,7 @@ Economic and market movements are like perpetual motion machine of the interacti
 
 ## Reserve Currency Status
 
-- How they gain/lose their reserve currency status - Dut
+- How they gain/lose their reserve currency status - Dutch 
 	- innovation + tech + competition
 	- 
 

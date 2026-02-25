@@ -14,5 +14,11 @@
 
 - Monetary Policy - brakes/gas put on - tight/lose
 - Fiscal Policy 
-Economic and market movements are like perpetual motion machine of the interactions of these
+Economic and market movements are like perpetual motion machine of the interactions of these.
+
+## Reserve Currency Status
+
+- How they gain/lose their reserve currency status - Dut
+	- innovation + tech + competition
+	- 
 

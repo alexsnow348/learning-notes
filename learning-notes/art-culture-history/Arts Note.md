@@ -8,4 +8,9 @@
 - The more I mixed with people the more I felt my loneliness,
 - But art has a way that is beyond the words that we could write about. It’s a different way of entry for looking at the world. [https://www.moma.org/magazine/articles/997](https://www.moma.org/magazine/articles/997)
 - Everybody fundamentally wants to be loved…to feel like they belong. https://www.moma.org/magazine/articles/1184
-- https://www.bbc.co.uk/programmes/m0009bf6/episodes/player
+- The more I mixed with people the more I felt my loneliness,
+- But art has a way that is beyond the words that we could write about. It’s a different way of entry for looking at the world. [https://www.moma.org/magazine/articles/997](https://www.moma.org/magazine/articles/997) 
+- The way I see is Podcast - [https://www.bbc.co.uk/programmes/m0009bf6](https://www.bbc.co.uk/programmes/m0009bf6)
+- Does the picture really exist locked away in a dark box? I think not. Better to look at it, enjoy it and let it wear out like everything else in the world.
+- The photograph's claim of artistic distinction relied solely upon the clarity, intelligence, and originality of the photographer's perception.
+- Painting and Sculpture, Drawings, Prints and Illustrated Books, Architecture and Design, Film and Video, and Photography

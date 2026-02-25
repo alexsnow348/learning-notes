@@ -26,10 +26,11 @@ Economic and market movements are like perpetual motion machine of the interacti
 - Who and how much gonna spend and what are the motivation of the spenders
 - Assets are priced lo discount future expectations, so when inflation, growth, risk premiums  and discount rates change, assets prices change
 - ﻿﻿Every investment is a return stream
-- ﻿﻿Diversification can reduce risk more than it reduces returns so it improves return-to-risk ratio
-- ﻿﻿Return streams can be either betas or alphas
+- ﻿﻿Diversification can reduce risk more than it reduces returns so it improves return-to-risk ratio - Knowing how to deal with our not knowing more that anything we know because what you don't know is a lot and if and you can reduce your risk by a lot more than you could reduce your return by knowing how to diversify well
+- ﻿﻿Return streams can be either betas or alphas 
+	- betas - there are intrinsic reasons that asset class will behave in a certain way that you will know 
+	- alphas - zero sum game 
 - ﻿﻿The key to good investing is to create good portfolios of good return streams
 - ﻿﻿Return streams can be risk adjusted to be risk balanced
 - ﻿﻿The holy grail of investing is finding 15 or more good uncorrelated return streams
 - ﻿﻿Systemise decision making, rules should be timeless and universal
-- Knowing how to deal with our not knowing more that anything we know

@@ -23,12 +23,13 @@ Economic and market movements are like perpetual motion machine of the interacti
 ## Investment Principles
 
 - The theoretical value equals the present value of the future cash flow - every investment is a lump sum payment for a future cash flow
-- how much it is gonna spend and what are the motivation of the spenders
-- Assets are priced lo discount future expectations, so when inflation, growth, risk premia and discount rates change, assets prices change
+- Who and how much gonna spend and what are the motivation of the spenders
+- Assets are priced lo discount future expectations, so when inflation, growth, risk premiums  and discount rates change, assets prices change
 - ﻿﻿Every investment is a return stream
-- ﻿﻿Diversification can reduce risk more than il reduces returns so it improves relurn-to-risk ratio
+- ﻿﻿Diversification can reduce risk more than it reduces returns so it improves return-to-risk ratio
 - ﻿﻿Return streams can be either betas or alphas
 - ﻿﻿The key to good investing is to create good portfolios of good return streams
 - ﻿﻿Return streams can be risk adjusted to be risk balanced
 - ﻿﻿The holy grail of investing is finding 15 or more good uncorrelated return streams
-- ﻿﻿Systemise decision making, rules should be limetess and universal
+- ﻿﻿Systemise decision making, rules should be timeless and universal
+- Knowing how to deal with our not knowing more that anything we know

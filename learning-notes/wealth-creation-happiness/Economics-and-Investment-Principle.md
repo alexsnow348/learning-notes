@@ -18,7 +18,10 @@ Economic and market movements are like perpetual motion machine of the interacti
 
 ## Reserve Currency Status
 
-- How they gain/lose their reserve currency status - Dutch 
+- How they gain/lose their reserve currency status - Dutch, UK, US, China 
 	- innovation + tech + competition
-	- 
+## Investment Principles
+
+- The theoretical value equals the present value of the future cash flow - every investment is a lump sum payment for a future cash flow
+- how much it is gonna spend and w
 

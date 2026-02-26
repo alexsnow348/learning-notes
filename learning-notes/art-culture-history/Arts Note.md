@@ -18,3 +18,5 @@
 - https://profile.benoitseguin.net/
 - https://ukiyo-e.org/ - Japanese Woodblock Print Search
 - https://www.artnome.com/art-analytics
+- [American Fine Art – Issue 86](https://freemagazines.top/american-fine-art-issue-86-march-april-2026)
+- https://www.americanfineartmagazine.com/

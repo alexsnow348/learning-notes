@@ -20,4 +20,5 @@
 - Ist es möglich,…? - Is it possible to...? 
 - Wie wär's mit ...? - How about...?
 - Vielen Dank für Ihre Mühe. - Thank you very much for your efforts.
-- Ich gebe meine Mühe.
+- Ich gebe meine Mühe. - I will try my best.
+- Drogerie - drugstore

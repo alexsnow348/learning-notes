@@ -27,4 +27,15 @@
 ![[Pasted image 20260301183053.png]]
 
 - Es wäre schön,  ( It would be nice,)
-- Mein Traum wäre,..
+- Mein Traum wäre,.. (My dream would be...)
+- Sie wünschen? | Haben Sie einen (bestimmten) Wunsch?
+- Darf ich Ihnen... anbieten/empfehlen?
+- Wie wär's mit ...?
+- Kann ich sonst noch etwas für Sie tun?
+- Zahlen Sie bar oder mit EC-Karte/Kreditkarte?
+- Ich hätte gern ....
+- Dürfte ich Sie etwas fragen? | Ist es möglich, ...?
+- Ich kann mich noch nicht entscheiden. | Das muss ich mir noch überlegen.
+- Das ist mir zu teuer. | Es kommt darauf an, was es kostet.
+- Kann ich auch mit EC-Karte / Kreditkarte bezahlen?
+- Vielen Dank für Ihre Mühe/Hilfe.

@@ -25,3 +25,6 @@
 - Es lohnt sich. - it is worth it. 
 - Wozu braucht man das? - Why do you need that?
 ![[Pasted image 20260301183053.png]]
+
+- Es wäre schön,  ( It would be nice,)
+- Mein Traum wäre,..

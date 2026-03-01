@@ -3,8 +3,8 @@
 - Man kann nichts Neues lernen, ohne Fehler zu machen. - You can't learn anything new without making mistakes. - အမှားမလုပ်ပဲ ဘာမှ မတတ်လာဘူး။
 
 ![[Pasted image 20260301173130.png]]
-- Leon will als Erster bei dem Laden sein, um dort Schuhe für einen Kunden zu kaufen. ()
-- Leon kauft diese Schuhe, damit sein Kunde ausschlafen kann. ()
+- Leon will als Erster bei dem Laden sein, um dort Schuhe für einen Kunden zu kaufen. (Leon wants to be the first one at the shop to buy shoes for a customer.)
+- Leon kauft diese Schuhe, damit sein Kunde ausschlafen kann. (Leon buys these shoes so that his customer can sleep in.)
 
 - Die ist mir zu extravagant - That's too extravagant for me.
 - außergewöhnlich - exceptional
@@ -22,3 +22,6 @@
 - Vielen Dank für Ihre Mühe. - Thank you very much for your efforts.
 - Ich gebe meine Mühe. - I will try my best.
 - Drogerie - drugstore
+- Es lohnt sich. - it is worth it. 
+- Wozu braucht man das? - Why do you need that?
+![[Pasted image 20260301183053.png]]

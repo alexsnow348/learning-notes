@@ -12,4 +12,12 @@
 - übertrieben - exaggerated - အပိုချဲကာပြောတာ
 - Vorurteilen - prejudices - တစ်ဖတ်သက်အတွေးအမြင်
 - beurteilen - assess
-- Das muss ich mir noch überlegen.
+- Das muss ich mir noch überlegen. - I still need to think about that.
+- Dürfte ich Sie etwas fragen? - May I ask you something?
+- Es kommt darauf an, was es kostet. - It depends on what it costs.
+- Haben Sie einen (bestimmten) Wunsch?  - Do you have a (specific) request?
+- Ich kann mich noch nicht entscheiden. - I can't decide yet.
+- Ist es möglich,…? - Is it possible to...? 
+- Wie wär's mit ...? - How about...?
+- Vielen Dank für Ihre Mühe. - Thank you very much for your efforts.
+- Ich gebe meine Mühe.

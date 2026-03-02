@@ -5,7 +5,7 @@ What you’ll end up with
 • Optional Dockerized setup for consistent environments.
 • Secure handling: whitelisting tasks, optional sandboxing, token management via OpenClaw config/secrets.
 
-High-level architecture
+### High-level architecture
 
 • OpenClaw skill (coding-agent) acts as the UI/entry point.
 • Under the hood, it invokes a Python “coding runner” (agent.py) which:
@@ -16,8 +16,9 @@ High-level architecture
 • Optional: a small REST API (Flask/FastAPI) exposed by the runner for remote triggers; the skill can call it via HTTP.
 
   ![[Pasted image 20260302152214.png]]
+![[Pasted image 20260302153441.png]]
 
-What I’d propose you implement (minimum viable)
+### Proposed MVP
 1. Create an OpenClaw skill named coding-agent
 	• Location: /Users/alexsnow/.openclaw/workspace/skills/coding-agent (or wherever your CLAW skills live)
 	• SKILL.md: describes how to use the skill and what it does
@@ -156,44 +157,7 @@ if name == "__main__":
 • GitHub/GitLab tokens can live in environment variables or a simple secrets file mounted by OpenClaw.
 • Support SSH keys as an alternative; you can configure SSH agent forwarding or use an SSH key stored on disk with the repo URL using SSH.
 
-
 7. Triggering and UX
-
 
 • CLI trigger via OpenClaw: python -m coding_agent --task lint --repo https://...
 • Or open a small HTTP API (POST /trigger) and call it from the chat via an HTTP request (OpenClaw can do that if you add a small HTTP client step in the skill).
-
-
-What I need from you to tailor this exactly
-
-  
-
-• Do you want the coding agent to live on a Raspberry Pi, your workstation, or both?
-
-• Preferred language for the runner: Python is simplest, but we can do Node.js or Go.
-
-• Git platforms: GitHub.com, GitLab.com, self-hosted, or a mix?
-
-• Auth method: PATs, SSH keys, or both? Any secret storage constraints?
-
-• How you want to trigger tasks: CLI in OpenClaw, REST API, or webhooks?
-
-• Any extra tasks in the pipeline (e.g., type-check, lint across multiple languages, deploy steps)?
-
-  
-
-If you want, I can generate a concrete starter package you can drop into your OpenClaw workspace:
-
-  
-
-• A minimal coding-agent OpenClaw skill (coding-agent/ with an SKILL.md)
-
-• A starter runner.py and a small CLI wrapper
-
-• An optional Dockerfile and docker-compose.yml
-
-• A sample GitHub/GitLab config snippet showing how tokens would be wired
-
-  
-
-Tell me your deployment details (Pi vs PC, Git platforms, auth method, and trigger mode), and I’ll produce the exact files and commands you can apply right away.

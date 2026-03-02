@@ -6,7 +6,7 @@
 
 ### **Week 1: The Job Search**
 
-- **Main Course:** [Nicos Weg B1](https://www.google.com/search?q=https://learngerman.dw.com/en/b1-course/c-36519789) - Units 1 to 4.
+- **Main Course:** [Nicos Weg B1](https://learngerman.dw.com/de/top-thema/s-55861562) - Units 1 to 4.
 - **Grammar:** Review _Dass-Sätze_ (Subordinate clauses starting with "that").
 - **Writing Task:** Draft a formal email asking for an internship (50-70 words).
 - **Vocabulary:** Focus on job titles and workplace equipment.
@@ -15,7 +15,7 @@
 - **Main Course:** Nicos Weg B1 - Units 5 to 8.
 - **Grammar:** Master _Weil-Sätze_ (Moving the verb to the end with "because").
 - **Writing Task:** Forum post: "Is a high salary more important than free time?" (80 words).
-- **Listening:** Watch [Logo! News](https://www.zdf.de/kinder/logo) twice this week.
+- **Listening:** Watch [Logo! News](https://www.zdf.de/kinder/logo) /[Goethe- Prüfung B1](https://youtube.com/playlist?list=PLLI7uRTZ_9iklsHkHO8ubLscy_SyTxxv-&si=DwfzBfdUc3ijQvWd) twice this week.
 
 ### **Week 3: Daily Life & Conflict**
 
@@ -49,7 +49,7 @@ _Use this for your Week 1 task. For academic/professional purposes, precision is
 ## 🛠️ Monthly Checklist
 
 - [ ] Complete 16 Units of **Nicos Weg B1**.
-- [ ] Add **200-300 new words** to Anki or Quizlet.
+- [ ] Add **200-300 new words** to  Quizlet.
 - [ ] Listen to 4 episodes of **[Nachrichten leicht](https://www.nachrichtenleicht.de/)**.
 - [ ] **Grammar Check:** Can I consistently put the verb at the end of a sentence after "weil"?
 
